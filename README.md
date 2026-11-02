@@ -45,3 +45,11 @@ The working mapping for assigned pages 63–97 is Part Two, chapters 1–3 (PDF 
 Route: `/subjects/psychology/2026-11-06-learning/`.
 
 Unit 4, Chapter 6, based on `public/psychology-learning-notes.pdf`. Includes interactive diagrams, eight classical-conditioning labeling scenarios, twelve operant-conditioning scenarios, mixed practice, and a browser-local readiness checklist. Summary content clarifies inconsistent source phrases about prediction error and context-dependent tolerance.
+
+## Expert Systems coding standards quiz · November 5
+
+Route: `/subjects/computer-science/2026-11-05-coding-standards/`.
+
+Based on the four-page 2026 course PDF in `public/jess-coding-standards-2026.pdf`. The bank in `src/data/jess-questions.json` has 150 problems: 50 recall, 40 diagnoses, 30 rewrites, 20 exception checks, and 10 interactive five-error sections. Sessions shuffle without repeats, filter by standard and question type, and save missed problem IDs locally. Five-error line selections are checked automatically; written explanations and rewrites use self-assessment against a key, not a Jess interpreter.
+
+Run `node scripts/check-coding-bank.mjs` on Node 22+ to validate bank integrity, five-line grading edge cases, and nonrepeating shuffled decks. Snippets explicitly assume omitted file headers, documentation, and bounding blank lines unless the prompt tests them.

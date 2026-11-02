@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "jess-001",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "List the three minimum items in every file header.",
+    "answer": "Author’s name; date of creation; a sufficiently detailed functional description of the module."
+  },
+  {
+    "id": "jess-002",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What kind of comment must contain the file header?",
+    "answer": "A block comment, present in every file."
+  },
+  {
+    "id": "jess-003",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "How must each interior line of a block comment begin?",
+    "answer": "With a leading asterisk. Use /* to open and */ to close the block."
+  },
+  {
+    "id": "jess-004",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What two aspects of a function or rule must its documentation describe?",
+    "answer": "Its operation and its limitations."
+  },
+  {
+    "id": "jess-005",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What special conditions belong in a function’s documentation?",
+    "answer": "Argument-value requirements and other special conditions or restrictions."
+  },
+  {
+    "id": "jess-006",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "When may several rules share one block comment?",
+    "answer": "When they have similar constructs and the shared comment explains the group’s functionality."
+  },
+  {
+    "id": "jess-007",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Where should an optional quoted rule comment appear?",
+    "answer": "On the same line as the rule definition."
+  },
+  {
+    "id": "jess-008",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Why is merely copying a rule’s name into its comment inadequate?",
+    "answer": "It adds no information about behavior, scope, limitations, or special conditions."
+  },
+  {
+    "id": "jess-009",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What should you do when many rule comments are nearly identical boilerplate?",
+    "answer": "Explain the group in a shared block comment; reserve individual quoted comments for meaningful special cases."
+  },
+  {
+    "id": "jess-010",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "How should inline comments on successive lines be positioned?",
+    "answer": "Their comment markers should line up."
+  },
+  {
+    "id": "jess-011",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What must a closing-parenthesis comment communicate?",
+    "answer": "The essence of the block’s opening line, enough to identify what is ending; it need not repeat the entire line."
+  },
+  {
+    "id": "jess-012",
+    "kind": "Recall",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "At what block length does a closing-parenthesis comment become required?",
+    "answer": "When the block is longer than 10 lines. At 10 lines or fewer, it is optional."
+  },
+  {
+    "id": "jess-013",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 2,
+    "prompt": "Does the PDF set a universal maximum number of characters per line?",
+    "answer": "No. Code must display without word-wrapping problems; no numeric character limit is specified."
+  },
+  {
+    "id": "jess-014",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 2,
+    "prompt": "What is the stated exception to the line-length guidance?",
+    "answer": "An exceptionally long block of static text being bound to a string variable."
+  },
+  {
+    "id": "jess-015",
+    "kind": "Recall",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "How must ordinary function, rule, and variable names begin?",
+    "answer": "With a lowercase letter; later characters may mix uppercase and lowercase letters."
+  },
+  {
+    "id": "jess-016",
+    "kind": "Recall",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "What is the general rule for underscores in ordinary names?",
+    "answer": "Avoid them, except rare cases where they improve readability."
+  },
+  {
+    "id": "jess-017",
+    "kind": "Recall",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "What are ?i, ?j, and ?k generally reserved for?",
+    "answer": "Loop index counters, with some physics and engineering model exceptions."
+  },
+  {
+    "id": "jess-018",
+    "kind": "Recall",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "What must meaningful names convey?",
+    "answer": "The purpose of the variable, function, or rule."
+  },
+  {
+    "id": "jess-019",
+    "kind": "Recall",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Which two letters are prohibited as standalone names, and why?",
+    "answer": "Lowercase l and uppercase O, because they resemble 1 and 0."
+  },
+  {
+    "id": "jess-020",
+    "kind": "Recall",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Does the letter l inside loopCounter make the name illegal?",
+    "answer": "No. Word-like names are allowed; the standalone ambiguous letters are forbidden."
+  },
+  {
+    "id": "jess-021",
+    "kind": "Recall",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Can Jess accept a variable that begins with a digit while the class standard rejects it?",
+    "answer": "Yes. Language legality and the required naming convention are different."
+  },
+  {
+    "id": "jess-022",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "How must constant names be written?",
+    "answer": "Uppercase letters, using underscores to improve readability."
+  },
+  {
+    "id": "jess-023",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "Must every constant be global?",
+    "answer": "No. Constants may be local or global according to their scope of use."
+  },
+  {
+    "id": "jess-024",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "What property of global variables does the PDF emphasize?",
+    "answer": "They persist through a reset."
+  },
+  {
+    "id": "jess-025",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "What is the default policy for special values or magic numbers?",
+    "answer": "Define them as named constants instead of embedding them directly in the code base."
+  },
+  {
+    "id": "jess-026",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "What is the exception for expert knowledge values in rules?",
+    "answer": "They may appear directly, but must be thoroughly documented as expert-supplied knowledge."
+  },
+  {
+    "id": "jess-027",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "Which operator must be used for calls to Java methods from Jess?",
+    "answer": "The call operator, so Java calls are visibly distinct from native Jess operations."
+  },
+  {
+    "id": "jess-028",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "How do class names begin, compared with ordinary function names?",
+    "answer": "Class names begin uppercase; ordinary function names begin lowercase."
+  },
+  {
+    "id": "jess-029",
+    "kind": "Recall",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "What is the underscore policy for Java-interface class names?",
+    "answer": "Avoid underscores except rare readability-improving cases."
+  },
+  {
+    "id": "jess-030",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "What is the required indentation width?",
+    "answer": "Three spaces per indentation level."
+  },
+  {
+    "id": "jess-031",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Why are indentation tabs forbidden?",
+    "answer": "To facilitate portability and consistent display."
+  },
+  {
+    "id": "jess-032",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Where does the opening parenthesis go relative to a construct name?",
+    "answer": "Immediately adjacent to the name, as in (while, not ( while."
+  },
+  {
+    "id": "jess-033",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Where does the final closing parenthesis of a multiline construct go?",
+    "answer": "On its own line, at the appropriate indentation level."
+  },
+  {
+    "id": "jess-034",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "What exception allows a closing parenthesis to share a line with code?",
+    "answer": "A construct that is entirely on one line."
+  },
+  {
+    "id": "jess-035",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "What role should spaces play in conditions and loop statements?",
+    "answer": "Improve readability rather than crowding tokens together."
+  },
+  {
+    "id": "jess-036",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 4,
+    "prompt": "Where should blank lines appear around functions and rules?",
+    "answer": "Both above and below every function and rule."
+  },
+  {
+    "id": "jess-037",
+    "kind": "Recall",
+    "topic": "Formatting",
+    "page": 4,
+    "prompt": "What blank-line guidance applies to logically related blocks?",
+    "answer": "Blank lines should precede and follow logically associated blocks of code."
+  },
+  {
+    "id": "jess-038",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "What is the policy on break?",
+    "answer": "It shall not be used."
+  },
+  {
+    "id": "jess-039",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "What is the policy on continue?",
+    "answer": "Use it sparingly, only where it improves readability."
+  },
+  {
+    "id": "jess-040",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Where may a for-loop’s iterator be updated?",
+    "answer": "In the loop’s control/update portion, not inside the body."
+  },
+  {
+    "id": "jess-041",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "What kind of iteration count must a for-loop have?",
+    "answer": "A predetermined fixed number of iterations; do not use for to simulate while."
+  },
+  {
+    "id": "jess-042",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "What is normally the final executable line of a function?",
+    "answer": "A return statement."
+  },
+  {
+    "id": "jess-043",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "How many return statements should a function generally contain?",
+    "answer": "One and only one."
+  },
+  {
+    "id": "jess-044",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "When can a function have more than one return?",
+    "answer": "When multiple returns make the code easier to understand; this is an exception, not the default."
+  },
+  {
+    "id": "jess-045",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "What exception is mentioned for very small functions?",
+    "answer": "One- or two-line functions may receive exceptions, but only if clarity is not sacrificed."
+  },
+  {
+    "id": "jess-046",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Must the return statement have parentheses even when Jess accepts it without them?",
+    "answer": "Yes. The course standard requires parentheses."
+  },
+  {
+    "id": "jess-047",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "What is the rule for return statements inside rules?",
+    "answer": "Generally do not use them; any special circumstances must be clearly documented."
+  },
+  {
+    "id": "jess-048",
+    "kind": "Recall",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Name three legitimate reasons to use salience sparingly.",
+    "answer": "Order interface rules; put forward-chained rules before backward-chained counterparts; enforce important dependencies across a class of rules."
+  },
+  {
+    "id": "jess-049",
+    "kind": "Recall",
+    "topic": "Organization",
+    "page": 4,
+    "prompt": "Where may top-level scripting appear in a file?",
+    "answer": "At the top or bottom, not in the middle of the code base."
+  },
+  {
+    "id": "jess-050",
+    "kind": "Recall",
+    "topic": "Organization",
+    "page": 4,
+    "prompt": "How should declarations, functions, rules, and scripts be organized?",
+    "answer": "Keep similar constructs together; do not intermix their categories."
+  },
+  {
+    "id": "jess-051",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What is missing from this file header?",
+    "answer": "A sufficiently detailed functional description of the module.",
+    "code": "/*\n* Author: Alex Rivera\n* Created: 2026-11-02\n*/"
+  },
+  {
+    "id": "jess-052",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Which required header item is absent?",
+    "answer": "The author’s name.",
+    "code": "/*\n* Created: 2026-11-02\n* Builds a list of candidate mammals from observed traits.\n*/"
+  },
+  {
+    "id": "jess-053",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Which required header item is absent?",
+    "answer": "The date of creation.",
+    "code": "/*\n* Author: Alex Rivera\n* Asks trait questions and eliminates inconsistent candidates.\n*/"
+  },
+  {
+    "id": "jess-054",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Why is this description inadequate as the complete module description?",
+    "answer": "The functional description lacks sufficient detail: identify what the module does.",
+    "code": "/*\n* Author: Alex Rivera\n* Created: 2026-11-02\n* Does stuff.\n*/"
+  },
+  {
+    "id": "jess-055",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Diagnose the block-comment formatting problem.",
+    "answer": "Interior block-comment lines need a leading asterisk.",
+    "code": "/*\nValidates answers.\nAccepts only yes or no.\n*/"
+  },
+  {
+    "id": "jess-056",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "The only documentation for this function says “Divides x by y.” What important limitation is missing?",
+    "answer": "The argument requirement that ?y must be nonzero. Function documentation must include special conditions.",
+    "code": "(deffunction quotient (?x ?y)\n   (return (/ ?x ?y))\n)"
+  },
+  {
+    "id": "jess-057",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What is unhelpful about this quoted rule comment?",
+    "answer": "The comment simply echoes the rule name. Explain meaningful behavior or a special case instead.",
+    "code": "(defrule canSwim \"canSwim\"\n   (aquatic TRUE)\n   =>\n   (assert (candidate fish))\n)"
+  },
+  {
+    "id": "jess-058",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What is wrong with placing an optional quoted comment here?",
+    "answer": "A quoted rule comment should be on the same line as the rule definition.",
+    "code": "(defrule canBeSeen\n   \"Visible without a microscope\"\n   (visible TRUE)\n   =>\n   (assert (sizeClass macroscopic))\n)"
+  },
+  {
+    "id": "jess-059",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "A 14-line while block ends with this line. Is it enough? Explain. ",
+    "answer": "No. A block longer than 10 lines needs a closing comment that identifies the essence of the opening construct, not just “end.”",
+    "code": ") ; end"
+  },
+  {
+    "id": "jess-060",
+    "kind": "Diagnose",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "What is wrong with the alignment in these consecutive inline comments?",
+    "answer": "The inline comment markers should line up in a common column.",
+    "code": "(bind ?count 0) ; Reset count\n(bind ?total 0)       ; Reset total"
+  },
+  {
+    "id": "jess-061",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Diagnose the ordinary variable name.",
+    "answer": "An ordinary variable name must begin with a lowercase letter, such as ?animalCount.",
+    "code": "(bind ?AnimalCount 0)"
+  },
+  {
+    "id": "jess-062",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Diagnose the ordinary function name.",
+    "answer": "The function name must begin lowercase: askQuestion.",
+    "code": "(deffunction AskQuestion ()\n   (return TRUE)\n)"
+  },
+  {
+    "id": "jess-063",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Diagnose the rule name.",
+    "answer": "The rule name must begin lowercase, such as hasWings.",
+    "code": "(defrule HasWings\n   (wings TRUE)\n   =>\n   (assert (candidate bird))\n)"
+  },
+  {
+    "id": "jess-064",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Why is this loop counter prohibited?",
+    "answer": "The standalone lowercase l is forbidden because it resembles 1.",
+    "code": "(bind ?l 0)"
+  },
+  {
+    "id": "jess-065",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Identify all naming problems in this ordinary variable.",
+    "answer": "Uppercase O is a forbidden standalone ambiguous letter and does not start lowercase.",
+    "code": "(bind ?O 0)"
+  },
+  {
+    "id": "jess-066",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Jess accepts this identifier. Why does the standard reject it?",
+    "answer": "An ordinary variable name must start with a lowercase letter, not a digit.",
+    "code": "(bind ?2answers 2)"
+  },
+  {
+    "id": "jess-067",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "With no special readability justification, what should change?",
+    "answer": "Avoid the underscore in an ordinary name; use a meaningful mixed-case name such as ?animalCount.",
+    "code": "(bind ?animal_count 0)"
+  },
+  {
+    "id": "jess-068",
+    "kind": "Diagnose",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "This variable stores a customer’s full mailing address, not a loop index. Diagnose the name.",
+    "answer": "?j should generally be a loop index. Use a purpose-revealing name such as ?mailingAddress.",
+    "code": "(bind ?j \"123 Oak Street\")"
+  },
+  {
+    "id": "jess-069",
+    "kind": "Diagnose",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "This value is intended to be a constant. Diagnose its name.",
+    "answer": "Constants should be uppercase, for example ?MAX_QUESTIONS.",
+    "code": "(bind ?maxQuestions 20)"
+  },
+  {
+    "id": "jess-070",
+    "kind": "Diagnose",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "The value 0.075 is a fixed application tax rate, not expert rule knowledge. Diagnose it.",
+    "answer": "This embeds a special value. Define a named uppercase constant and use it here.",
+    "code": "(bind ?tax (* ?subtotal 0.075))"
+  },
+  {
+    "id": "jess-071",
+    "kind": "Diagnose",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "The threshold is expert-supplied knowledge, but no source or explanation appears anywhere. Diagnose it.",
+    "answer": "Expert-derived values are allowed as an exception only if thoroughly documented. The undocumented threshold fails that requirement.",
+    "code": "(defrule highRisk\n   (score ?score&:(> ?score 75))\n   =>\n   (assert (risk high))\n)"
+  },
+  {
+    "id": "jess-072",
+    "kind": "Diagnose",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "A developer invokes Java Math.random through this shorthand. What explicit form does the standard require?",
+    "answer": "Use (call Math random) to distinguish the Java call from native Jess operations.",
+    "code": "(Math.random)"
+  },
+  {
+    "id": "jess-073",
+    "kind": "Diagnose",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "An application defines a Java-interface class with this name. Diagnose it.",
+    "answer": "Class names must start uppercase: AnimalClassifier.",
+    "code": "animalClassifier"
+  },
+  {
+    "id": "jess-074",
+    "kind": "Diagnose",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "Without a readability justification, what is wrong with this Java-interface class name?",
+    "answer": "Avoid underscores in class names except rare readability-improving cases.",
+    "code": "Animal_Classifier"
+  },
+  {
+    "id": "jess-075",
+    "kind": "Diagnose",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "The arrow represents one actual tab, not spaces. Diagnose the indentation.",
+    "answer": "Tabs are forbidden for indentation. Use three spaces for one nesting level.",
+    "code": "(deffunction answerCount ()\n→(return 0)\n)"
+  },
+  {
+    "id": "jess-076",
+    "kind": "Diagnose",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Diagnose the indentation width.",
+    "answer": "The body has four spaces; the required indentation is three spaces per level.",
+    "code": "(deffunction answerCount ()\n    (return 0)\n)"
+  },
+  {
+    "id": "jess-077",
+    "kind": "Diagnose",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Diagnose the spacing next to the construct name.",
+    "answer": "The opening parenthesis must be adjacent to while: (while.",
+    "code": "( while (> ?remaining 0)\n   (-- ?remaining)\n)"
+  },
+  {
+    "id": "jess-078",
+    "kind": "Diagnose",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Diagnose the closing delimiter placement.",
+    "answer": "The final parenthesis of this multiline function must be on its own line.",
+    "code": "(deffunction nextCount (?count)\n   (bind ?result (+ ?count 1))\n   (return ?result))"
+  },
+  {
+    "id": "jess-079",
+    "kind": "Diagnose",
+    "topic": "Formatting",
+    "page": 2,
+    "prompt": "An ordinary computation line wraps on the display. The author claims the PDF allows any length. Diagnose that claim.",
+    "answer": "Normal code should display without word-wrapping problems. The exception concerns exceptionally long static string text, not arbitrary long expressions.",
+    "code": "(bind ?result (combine ?firstVeryLongInputName ?secondVeryLongInputName ?thirdVeryLongInputName ?fourthVeryLongInputName))"
+  },
+  {
+    "id": "jess-080",
+    "kind": "Diagnose",
+    "topic": "Formatting",
+    "page": 4,
+    "prompt": "Two function definitions touch with no blank line between them. What is wrong?",
+    "answer": "Functions and rules require bounding blank lines above and below. Separate these definitions with a blank line.",
+    "code": "(deffunction firstAnswer ()\n   (return TRUE)\n)\n(deffunction secondAnswer ()\n   (return FALSE)\n)"
+  },
+  {
+    "id": "jess-081",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Diagnose this loop exit, regardless of whether Jess can execute it.",
+    "answer": "The course standard prohibits break.",
+    "code": "(while (> ?remaining 0)\n   (break)\n)"
+  },
+  {
+    "id": "jess-082",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "The extra increment is inside the body. Diagnose it.",
+    "answer": "A for-loop’s iterator must not be modified in its body. Keep the intended update in the control portion only.",
+    "code": "(for (bind ?i 0) (< ?i ?LIMIT) (++ ?i)\n   (++ ?i)\n)"
+  },
+  {
+    "id": "jess-083",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "User input determines when this loop stops. Diagnose the construct choice.",
+    "answer": "The iteration count is not predetermined. This for simulates a while-loop; use while.",
+    "code": "(for (bind ?answer (read)) (neq ?answer done) (bind ?answer (read))\n   (printout t ?answer crlf)\n)"
+  },
+  {
+    "id": "jess-084",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "The normal single-return rule applies. What is wrong with this function’s executable ending?",
+    "answer": "The return must be the last executable line. Move the output before the return.",
+    "code": "(deffunction announce (?message)\n   (return ?message)\n   (printout t ?message crlf)\n)"
+  },
+  {
+    "id": "jess-085",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "This function has several executable lines and no tiny-function exception is claimed. What is missing?",
+    "answer": "An explicit final parenthesized return statement.",
+    "code": "(deffunction addScore (?old ?earned)\n   (bind ?newScore (+ ?old ?earned))\n   (printout t ?newScore crlf)\n)"
+  },
+  {
+    "id": "jess-086",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Even if this version of Jess accepts the syntax, what violates the standard?",
+    "answer": "The return statement must be parenthesized: (return ?answer).",
+    "code": "return ?answer"
+  },
+  {
+    "id": "jess-087",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "No special circumstances are documented. Diagnose the rule action.",
+    "answer": "Rules should not use return except in clearly documented special circumstances.",
+    "code": "(defrule reportReady\n   (ready TRUE)\n   =>\n   (return TRUE)\n)"
+  },
+  {
+    "id": "jess-088",
+    "kind": "Diagnose",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Every independent rule gets an arbitrary unique salience solely to force a complete sequence. Diagnose the strategy.",
+    "answer": "Salience should be used sparingly for justified UI order, forward/backward ordering, or important dependencies—not as an arbitrary sequencing mechanism.",
+    "code": "(declare (salience 900))"
+  },
+  {
+    "id": "jess-089",
+    "kind": "Diagnose",
+    "topic": "Organization",
+    "page": 4,
+    "prompt": "The middle line is top-level executable scripting. Diagnose the file order.",
+    "answer": "Scripting must be at the top or bottom of the file, not between other constructs.",
+    "code": "declarations\nfunctions\n(reset)\nrules"
+  },
+  {
+    "id": "jess-090",
+    "kind": "Diagnose",
+    "topic": "Organization",
+    "page": 4,
+    "prompt": "Diagnose the organization, not individual syntax.",
+    "answer": "Similar constructs should be grouped; functions, rules, declarations, and scripting should not be interleaved.",
+    "code": "function A\nrule A\nfunction B\ndeclaration A\nrule B"
+  },
+  {
+    "id": "jess-091",
+    "kind": "Rewrite",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Write the missing file header. Author: Jordan Lee. Created: November 2, 2026. The module asks yes/no habitat questions and filters candidate animals.",
+    "answer": "Include all three fields in a properly starred block comment.",
+    "code": "; no header",
+    "solution": "/*\n* Author: Jordan Lee\n* Created: 2026-11-02\n* Asks yes/no habitat questions and filters candidate animals\n* whose known habitats conflict with the answers.\n*/"
+  },
+  {
+    "id": "jess-092",
+    "kind": "Rewrite",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Repair the block comment without changing its meaning.",
+    "answer": "Add a leading asterisk to each interior line.",
+    "code": "/*\nReads a yes/no answer.\nRejects any other input.\n*/",
+    "solution": "/*\n* Reads a yes/no answer.\n* Rejects any other input.\n*/"
+  },
+  {
+    "id": "jess-093",
+    "kind": "Rewrite",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Improve this header description for a module that validates yes/no input and retries invalid responses.",
+    "answer": "Describe the module’s actual function in sufficient detail.",
+    "code": "/*\n* Author: Jordan Lee\n* Created: 2026-11-02\n* Input thing.\n*/",
+    "solution": "/*\n* Author: Jordan Lee\n* Created: 2026-11-02\n* Reads yes/no responses and repeats the prompt until the user\n* supplies one of the accepted answers.\n*/"
+  },
+  {
+    "id": "jess-094",
+    "kind": "Rewrite",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Write a documentation block for a function that divides two numbers and requires a nonzero denominator.",
+    "answer": "Describe operation and the nonzero-denominator requirement.",
+    "code": "(deffunction quotient (?numerator ?denominator)\n   (return (/ ?numerator ?denominator))\n)",
+    "solution": "/*\n* Returns the numerator divided by the denominator.\n* Requires a nonzero denominator.\n*/"
+  },
+  {
+    "id": "jess-095",
+    "kind": "Rewrite",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Move the quoted comment to its required position.",
+    "answer": "Place the quoted comment on the rule-definition line.",
+    "code": "(defrule canBeSeen\n   \"Visible without a microscope\"\n   (visible TRUE)\n   =>\n   (assert (sizeClass macroscopic))\n)",
+    "solution": "(defrule canBeSeen \"Visible without a microscope\"\n   (visible TRUE)\n   =>\n   (assert (sizeClass macroscopic))\n)"
+  },
+  {
+    "id": "jess-096",
+    "kind": "Rewrite",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Align these inline comments.",
+    "answer": "Use one common comment column.",
+    "code": "(bind ?count 0) ; Reset question count\n(bind ?answer unknown) ; Clear prior response",
+    "solution": "(bind ?count 0)         ; Reset question count\n(bind ?answer unknown)  ; Clear prior response"
+  },
+  {
+    "id": "jess-097",
+    "kind": "Rewrite",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Write the final line for a while block longer than 10 lines whose opening is shown.",
+    "answer": "A closing inline comment must identify the while and its condition. Singular final line shown. ",
+    "code": "(while (> ?remaining 0)\n; ... body omitted ...\n)",
+    "solution": ") ; while (> ?remaining 0)"
+  },
+  {
+    "id": "jess-098",
+    "kind": "Rewrite",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Rename this ordinary variable and its reference.",
+    "answer": "Begin the ordinary name lowercase and update references consistently.",
+    "code": "(bind ?AnswerCount 0)\n(printout t ?AnswerCount crlf)",
+    "solution": "(bind ?answerCount 0)\n(printout t ?answerCount crlf)"
+  },
+  {
+    "id": "jess-099",
+    "kind": "Rewrite",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Rename the ordinary function to comply.",
+    "answer": "Begin the function name lowercase.",
+    "code": "(deffunction GetScore (?score)\n   (return ?score)\n)",
+    "solution": "(deffunction getScore (?score)\n   (return ?score)\n)"
+  },
+  {
+    "id": "jess-100",
+    "kind": "Rewrite",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Replace this standalone ambiguous letter with a meaningful name for an animal count.",
+    "answer": "Avoid lowercase l alone; use a purpose-revealing name.",
+    "code": "(bind ?l 0)",
+    "solution": "(bind ?animalCount 0)"
+  },
+  {
+    "id": "jess-101",
+    "kind": "Rewrite",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Replace the numeric-leading ordinary variable name.",
+    "answer": "Use a lowercase-leading meaningful identifier.",
+    "code": "(bind ?2answers 2)",
+    "solution": "(bind ?answerCount 2)"
+  },
+  {
+    "id": "jess-102",
+    "kind": "Rewrite",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "Remove unnecessary underscores from the ordinary name.",
+    "answer": "Use a purpose-revealing mixed-case name without unjustified underscores.",
+    "code": "(bind ?current_animal_name \"otter\")",
+    "solution": "(bind ?currentAnimalName \"otter\")"
+  },
+  {
+    "id": "jess-103",
+    "kind": "Rewrite",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "The variable stores a person’s address, not a loop index. Rename it.",
+    "answer": "Use a meaningful name rather than a conventional index counter.",
+    "code": "(bind ?i \"123 Oak Street\")",
+    "solution": "(bind ?mailingAddress \"123 Oak Street\")"
+  },
+  {
+    "id": "jess-104",
+    "kind": "Rewrite",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "Rename this intended constant.",
+    "answer": "Use uppercase words and underscores.",
+    "code": "(bind ?secondsPerMinute 60)",
+    "solution": "(bind ?SECONDS_PER_MINUTE 60)"
+  },
+  {
+    "id": "jess-105",
+    "kind": "Rewrite",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "The fixed fee 25 is application configuration, not expert rule knowledge. Replace the embedded special value with a local constant.",
+    "answer": "Define a meaningful uppercase constant and use it in the expression.",
+    "code": "(bind ?total (+ ?subtotal 25))",
+    "solution": "(bind ?SERVICE_FEE 25)\n\n(bind ?total (+ ?subtotal ?SERVICE_FEE))"
+  },
+  {
+    "id": "jess-106",
+    "kind": "Rewrite",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "Make this call explicitly identify the Java method invocation.",
+    "answer": "Use the call operator with the uppercase class name.",
+    "code": "(Math.random)",
+    "solution": "(call Math random)"
+  },
+  {
+    "id": "jess-107",
+    "kind": "Rewrite",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "Rename this application-defined Java-interface class. No underscore readability exception is needed.",
+    "answer": "Start uppercase and avoid the unnecessary underscore.",
+    "code": "animal_classifier",
+    "solution": "AnimalClassifier"
+  },
+  {
+    "id": "jess-108",
+    "kind": "Rewrite",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Use the required indentation width.",
+    "answer": "Use three spaces at one nesting level.",
+    "code": "(deffunction nextScore (?score)\n    (return (+ ?score 1))\n)",
+    "solution": "(deffunction nextScore (?score)\n   (return (+ ?score 1))\n)"
+  },
+  {
+    "id": "jess-109",
+    "kind": "Rewrite",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Repair opening-parenthesis adjacency.",
+    "answer": "Remove the space between the opening parenthesis and while.",
+    "code": "( while (> ?remaining 0)\n   (-- ?remaining)\n)",
+    "solution": "(while (> ?remaining 0)\n   (-- ?remaining)\n)"
+  },
+  {
+    "id": "jess-110",
+    "kind": "Rewrite",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "Repair the final parenthesis of this multiline function.",
+    "answer": "Put the final closing parenthesis on its own line.",
+    "code": "(deffunction nextScore (?score)\n   (bind ?next (+ ?score 1))\n   (return ?next))",
+    "solution": "(deffunction nextScore (?score)\n   (bind ?next (+ ?score 1))\n   (return ?next)\n)"
+  },
+  {
+    "id": "jess-111",
+    "kind": "Rewrite",
+    "topic": "Formatting",
+    "page": 4,
+    "prompt": "Separate these definitions with the required whitespace.",
+    "answer": "Add a bounding blank line between the functions.",
+    "code": "(deffunction yesAnswer ()\n   (return TRUE)\n)\n(deffunction noAnswer ()\n   (return FALSE)\n)",
+    "solution": "(deffunction yesAnswer ()\n   (return TRUE)\n)\n\n(deffunction noAnswer ()\n   (return FALSE)\n)"
+  },
+  {
+    "id": "jess-112",
+    "kind": "Rewrite",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Replace this input-controlled for-loop with an appropriate while-loop.",
+    "answer": "Read before the while-loop, test the sentinel, and read the next answer at the end of its body.",
+    "code": "(for (bind ?answer (read)) (neq ?answer done) (bind ?answer (read))\n   (printout t ?answer crlf)\n)",
+    "solution": "(bind ?answer (read))\n(while (neq ?answer done)\n   (printout t ?answer crlf)\n   (bind ?answer (read))\n)"
+  },
+  {
+    "id": "jess-113",
+    "kind": "Rewrite",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "The goal is to process each of ?LIMIT positions once. Repair the iterator handling.",
+    "answer": "Remove the body’s counter update; retain the control portion’s update.",
+    "code": "(for (bind ?i 0) (< ?i ?LIMIT) (++ ?i)\n   (printout t ?i crlf)\n   (++ ?i)\n)",
+    "solution": "(for (bind ?i 0) (< ?i ?LIMIT) (++ ?i)\n   (printout t ?i crlf)\n)"
+  },
+  {
+    "id": "jess-114",
+    "kind": "Rewrite",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Print the answer, then return it as the final executable line.",
+    "answer": "Move the printout before the return.",
+    "code": "(deffunction showAnswer (?answer)\n   (return ?answer)\n   (printout t ?answer crlf)\n)",
+    "solution": "(deffunction showAnswer (?answer)\n   (printout t ?answer crlf)\n   (return ?answer)\n)"
+  },
+  {
+    "id": "jess-115",
+    "kind": "Rewrite",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Add the normal explicit final return to this multi-line function.",
+    "answer": "Return the calculated score as the final executable line.",
+    "code": "(deffunction newScore (?old ?earned)\n   (bind ?score (+ ?old ?earned))\n   (printout t ?score crlf)\n)",
+    "solution": "(deffunction newScore (?old ?earned)\n   (bind ?score (+ ?old ?earned))\n   (printout t ?score crlf)\n   (return ?score)\n)"
+  },
+  {
+    "id": "jess-116",
+    "kind": "Rewrite",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Rewrite the return statement according to the standard.",
+    "answer": "Enclose the return in parentheses.",
+    "code": "return ?result",
+    "solution": "(return ?result)"
+  },
+  {
+    "id": "jess-117",
+    "kind": "Rewrite",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "This loop should stop when the user enters done. Remove break by moving termination into the loop condition.",
+    "answer": "Use a sentinel-controlled while condition and remove break.",
+    "code": "(bind ?answer (read))\n(while TRUE\n   (if (eq ?answer done) then (break))\n   (printout t ?answer crlf)\n   (bind ?answer (read))\n)",
+    "solution": "(bind ?answer (read))\n(while (neq ?answer done)\n   (printout t ?answer crlf)\n   (bind ?answer (read))\n)"
+  },
+  {
+    "id": "jess-118",
+    "kind": "Rewrite",
+    "topic": "Organization",
+    "page": 4,
+    "prompt": "Reorganize this file outline without changing which constructs it contains.",
+    "answer": "Group functions, group rules, then put both script operations at the bottom. Top scripting is also permitted.",
+    "code": "function A\nrule A\n(reset)\nfunction B\nrule B\n(run)",
+    "solution": "function A\nfunction B\n\nrule A\nrule B\n\n(reset)\n(run)"
+  },
+  {
+    "id": "jess-119",
+    "kind": "Rewrite",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "Document this hypothetical expert threshold. For this exercise, Dr. Chen’s supplied model classifies scores above 75 as high risk; this is not medical advice.",
+    "answer": "Explain the operation and identify the origin and meaning of the expert-derived value. The hypothetical threshold is allowed under the documented-expert-knowledge exception.",
+    "code": "(defrule highRisk\n   (score ?score&:(> ?score 75))\n   =>\n   (assert (risk high))\n)",
+    "solution": "/*\n* Marks a score as high risk in the supplied training model.\n* Expert source: Dr. Chen; the model uses a threshold of 75.\n* Only applies to scores on that model’s defined scale.\n*/\n\n(defrule highRisk \"Uses Dr. Chen’s training-model threshold\"\n   (score ?score&:(> ?score 75))\n   =>\n   (assert (risk high))\n)"
+  },
+  {
+    "id": "jess-120",
+    "kind": "Rewrite",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "Use the normal one-return structure for this function. Retain its behavior: TRUE when the score is positive, otherwise FALSE.",
+    "answer": "Store the result in a variable and return it once at the end. Multiple returns are not categorically forbidden, but this exercise requests the normal structure.",
+    "code": "(deffunction isPositive (?score)\n   (if (> ?score 0) then (return TRUE))\n   (return FALSE)\n)",
+    "solution": "(deffunction isPositive (?score)\n   (bind ?positive FALSE)\n   (if (> ?score 0) then (bind ?positive TRUE))\n   (return ?positive)\n)"
+  },
+  {
+    "id": "jess-121",
+    "kind": "Exceptions",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "A 10-line block has no closing inline comment. Automatically a violation?",
+    "answer": "No. The comment becomes mandatory only when the block is longer than 10 lines."
+  },
+  {
+    "id": "jess-122",
+    "kind": "Exceptions",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "An 11-line function has no closing inline comment. Does it comply?",
+    "answer": "No. A block longer than 10 lines needs a closing comment that identifies the opening construct."
+  },
+  {
+    "id": "jess-123",
+    "kind": "Exceptions",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "A seven-line while-loop has a useful closing inline comment. Must it be removed?",
+    "answer": "No. The comment is optional for short blocks, not forbidden."
+  },
+  {
+    "id": "jess-124",
+    "kind": "Exceptions",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "Twenty similar rules use one useful block comment, with special quoted comments only where behavior differs. Is this allowed?",
+    "answer": "Yes. The standard explicitly permits shared documentation for similar rule constructs and discourages redundant boilerplate."
+  },
+  {
+    "id": "jess-125",
+    "kind": "Exceptions",
+    "topic": "Comments",
+    "page": 1,
+    "prompt": "A function comment describes its purpose but omits a strict allowed range for an argument. Is that sufficient?",
+    "answer": "No. Special conditions, including argument-value requirements, belong in its documentation."
+  },
+  {
+    "id": "jess-126",
+    "kind": "Exceptions",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "A complete if-expression occupies one line, including its closing parenthesis. Is that automatically a violation?",
+    "answer": "No. Entirely one-line constructs are an explicit exception to the separate closing-parenthesis convention."
+  },
+  {
+    "id": "jess-127",
+    "kind": "Exceptions",
+    "topic": "Formatting",
+    "page": 3,
+    "prompt": "A multiline function’s last body expression and final function parenthesis share a line. Is the one-line exception applicable?",
+    "answer": "No. The whole construct must be on one line for that exception; this function is multiline."
+  },
+  {
+    "id": "jess-128",
+    "kind": "Exceptions",
+    "topic": "Formatting",
+    "page": 2,
+    "prompt": "A long static text block is bound to a string variable and exceeds the normal display width. Does the PDF allow an exception?",
+    "answer": "Yes. This is the stated line-length exception for exceptionally long static string text."
+  },
+  {
+    "id": "jess-129",
+    "kind": "Exceptions",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "An identifier contains a lowercase l as part of loopCounter. Must it be renamed?",
+    "answer": "No. The standard permits word-like names; it prohibits the ambiguous letters standing alone."
+  },
+  {
+    "id": "jess-130",
+    "kind": "Exceptions",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "A physics model uses ?i for a meaningful modeled quantity rather than an index. Is this always forbidden?",
+    "answer": "No. The PDF notes physics and engineering model exceptions to the usual index-counter convention."
+  },
+  {
+    "id": "jess-131",
+    "kind": "Exceptions",
+    "topic": "Naming",
+    "page": 2,
+    "prompt": "A developer keeps an underscore in an ordinary name because a rare case genuinely becomes easier to read. Is that categorically forbidden?",
+    "answer": "No. Underscores are generally avoided, but a readability exception is stated."
+  },
+  {
+    "id": "jess-132",
+    "kind": "Exceptions",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "A named constant is local because only one function needs it. Must it become global?",
+    "answer": "No. Scope of use determines whether a constant is local or global."
+  },
+  {
+    "id": "jess-133",
+    "kind": "Exceptions",
+    "topic": "Values & Java",
+    "page": 3,
+    "prompt": "A rule includes an expert-derived numeric value and thoroughly documents its source and meaning. Must it always be replaced by a constant?",
+    "answer": "No. The PDF gives documented expert-knowledge values in rules an exception to the default magic-number rule."
+  },
+  {
+    "id": "jess-134",
+    "kind": "Exceptions",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "A code review finds break but the developer argues it is concise. Does the PDF grant a readability exception for break?",
+    "answer": "No. break is prohibited. The readability qualification applies to continue, not break."
+  },
+  {
+    "id": "jess-135",
+    "kind": "Exceptions",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "A developer says continue is completely prohibited. Is that accurate?",
+    "answer": "No. It may be used sparingly when it improves readability."
+  },
+  {
+    "id": "jess-136",
+    "kind": "Exceptions",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "A function uses multiple returns because they clearly simplify understanding. Is this automatically noncompliant?",
+    "answer": "No. The standard explicitly allows an exception when multiple returns make the code easier to understand."
+  },
+  {
+    "id": "jess-137",
+    "kind": "Exceptions",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "A rule has a return for a special case that is not documented. Can the author rely on the rule-return exception?",
+    "answer": "No. The special circumstances must be clearly documented."
+  },
+  {
+    "id": "jess-138",
+    "kind": "Exceptions",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "A rule printing initial directions is assigned higher salience so it runs first. Is this a stated legitimate use?",
+    "answer": "Yes, provided salience is used sparingly. User-interface ordering is one listed justification."
+  },
+  {
+    "id": "jess-139",
+    "kind": "Exceptions",
+    "topic": "Flow control",
+    "page": 4,
+    "prompt": "An inclusion/exclusion rule group gets slightly higher salience than rules that depend on its results. Is this a stated legitimate use?",
+    "answer": "Yes. Important dependencies across a class of rules are a listed justification."
+  },
+  {
+    "id": "jess-140",
+    "kind": "Exceptions",
+    "topic": "Organization",
+    "page": 4,
+    "prompt": "All scripts are together at the very beginning of the file. Must they be moved to the bottom?",
+    "answer": "No. The standard permits scripting at either the top or the bottom, while forbidding it in the middle."
+  },
+  {
+    "id": "jess-141",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 3,
+    "prompt": "Select the five lines that violate the standards. The numeric multiplier is application configuration, not expert rule knowledge. Only local naming, indentation, values, and return syntax are assessed.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "(deffunction TotalCost (?amount)",
+      "    (bind ?subtotal ?amount)",
+      "   (bind ?adjustment (* ?subtotal 0.075))",
+      "   (bind ?l 0)",
+      "   (bind ?total (+ ?subtotal ?adjustment))",
+      "   return ?total",
+      ")"
+    ],
+    "errors": {
+      "1": "Ordinary function names begin lowercase; use totalCost.",
+      "2": "Four leading spaces; one indentation level must be three spaces.",
+      "3": "The problem states that the multiplier is an application configuration value, so define a named constant instead of embedding it.",
+      "4": "Standalone lowercase l is forbidden as an ambiguous name.",
+      "6": "The return statement must be parenthesized: (return ?total)."
+    }
+  },
+  {
+    "id": "jess-142",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 3,
+    "prompt": "Select the five lines that violate the standards. The numeric multiplier is application configuration, not expert rule knowledge. Only local naming, indentation, values, and return syntax are assessed.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "(deffunction FinalPrice (?amount)",
+      "    (bind ?basePrice ?amount)",
+      "   (bind ?adjustment (* ?basePrice 0.12))",
+      "   (bind ?l 0)",
+      "   (bind ?total (+ ?basePrice ?adjustment))",
+      "   return ?total",
+      ")"
+    ],
+    "errors": {
+      "1": "Ordinary function names begin lowercase; use finalPrice.",
+      "2": "Four leading spaces; one indentation level must be three spaces.",
+      "3": "The problem states that the multiplier is an application configuration value, so define a named constant instead of embedding it.",
+      "4": "Standalone lowercase l is forbidden as an ambiguous name.",
+      "6": "The return statement must be parenthesized: (return ?total)."
+    }
+  },
+  {
+    "id": "jess-143",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 3,
+    "prompt": "Select the five lines that violate the standards. The numeric multiplier is application configuration, not expert rule knowledge. Only local naming, indentation, values, and return syntax are assessed.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "(deffunction AdjustedScore (?amount)",
+      "    (bind ?baseScore ?amount)",
+      "   (bind ?adjustment (* ?baseScore 0.25))",
+      "   (bind ?l 0)",
+      "   (bind ?total (+ ?baseScore ?adjustment))",
+      "   return ?total",
+      ")"
+    ],
+    "errors": {
+      "1": "Ordinary function names begin lowercase; use adjustedScore.",
+      "2": "Four leading spaces; one indentation level must be three spaces.",
+      "3": "The problem states that the multiplier is an application configuration value, so define a named constant instead of embedding it.",
+      "4": "Standalone lowercase l is forbidden as an ambiguous name.",
+      "6": "The return statement must be parenthesized: (return ?total)."
+    }
+  },
+  {
+    "id": "jess-144",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 4,
+    "prompt": "Select the five offending lines. Assume the iteration limit is fixed before the loop. Check local formatting, names, and flow-control standards, not the algorithm’s usefulness.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "(deffunction questionPass (?questionCount)",
+      "   (bind ?sum 0)",
+      "   ( for (bind ?i 0) (< ?i ?questionCount) (++ ?i)",
+      "      (++ ?i)",
+      "      (break)",
+      "      (bind ?AnswerTotal (+ ?sum ?i))",
+      "      (printout t ?sum crlf))",
+      "   (return ?sum)",
+      ")"
+    ],
+    "errors": {
+      "3": "The opening parenthesis must be adjacent to for.",
+      "4": "The iterator ?i must not be modified inside the for body.",
+      "5": "break is prohibited.",
+      "6": "An ordinary variable name must start lowercase, such as ?answerTotal.",
+      "7": "The multiline for construct must end with a closing parenthesis on its own line."
+    }
+  },
+  {
+    "id": "jess-145",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 4,
+    "prompt": "Select the five offending lines. Assume the iteration limit is fixed before the loop. Check local formatting, names, and flow-control standards, not the algorithm’s usefulness.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "(deffunction candidatePass (?candidateCount)",
+      "   (bind ?sum 0)",
+      "   ( for (bind ?i 0) (< ?i ?candidateCount) (++ ?i)",
+      "      (++ ?i)",
+      "      (break)",
+      "      (bind ?AnswerTotal (+ ?sum ?i))",
+      "      (printout t ?sum crlf))",
+      "   (return ?sum)",
+      ")"
+    ],
+    "errors": {
+      "3": "The opening parenthesis must be adjacent to for.",
+      "4": "The iterator ?i must not be modified inside the for body.",
+      "5": "break is prohibited.",
+      "6": "An ordinary variable name must start lowercase, such as ?answerTotal.",
+      "7": "The multiline for construct must end with a closing parenthesis on its own line."
+    }
+  },
+  {
+    "id": "jess-146",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 4,
+    "prompt": "Select the five offending lines. Assume the iteration limit is fixed before the loop. Check local formatting, names, and flow-control standards, not the algorithm’s usefulness.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "(deffunction answerPass (?answerCount)",
+      "   (bind ?sum 0)",
+      "   ( for (bind ?i 0) (< ?i ?answerCount) (++ ?i)",
+      "      (++ ?i)",
+      "      (break)",
+      "      (bind ?AnswerTotal (+ ?sum ?i))",
+      "      (printout t ?sum crlf))",
+      "   (return ?sum)",
+      ")"
+    ],
+    "errors": {
+      "3": "The opening parenthesis must be adjacent to for.",
+      "4": "The iterator ?i must not be modified inside the for body.",
+      "5": "break is prohibited.",
+      "6": "An ordinary variable name must start lowercase, such as ?answerTotal.",
+      "7": "The multiline for construct must end with a closing parenthesis on its own line."
+    }
+  },
+  {
+    "id": "jess-147",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 4,
+    "prompt": "Select the five offending lines. A valid file header and bounding blank lines are outside this excerpt. Treat Math.random as a Java method call.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "/*",
+      "Reads the latestAnswer input.",
+      "* Requires a valid response symbol.",
+      "*/",
+      "(deffunction collectAnswer ()",
+      "   (bind ?latestAnswer (read))",
+      "   (bind ?2responses ?latestAnswer)",
+      "   (Math.random)",
+      "   (return ?latestAnswer)",
+      "   (printout t ?latestAnswer crlf))"
+    ],
+    "errors": {
+      "2": "The interior block-comment line needs a leading asterisk.",
+      "7": "The ordinary variable name begins with a digit.",
+      "8": "A Java method invocation must use the call operator: (call Math random).",
+      "9": "The return is followed by another executable statement; move the output before the return.",
+      "10": "The final parenthesis of a multiline function must be on its own line."
+    }
+  },
+  {
+    "id": "jess-148",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 4,
+    "prompt": "Select the five offending lines. A valid file header and bounding blank lines are outside this excerpt. Treat Math.random as a Java method call.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "/*",
+      "Reads the latestTrait input.",
+      "* Requires a valid response symbol.",
+      "*/",
+      "(deffunction collectTrait ()",
+      "   (bind ?latestTrait (read))",
+      "   (bind ?2responses ?latestTrait)",
+      "   (Math.random)",
+      "   (return ?latestTrait)",
+      "   (printout t ?latestTrait crlf))"
+    ],
+    "errors": {
+      "2": "The interior block-comment line needs a leading asterisk.",
+      "7": "The ordinary variable name begins with a digit.",
+      "8": "A Java method invocation must use the call operator: (call Math random).",
+      "9": "The return is followed by another executable statement; move the output before the return.",
+      "10": "The final parenthesis of a multiline function must be on its own line."
+    }
+  },
+  {
+    "id": "jess-149",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 1,
+    "prompt": "Select the five offending lines. The group documentation is supplied; there is no documented special circumstance for a rule return. No underscore readability exception is intended.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "/*",
+      "* Groups sensory observations into candidate traits.",
+      "*/",
+      "(defrule canBeSeen",
+      "   \"Visible without a microscope\"",
+      "    (observed TRUE)",
+      "   =>",
+      "   (bind ?answer_value TRUE)",
+      "   (return TRUE)",
+      "   (assert (sensory TRUE)))"
+    ],
+    "errors": {
+      "5": "The quoted rule comment must be on the same line as the rule definition.",
+      "6": "A one-level indent should use three spaces, not four.",
+      "8": "The ordinary variable name uses an unnecessary underscore with no readability justification; use ?answerValue.",
+      "9": "A rule should not use return without clearly documented special circumstances.",
+      "10": "The final parenthesis of this multiline rule must be on its own line."
+    }
+  },
+  {
+    "id": "jess-150",
+    "kind": "Find five",
+    "topic": "Mixed",
+    "page": 1,
+    "prompt": "Select the five offending lines. The group documentation is supplied; there is no documented special circumstance for a rule return. No underscore readability exception is intended.",
+    "answer": "See the five highlighted lines and their explanations.",
+    "lines": [
+      "/*",
+      "* Groups sensory observations into candidate traits.",
+      "*/",
+      "(defrule canBeHeard",
+      "   \"Audible without electronic amplification\"",
+      "    (observed TRUE)",
+      "   =>",
+      "   (bind ?answer_value TRUE)",
+      "   (return TRUE)",
+      "   (assert (sensory TRUE)))"
+    ],
+    "errors": {
+      "5": "The quoted rule comment must be on the same line as the rule definition.",
+      "6": "A one-level indent should use three spaces, not four.",
+      "8": "The ordinary variable name uses an unnecessary underscore with no readability justification; use ?answerValue.",
+      "9": "A rule should not use return without clearly documented special circumstances.",
+      "10": "The final parenthesis of this multiline rule must be on its own line."
+    }
+  }
+]
