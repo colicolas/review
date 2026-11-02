@@ -1,0 +1,1498 @@
+[
+  {
+    "id": "detail-1",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "What is the main purpose of the first questioning after the arrest?",
+    "answer": "Establishing Meursault’s identity, rather than closely examining the crime."
+  },
+  {
+    "id": "detail-2",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "How long after the first police questioning does the examining magistrate see Meursault?",
+    "answer": "About a week."
+  },
+  {
+    "id": "detail-3",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "Which personal information does the magistrate ask for first?",
+    "answer": "His name, address, occupation, and date and place of birth."
+  },
+  {
+    "id": "detail-4",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "Why has Meursault not hired a lawyer?",
+    "answer": "He thinks the case is simple and questions whether a lawyer is necessary."
+  },
+  {
+    "id": "detail-5",
+    "kind": "Speaker / reference",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "Who explains that the court will appoint a lawyer if Meursault does not hire one?",
+    "answer": "The examining magistrate, speaking to Meursault."
+  },
+  {
+    "id": "detail-6",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "How is the magistrate’s first office lit?",
+    "answer": "A single desk lamp shines on Meursault’s chair while the magistrate stands in shadow."
+  },
+  {
+    "id": "detail-7",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "Why does the first interview initially seem like a game to Meursault?",
+    "answer": "It resembles interrogation scenes he has read about in books."
+  },
+  {
+    "id": "detail-8",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "Describe the magistrate’s eyes, hair, and facial tic.",
+    "answer": "Deep-set blue eyes, thick nearly white hair, and a nervous twitch at the mouth; he also has a long gray moustache."
+  },
+  {
+    "id": "detail-9",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "What gesture does Meursault almost make on leaving the first interview, and why does he stop?",
+    "answer": "He nearly shakes the magistrate’s hand, then remembers he has killed a man."
+  },
+  {
+    "id": "detail-10",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "When does the lawyer first visit, and where does he put his briefcase?",
+    "answer": "The next day at the prison; he puts the briefcase on Meursault’s bed."
+  },
+  {
+    "id": "detail-11",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "What is distinctive about the lawyer’s appearance and tie?",
+    "answer": "He is young, short and chubby, with slicked-back hair; his tie has broad black-and-white stripes."
+  },
+  {
+    "id": "detail-12",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "What condition does the lawyer attach to his confidence that they can win?",
+    "answer": "Meursault must trust him."
+  },
+  {
+    "id": "detail-13",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "Where have investigators made inquiries into Meursault’s private life?",
+    "answer": "At Marengo, concerning Maman’s life and funeral at the home."
+  },
+  {
+    "id": "detail-14",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "What funeral behavior worries the lawyer?",
+    "answer": "Reports of Meursault’s apparent insensitivity, which may strengthen the prosecution."
+  },
+  {
+    "id": "detail-15",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "Why is Meursault uncertain when asked to describe his sadness at the funeral?",
+    "answer": "He says he has lost the habit of analyzing himself."
+  },
+  {
+    "id": "detail-16",
+    "kind": "Speaker / reference",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "Who warns Meursault not to repeat his remark about wishing loved ones dead, and before whom?",
+    "answer": "His lawyer; he must not say it at the hearing or before the examining magistrate."
+  },
+  {
+    "id": "detail-17",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "What does Meursault say often interferes with his feelings?",
+    "answer": "His physical needs."
+  },
+  {
+    "id": "detail-18",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "What physical condition does Meursault recall from the day of the funeral?",
+    "answer": "He was extremely tired and sleepy, and barely aware of what was happening."
+  },
+  {
+    "id": "detail-19",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "What can Meursault say for certain about Maman’s death?",
+    "answer": "He would rather she had not died."
+  },
+  {
+    "id": "detail-20",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "Why does Meursault refuse to let the lawyer claim he suppressed his grief?",
+    "answer": "He says that would not be true."
+  },
+  {
+    "id": "detail-21",
+    "kind": "Speaker / reference",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "Who will be called as witnesses, according to the lawyer’s warning?",
+    "answer": "The director and staff of the home."
+  },
+  {
+    "id": "detail-22",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "What relationship does Meursault want with his lawyer beyond effective legal representation?",
+    "answer": "A naturally good relationship, rather than friendliness merely to improve his defense."
+  },
+  {
+    "id": "detail-23",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 47,
+    "prompt": "Why does Meursault abandon the idea of reassuring the lawyer that he is like everyone else?",
+    "answer": "He sees little point and gives up out of laziness."
+  },
+  {
+    "id": "detail-24",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "What time is the second interview, and how does the office differ from the first visit?",
+    "answer": "Two in the afternoon; sunlight comes through a flimsy curtain, and it is very hot."
+  },
+  {
+    "id": "detail-25",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "What right does the magistrate explain when the lawyer is absent?",
+    "answer": "Meursault may remain silent and wait for his lawyer’s counsel."
+  },
+  {
+    "id": "detail-26",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "How does the magistrate summon the clerk, and where does the clerk sit?",
+    "answer": "He presses a button; the young clerk sits directly behind Meursault."
+  },
+  {
+    "id": "detail-27",
+    "kind": "Speaker / reference",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "Who explains his silence by saying he has little to say?",
+    "answer": "Meursault, answering the magistrate’s description of him as withdrawn."
+  },
+  {
+    "id": "detail-28",
+    "kind": "Sequence",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "What events does Meursault recount to the magistrate about the day of the shooting?",
+    "answer": "Raymond, the beach and swim, the quarrel, returning to the beach, the spring, the sun, and the five shots."
+  },
+  {
+    "id": "detail-29",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "What unexpected question about Maman interrupts the discussion of the crime?",
+    "answer": "Whether Meursault loved her."
+  },
+  {
+    "id": "detail-30",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "What happens to the clerk when Meursault says he loved Maman like anyone else?",
+    "answer": "The clerk apparently hits a wrong key, loses his place, and has to go back."
+  },
+  {
+    "id": "detail-31",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "How does Meursault distinguish the first shot from the other four?",
+    "answer": "He fires once, pauses a few seconds, and then fires four more times."
+  },
+  {
+    "id": "detail-32",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 48,
+    "prompt": "What physical memory returns when the magistrate asks about the pause?",
+    "answer": "The red sand and the sun burning his forehead."
+  },
+  {
+    "id": "detail-33",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 49,
+    "prompt": "What central feature of the shooting can the magistrate not understand?",
+    "answer": "The hesitation before the second shot and the subsequent shots at a body already on the ground."
+  },
+  {
+    "id": "detail-34",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 49,
+    "prompt": "What object does the magistrate retrieve, and from where?",
+    "answer": "A silver crucifix from a drawer in a file cabinet in a far corner."
+  },
+  {
+    "id": "detail-35",
+    "kind": "Speaker / reference",
+    "chapter": 1,
+    "page": 49,
+    "prompt": "Who argues that even the guilty can receive divine forgiveness if they repent?",
+    "answer": "The examining magistrate, addressing Meursault."
+  },
+  {
+    "id": "detail-36",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 49,
+    "prompt": "What distracts Meursault while the magistrate explains his religious reasoning?",
+    "answer": "The heat, large flies landing on his face, and some fear of the magistrate."
+  },
+  {
+    "id": "detail-37",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 49,
+    "prompt": "How does the magistrate react when Meursault says he does not believe in God?",
+    "answer": "He insists that all people believe and treats doubt as a threat to the meaning of his own life."
+  },
+  {
+    "id": "detail-38",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "Why does Meursault briefly seem to agree with the magistrate’s religious argument?",
+    "answer": "He wants to get rid of someone he is no longer really listening to."
+  },
+  {
+    "id": "detail-39",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "Does Meursault maintain the apparent agreement when the magistrate asks whether he believes?",
+    "answer": "No. He again says he does not believe."
+  },
+  {
+    "id": "detail-40",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "How does the magistrate compare Meursault with other criminals who have seen the crucifix?",
+    "answer": "He says the others have wept, whereas Meursault seems spiritually hardened."
+  },
+  {
+    "id": "detail-41",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "What feeling does Meursault report instead of remorse?",
+    "answer": "Annoyance, more than sorrow or regret."
+  },
+  {
+    "id": "detail-42",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "How does the questioning change in later meetings?",
+    "answer": "It becomes routine and cordial, mostly clarifying statements; the lawyer is present and religion is no longer discussed."
+  },
+  {
+    "id": "detail-43",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "How long does the investigation last?",
+    "answer": "Eleven months."
+  },
+  {
+    "id": "detail-44",
+    "kind": "Speaker / reference",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "Who uses the nickname Monsieur Antichrist, and for whom?",
+    "answer": "The examining magistrate uses it for Meursault when dismissing him from meetings."
+  },
+  {
+    "id": "detail-45",
+    "kind": "Detail",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "What social impression does the routine of the investigation give Meursault?",
+    "answer": "The absurd impression of belonging to a family."
+  },
+  {
+    "id": "detail-46",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "Which event makes prison feel like a settled reality rather than temporary waiting?",
+    "answer": "Marie’s only visit and the subsequent letter saying she cannot return."
+  },
+  {
+    "id": "detail-47",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "Why is Marie no longer permitted to visit?",
+    "answer": "She is not Meursault’s wife."
+  },
+  {
+    "id": "detail-48",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "Who shares the first prison room, and how do they react to Meursault’s charge?",
+    "answer": "Mostly Arab prisoners; they laugh at first, then fall silent when he says he killed an Arab."
+  },
+  {
+    "id": "detail-49",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "How do the other prisoners help Meursault on the first night?",
+    "answer": "They show him how to arrange his sleeping mat and roll one end into a pillow."
+  },
+  {
+    "id": "detail-50",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "What bothers Meursault during his first night in prison?",
+    "answer": "Bugs crawling over his face."
+  },
+  {
+    "id": "detail-51",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "What are the sleeping and washing arrangements in his individual cell?",
+    "answer": "Suspended wooden bed boards, a bucket for a toilet, and a tin washbasin."
+  },
+  {
+    "id": "detail-52",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "What can Meursault see from the small cell window?",
+    "answer": "The sea; the prison stands on heights above the town."
+  },
+  {
+    "id": "detail-53",
+    "kind": "Sequence",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "What route does Meursault take to the visiting room?",
+    "answer": "A long corridor, stairs downward, then another corridor."
+  },
+  {
+    "id": "detail-54",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "How is the visiting room divided?",
+    "answer": "Two long grates divide it into three sections, with eight to ten meters between visitors and prisoners."
+  },
+  {
+    "id": "detail-55",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 51,
+    "prompt": "What does Marie wear during the prison visit?",
+    "answer": "A striped dress; her face is suntanned."
+  },
+  {
+    "id": "detail-56",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "Which two visitors flank Marie?",
+    "answer": "A thin-lipped old woman in black and a heavy bareheaded woman speaking loudly and gesturing."
+  },
+  {
+    "id": "detail-57",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "Why does the visiting room initially make Meursault dizzy?",
+    "answer": "Its harsh light and echoing voices contrast with his quiet, dark cell."
+  },
+  {
+    "id": "detail-58",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "How do most Arab prisoners and their families manage to communicate without shouting?",
+    "answer": "They squat facing each other and speak quietly beneath the louder conversations."
+  },
+  {
+    "id": "detail-59",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "Where is the guard positioned during the visit?",
+    "answer": "At the far end of the passage between the two grates."
+  },
+  {
+    "id": "detail-60",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "Whose regards does Marie pass along?",
+    "answer": "Raymond’s."
+  },
+  {
+    "id": "detail-61",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "Who silently looks at the old woman in black?",
+    "answer": "A small young prisoner with delicate hands, her son."
+  },
+  {
+    "id": "detail-62",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "What does Meursault physically long to do while Marie urges him to hope?",
+    "answer": "Squeeze her shoulders through her dress and feel its thin material."
+  },
+  {
+    "id": "detail-63",
+    "kind": "Speaker / reference",
+    "chapter": 2,
+    "page": 53,
+    "prompt": "Who predicts acquittal, marriage, and swimming again?",
+    "answer": "Marie, speaking to Meursault during the prison visit."
+  },
+  {
+    "id": "detail-64",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 53,
+    "prompt": "What has the loud woman left at the clerk’s office?",
+    "answer": "A basket of things; she lists the contents because they cost money."
+  },
+  {
+    "id": "detail-65",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 53,
+    "prompt": "What does Marie discuss while continuing to smile?",
+    "answer": "Her job."
+  },
+  {
+    "id": "detail-66",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 53,
+    "prompt": "Which pair forms a quiet exception to the visiting-room noise?",
+    "answer": "The young man and his mother, who gaze silently at one another."
+  },
+  {
+    "id": "detail-67",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 53,
+    "prompt": "How does the old woman say goodbye to her son?",
+    "answer": "She reaches between the bars and gives a long, slow wave."
+  },
+  {
+    "id": "detail-68",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 53,
+    "prompt": "Who keeps shouting even after the room grows quiet?",
+    "answer": "The heavy woman speaking to the prisoner on Meursault’s right."
+  },
+  {
+    "id": "detail-69",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 53,
+    "prompt": "What is Meursault’s final view of Marie at the visit?",
+    "answer": "She is still pressed against the bars with a sad, forced smile after throwing him a kiss."
+  },
+  {
+    "id": "detail-70",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "What does Meursault eventually look forward to in his prison routine?",
+    "answer": "The daily courtyard walk and visits from his lawyer."
+  },
+  {
+    "id": "detail-71",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "What imaginary confined place does Meursault think he could get used to?",
+    "answer": "The hollow trunk of a dead tree, looking up at the sky."
+  },
+  {
+    "id": "detail-72",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "What small detail of his lawyer’s visits becomes something to anticipate?",
+    "answer": "Seeing the lawyer’s ties."
+  },
+  {
+    "id": "detail-73",
+    "kind": "Speaker / reference",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "Whose repeated idea helps Meursault explain adaptation to prison?",
+    "answer": "Maman’s idea that people eventually get used to anything."
+  },
+  {
+    "id": "detail-74",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "Does Meursault’s sexual longing focus exclusively on Marie?",
+    "answer": "No. He recalls women generally and many past encounters."
+  },
+  {
+    "id": "detail-75",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "Who discusses the deprivation of women with Meursault?",
+    "answer": "The head guard, who makes rounds at mealtime with the kitchen workers."
+  },
+  {
+    "id": "detail-76",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "What does the guard explain about Meursault’s deprivation?",
+    "answer": "Loss of freedom is precisely the punishment of imprisonment."
+  },
+  {
+    "id": "detail-77",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "Which personal possessions are taken away when Meursault enters prison?",
+    "answer": "His belt, shoelaces, tie, pocket contents, and especially his cigarettes."
+  },
+  {
+    "id": "detail-78",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 54,
+    "prompt": "What does Meursault use as a substitute for cigarettes?",
+    "answer": "Wood chips broken from his bed boards, which he sucks on."
+  },
+  {
+    "id": "detail-79",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "Why does the cigarette ban eventually stop feeling like punishment?",
+    "answer": "He becomes accustomed to not smoking."
+  },
+  {
+    "id": "detail-80",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "What mental exercise helps Meursault occupy hours in prison?",
+    "answer": "Reconstructing his room and cataloguing every object and detail from memory."
+  },
+  {
+    "id": "detail-81",
+    "kind": "Sequence",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "How does Meursault’s memory inventory become increasingly detailed?",
+    "answer": "Furniture, objects on each piece, then details such as cracks, chipped edges, colors, and textures."
+  },
+  {
+    "id": "detail-82",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "What conclusion does Meursault draw about a person who has lived for only one day?",
+    "answer": "That the memories could occupy that person through a hundred years of prison."
+  },
+  {
+    "id": "detail-83",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "How much does Meursault eventually sleep each day?",
+    "answer": "Sixteen to eighteen hours."
+  },
+  {
+    "id": "detail-84",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "Where does Meursault find the old newspaper scrap?",
+    "answer": "Between the straw mattress and bed boards, partly stuck to the canvas."
+  },
+  {
+    "id": "detail-85",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "What part of the newspaper story is missing?",
+    "answer": "Its beginning."
+  },
+  {
+    "id": "detail-86",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "Where does Meursault believe the newspaper crime happened?",
+    "answer": "Czechoslovakia."
+  },
+  {
+    "id": "detail-87",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "After how many years does the traveler return home, and with whom?",
+    "answer": "After twenty-five years, with a wife and child."
+  },
+  {
+    "id": "detail-88",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "Who operates the hotel in the traveler’s home village?",
+    "answer": "His mother and sister."
+  },
+  {
+    "id": "detail-89",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "Where does the traveler leave his wife and child before visiting his mother?",
+    "answer": "At another hotel."
+  },
+  {
+    "id": "detail-90",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "Why does the traveler conceal his identity and take a room?",
+    "answer": "To surprise his family as a joke; his mother does not recognize him."
+  },
+  {
+    "id": "detail-91",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "Why do the mother and sister kill the traveler, and what weapon do they use?",
+    "answer": "They want to steal his displayed money and beat him with a hammer."
+  },
+  {
+    "id": "detail-92",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "Where do the mother and sister dispose of the traveler’s body?",
+    "answer": "In the river."
+  },
+  {
+    "id": "detail-93",
+    "kind": "Sequence",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "What happens after the wife reveals the traveler’s identity?",
+    "answer": "The mother hangs herself, and the sister throws herself into a well."
+  },
+  {
+    "id": "detail-94",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "What judgment does Meursault make about the traveler’s joke?",
+    "answer": "He thinks the traveler brought disaster on himself and that people should not play such games."
+  },
+  {
+    "id": "detail-95",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "Which time words retain meaning as days lose their names?",
+    "answer": "Yesterday and tomorrow."
+  },
+  {
+    "id": "detail-96",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "How does Meursault react when told he has spent five months in prison?",
+    "answer": "He believes it but cannot make sense of the duration; it feels like one unending day."
+  },
+  {
+    "id": "detail-97",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "What object serves as Meursault’s mirror?",
+    "answer": "His tin plate."
+  },
+  {
+    "id": "detail-98",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "What troubles Meursault about his reflection?",
+    "answer": "It appears stern and sad even when he tries to smile."
+  },
+  {
+    "id": "detail-99",
+    "kind": "Detail",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "What does recognizing his own voice make Meursault realize?",
+    "answer": "He has been talking to himself for many days."
+  },
+  {
+    "id": "detail-100",
+    "kind": "Speaker / reference",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "Whose earlier statement does Meursault remember at the end of the prison chapter?",
+    "answer": "The nurse at Maman’s funeral, associated with the idea that there is no way out."
+  },
+  {
+    "id": "detail-101",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "In what month is the court session scheduled to end?",
+    "answer": "June."
+  },
+  {
+    "id": "detail-102",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "How long does the lawyer predict the trial will take?",
+    "answer": "Two or three days."
+  },
+  {
+    "id": "detail-103",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "Which trial follows Meursault’s and helps explain the court’s hurry?",
+    "answer": "A parricide trial, concerning the killing of a parent."
+  },
+  {
+    "id": "detail-104",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "At what time do officials collect Meursault for court?",
+    "answer": "Seven-thirty in the morning."
+  },
+  {
+    "id": "detail-105",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "How does Meursault respond when a policeman offers him a cigarette before court?",
+    "answer": "He refuses it."
+  },
+  {
+    "id": "detail-106",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "Does Meursault say he has the jitters before the trial?",
+    "answer": "No. He is curious to see a trial because he has never seen one."
+  },
+  {
+    "id": "detail-107",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "What do the waiting-room noises remind Meursault of?",
+    "answer": "Neighborhood festivities where a hall is cleared for dancing after a concert."
+  },
+  {
+    "id": "detail-108",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "What signal precedes removal of his handcuffs and entry into court?",
+    "answer": "A small bell rings."
+  },
+  {
+    "id": "detail-109",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 57,
+    "prompt": "What comparison does Meursault make when he first looks at the jury?",
+    "answer": "Anonymous passengers on streetcar seats inspecting a new arrival."
+  },
+  {
+    "id": "detail-110",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 58,
+    "prompt": "Why has the press exaggerated interest in Meursault’s case?",
+    "answer": "Summer is a slow news season, and his case and the parricide provide stories."
+  },
+  {
+    "id": "detail-111",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 58,
+    "prompt": "Why is the correspondent from Paris actually present?",
+    "answer": "He was sent to cover the parricide and is also asked to report on Meursault’s trial."
+  },
+  {
+    "id": "detail-112",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 58,
+    "prompt": "To what animal does Meursault compare the Paris correspondent?",
+    "answer": "A fattened-up weasel."
+  },
+  {
+    "id": "detail-113",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 58,
+    "prompt": "Why does Meursault feel like an intruder in the courtroom?",
+    "answer": "The professionals greet each other like members of a familiar club or shared world."
+  },
+  {
+    "id": "detail-114",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 58,
+    "prompt": "What instructions does the lawyer give Meursault immediately before proceedings?",
+    "answer": "Answer briefly, volunteer nothing, and leave the rest to the lawyer."
+  },
+  {
+    "id": "detail-115",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 58,
+    "prompt": "How is the prosecutor dressed, and what eyewear does he wear?",
+    "answer": "A red robe and pince-nez; he is tall and thin."
+  },
+  {
+    "id": "detail-116",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "How many judges enter, and what colors are their robes?",
+    "answer": "Three judges: two in black and the central presiding judge in red."
+  },
+  {
+    "id": "detail-117",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "What does the presiding judge do with his cap and handkerchief?",
+    "answer": "He puts his cap before him and wipes his bald head with the handkerchief."
+  },
+  {
+    "id": "detail-118",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "What is distinctive about the youngest reporter?",
+    "answer": "Gray flannel trousers, a blue tie, bright eyes, and a pen left unused while he watches Meursault."
+  },
+  {
+    "id": "detail-119",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "What strange impression does the youngest reporter give Meursault?",
+    "answer": "That he is being watched by himself."
+  },
+  {
+    "id": "detail-120",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "How are jurors selected during the formal procedures?",
+    "answer": "By drawing lots."
+  },
+  {
+    "id": "detail-121",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "Which familiar restaurant customer appears near Céleste in the audience?",
+    "answer": "The small, stiff, determined woman Meursault describes in mechanical or robot-like terms."
+  },
+  {
+    "id": "detail-122",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "Who is the last witness called by name to leave the audience before testimony?",
+    "answer": "Céleste."
+  },
+  {
+    "id": "detail-123",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "What warning does the judge give the spectators?",
+    "answer": "Remain silent; the courtroom can be cleared at the slightest disturbance."
+  },
+  {
+    "id": "detail-124",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "What do spectators initially use to fan themselves?",
+    "answer": "Newspapers."
+  },
+  {
+    "id": "detail-125",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "What kind of fans are supplied to the three judges?",
+    "answer": "Woven-straw fans."
+  },
+  {
+    "id": "detail-126",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "Why does Meursault accept the repetition of his identity at trial as reasonable?",
+    "answer": "Trying the wrong person would be a serious mistake."
+  },
+  {
+    "id": "detail-127",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "What exact form of address has the lawyer instructed Meursault to use in answering the judge?",
+    "answer": "Yes, Your Honor."
+  },
+  {
+    "id": "detail-128",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "What financial reason does Meursault give for placing Maman in the home?",
+    "answer": "He could not afford the care she needed."
+  },
+  {
+    "id": "detail-129",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "How does Meursault describe his relationship with Maman by the time she lived at the home?",
+    "answer": "They expected nothing more from each other and had adapted to their separate lives."
+  },
+  {
+    "id": "detail-130",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "What intention does the prosecutor ask about when discussing the return to the spring?",
+    "answer": "Whether Meursault returned alone intending to kill the Arab."
+  },
+  {
+    "id": "detail-131",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 60,
+    "prompt": "How does Meursault explain being armed and returning to the spring?",
+    "answer": "He says it simply happened that way, not that he had planned a killing."
+  },
+  {
+    "id": "detail-132",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "Where does Meursault go during the midday adjournment?",
+    "answer": "Back to prison by van, where he eats before being brought to court again."
+  },
+  {
+    "id": "detail-133",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "Which two observers do not use fans even in the hotter afternoon court?",
+    "answer": "The young reporter and the small robot-like woman."
+  },
+  {
+    "id": "detail-134",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "How does the home’s director initially qualify Maman’s complaints about Meursault?",
+    "answer": "He says residents commonly complain about their relatives."
+  },
+  {
+    "id": "detail-135",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "What four funeral details does the director use to characterize Meursault’s calm?",
+    "answer": "He did not want to see the body, did not cry, left without a final graveside tribute, and did not know Maman’s age."
+  },
+  {
+    "id": "detail-136",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "Who told the director that Meursault did not know Maman’s age?",
+    "answer": "An employee of the undertaker."
+  },
+  {
+    "id": "detail-137",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "What makes Meursault suddenly want to cry in court?",
+    "answer": "He feels the crowd’s hatred after the director’s testimony and the prosecutor’s triumphant response."
+  },
+  {
+    "id": "detail-138",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "Which actions does the caretaker report from the vigil?",
+    "answer": "Meursault did not want to see Maman, smoked, slept, and drank coffee."
+  },
+  {
+    "id": "detail-139",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "What does the lawyer establish about the caretaker’s own smoking?",
+    "answer": "He smoked a cigarette with Meursault."
+  },
+  {
+    "id": "detail-140",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "Who offered whom a cigarette, and who offered the coffee?",
+    "answer": "Meursault offered the caretaker a cigarette; the caretaker offered Meursault coffee."
+  },
+  {
+    "id": "detail-141",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "How does the prosecutor reinterpret the caretaker’s offer of coffee?",
+    "answer": "Even if a stranger offers coffee, he argues that a son should refuse beside his mother’s body."
+  },
+  {
+    "id": "detail-142",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "Why can Thomas Pérez not reliably report Meursault’s demeanor at the funeral?",
+    "answer": "His own grief overwhelmed him; he could not see properly and fainted."
+  },
+  {
+    "id": "detail-143",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "What distinction does the defense draw from Pérez’s testimony about tears?",
+    "answer": "Not seeing Meursault cry is different from having seen that he did not cry."
+  },
+  {
+    "id": "detail-144",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "What does the prosecutor do with a pencil after the audience laughs at the defense’s point?",
+    "answer": "He pokes holes in the title page of his file."
+  },
+  {
+    "id": "detail-145",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "How long is the recess before Céleste’s testimony?",
+    "answer": "Five minutes."
+  },
+  {
+    "id": "detail-146",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "What does Céleste keep turning in his hands?",
+    "answer": "His panama hat."
+  },
+  {
+    "id": "detail-147",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "What outfit does Céleste wear, and what replaces his collar fastening?",
+    "answer": "His new suit, worn on Sunday race outings with Meursault; a brass stud holds his shirt shut."
+  },
+  {
+    "id": "detail-148",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "How does Céleste describe his relationship to Meursault?",
+    "answer": "Meursault is both his customer and his friend."
+  },
+  {
+    "id": "detail-149",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "Who explains Meursault’s silence as speaking only when he has something to say?",
+    "answer": "Céleste, defending his friend during testimony."
+  },
+  {
+    "id": "detail-150",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "Who attributes the crime to bad luck, and how does the judge respond?",
+    "answer": "Céleste; the judge says the court is there to judge that kind of misfortune and cuts him off."
+  },
+  {
+    "id": "detail-151",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "How does Meursault react emotionally to Céleste’s attempted defense?",
+    "answer": "He feels, for the first time, the desire to kiss a man in gratitude, but makes no gesture."
+  },
+  {
+    "id": "detail-152",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "What does Céleste do after leaving the witness stand?",
+    "answer": "He stays through the trial, leaning forward with elbows on knees and his hat in his hands."
+  },
+  {
+    "id": "detail-153",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "What does Meursault notice about Marie’s appearance in court?",
+    "answer": "She wears a hat; he prefers her hair loose and notices her lower lip and figure."
+  },
+  {
+    "id": "detail-154",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "How does Marie say she first knew Meursault?",
+    "answer": "They worked in the same office."
+  },
+  {
+    "id": "detail-155",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "What does Marie acknowledge about their intended future?",
+    "answer": "They were supposed to marry."
+  },
+  {
+    "id": "detail-156",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "What outside evidence has the prosecutor checked about Marie and Meursault’s outing?",
+    "answer": "The movie listings for that day."
+  },
+  {
+    "id": "detail-157",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "Who starred in the comedy mentioned in Marie’s testimony?",
+    "answer": "Fernandel."
+  },
+  {
+    "id": "detail-158",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "What activities does the prosecutor use to portray Meursault as unfeeling after Maman’s death?",
+    "answer": "Swimming, beginning a sexual relationship, and watching a comedy."
+  },
+  {
+    "id": "detail-159",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "How does Marie react to the prosecutor’s presentation of her testimony?",
+    "answer": "She sobs and says he has made her words express the opposite of her meaning."
+  },
+  {
+    "id": "detail-160",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "Who calls Meursault honest and decent, but receives little attention?",
+    "answer": "Masson."
+  },
+  {
+    "id": "detail-161",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "What two favorable points does Salamano offer?",
+    "answer": "Meursault treated his dog well; he and Maman had run out of things to say, explaining the home placement."
+  },
+  {
+    "id": "detail-162",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "Who repeatedly appeals for understanding while defending Meursault’s relationship with Maman?",
+    "answer": "Salamano."
+  },
+  {
+    "id": "detail-163",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "Who is the final witness to testify?",
+    "answer": "Raymond."
+  },
+  {
+    "id": "detail-164",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "Why does the judge interrupt Raymond’s initial declaration of innocence?",
+    "answer": "Witnesses must supply facts, not verdicts or judgments, and answer the questions asked."
+  },
+  {
+    "id": "detail-165",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "Why did the victim hate Raymond, according to Raymond’s testimony?",
+    "answer": "Raymond had beaten the victim’s sister."
+  },
+  {
+    "id": "detail-166",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "Who repeatedly invokes chance to explain Meursault’s involvement?",
+    "answer": "Raymond, explaining the beach visit and the letter."
+  },
+  {
+    "id": "detail-167",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "Which earlier acts does the prosecutor use to connect Meursault with Raymond’s wrongdoing?",
+    "answer": "Writing the letter, failing to stop the beating, and giving helpful testimony at the police station."
+  },
+  {
+    "id": "detail-168",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "What occupation does Raymond claim, and what occupation does the prosecutor attribute to him?",
+    "answer": "Raymond says warehouse guard; the prosecutor says procurer or pimp."
+  },
+  {
+    "id": "detail-169",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "How do Raymond and Meursault respond when asked whether they are friends?",
+    "answer": "Both confirm that they are friends."
+  },
+  {
+    "id": "detail-170",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "Who challenges whether the trial concerns a mother’s burial or a man’s killing?",
+    "answer": "Meursault’s defense lawyer, objecting to the prosecution’s emphasis."
+  },
+  {
+    "id": "detail-171",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "How does the prosecutor answer the defense’s separation of the funeral from the killing?",
+    "answer": "He insists that the two are profoundly connected and treats the funeral conduct as evidence of criminal character."
+  },
+  {
+    "id": "detail-172",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "What physical signs show the lawyer is shaken after the prosecutor’s funeral accusation?",
+    "answer": "He shrugs and wipes sweat from his brow, appearing unsettled."
+  },
+  {
+    "id": "detail-173",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 66,
+    "prompt": "What sounds does Meursault recognize on the return trip to prison?",
+    "answer": "Newspaper and sandwich vendors, birds, streetcars, and the evening hum above the port."
+  },
+  {
+    "id": "detail-174",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 66,
+    "prompt": "What former happiness does the summer evening evoke?",
+    "answer": "The familiar route home and the expectation of easy, dreamless sleep."
+  },
+  {
+    "id": "detail-175",
+    "kind": "Detail",
+    "chapter": 3,
+    "page": 66,
+    "prompt": "What destination replaces the comforting endpoint of that old route?",
+    "answer": "His cell, where he waits for the following day."
+  },
+  {
+    "id": "detail-176",
+    "kind": "Sequence",
+    "chapter": 1,
+    "page": 46,
+    "prompt": "Put these first legal events in order: lawyer visit, arrest questioning, first magistrate interview.",
+    "answer": "Arrest questioning → first magistrate interview about a week later → lawyer visit the next day."
+  },
+  {
+    "id": "detail-177",
+    "kind": "Sequence",
+    "chapter": 1,
+    "page": 50,
+    "prompt": "Put these developments in order: cordial routine, crucifix confrontation, lawyer’s funeral questions.",
+    "answer": "Lawyer’s questions about the funeral → crucifix confrontation → later cordial and routine interviews."
+  },
+  {
+    "id": "detail-178",
+    "kind": "Sequence",
+    "chapter": 2,
+    "page": 56,
+    "prompt": "Put the newspaper-story events in order: wife identifies traveler, return home, family murders traveler, suicides.",
+    "answer": "Return home → mother and sister murder the unrecognized traveler → wife reveals his identity → mother and sister die by suicide."
+  },
+  {
+    "id": "detail-179",
+    "kind": "Sequence",
+    "chapter": 3,
+    "page": 65,
+    "prompt": "Put the principal afternoon witnesses in order, beginning with the home’s director.",
+    "answer": "Director → caretaker → Thomas Pérez → Céleste → Marie → Masson → Salamano → Raymond."
+  },
+  {
+    "id": "detail-180",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 64,
+    "prompt": "During testimony, who says her words are being twisted, and whose questioning causes this?",
+    "answer": "Marie; the prosecutor uses her account of their outing to condemn Meursault’s character."
+  },
+  {
+    "id": "detail-181",
+    "kind": "Speaker / reference",
+    "chapter": 1,
+    "page": 49,
+    "prompt": "When the magistrate says his life would lose meaning, whose disbelief has provoked him?",
+    "answer": "Meursault’s refusal to believe in God."
+  },
+  {
+    "id": "detail-182",
+    "kind": "Speaker / reference",
+    "chapter": 2,
+    "page": 52,
+    "prompt": "In the visiting-room scene, who are the quiet old woman and young man in relation to one another?",
+    "answer": "Mother and son; he is a prisoner."
+  },
+  {
+    "id": "detail-183",
+    "kind": "Speaker / reference",
+    "chapter": 2,
+    "page": 55,
+    "prompt": "In the newspaper story, whose mother fails to recognize her own child?",
+    "answer": "The returning wealthy traveler’s mother, who runs the hotel with his sister."
+  },
+  {
+    "id": "detail-184",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 62,
+    "prompt": "When the caretaker says he could not refuse the cigarette, who had offered it?",
+    "answer": "Meursault."
+  },
+  {
+    "id": "detail-185",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 63,
+    "prompt": "Whose eyes seem wet and lips tremble as he looks toward Meursault from the witness stand?",
+    "answer": "Céleste’s."
+  },
+  {
+    "id": "detail-186",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 59,
+    "prompt": "Who is the central red-robed official who opens the trial, as distinct from the red-robed prosecutor?",
+    "answer": "The presiding judge."
+  },
+  {
+    "id": "detail-187",
+    "kind": "Speaker / reference",
+    "chapter": 3,
+    "page": 61,
+    "prompt": "When the director reports funeral conduct, whose behavior is he describing?",
+    "answer": "Meursault’s behavior at Maman’s funeral."
+  }
+]

@@ -1,0 +1,13 @@
+// One sentence-recall card per sentence in the supplied reading.
+// Input is a local PDFKit text extraction; the full-book extraction is never published.
+import fs from 'node:fs';
+const input=fs.readFileSync(process.argv[2],'utf8');
+const pages=[...input.matchAll(/=== PDF PAGE (\d+) ===\n([\s\S]*?)(?=\n=== PDF PAGE|$)/g)].filter(m=>Number(m[1])>=46&&Number(m[1])<=66);
+const locations=[];let text='';
+for(const m of pages){const body=m[2].replace(/^\s*[123]\s*\n/,'').replace(/(\w)-\s*\n(\w)/g,'$1$2').replace(/\s+/g,' ').trim();locations.push({start:text.length,page:Number(m[1])});text+=body+' ';}
+const sentences=[...new Intl.Segmenter('en',{granularity:'sentence'}).segment(text)].filter(s=>s.segment.trim());
+const salient=/\b(?:eleven months|sixteen to eighteen|twenty-five years|eight to ten|two or three|seven-thirty|two o’clock|five months|five-minute|silver crucifix|panama hat|brass stud|tin plate|tin washbasin|straw mattress|wooden boards|wood chips|newspaper|cigarette|cigarettes|coffee|hammer|river|well|Czechoslovakia|Fernandel|Marengo|Raymond|Salamano|Masson|Pérez|Céleste|Marie|Maman|God|Antichrist|magistrate|prosecutor|lawyer|caretaker|director|clerk|guard|mother|sister|wife|child|prison|sea|sun|heat|flies|blue|red|black|white|hat|tie|teeth|eyes|smile|bars|grates|swimming|married|sixteen|eighteen|five|four|three|two|one|June|Sunday|Saturday)\b/gi;
+const cards=sentences.map((s,i)=>{const sentence=s.segment.trim();const page=locations.filter(p=>p.start<=s.index).at(-1).page;const chapter=page<=50?1:page<=56?2:3;const matches=[...sentence.matchAll(salient)];let start,end;if(matches.length){const hit=matches[i%matches.length];start=hit.index;end=start+hit[0].length}else{const words=[...sentence.matchAll(/[\p{L}\p{N}’'-]+/gu)];if(words.length<=3){start=0;end=sentence.length}else{const offset=Math.max(1,Math.floor(words.length*.55));start=words[offset].index;end=words[Math.min(words.length-1,offset+Math.max(0,Math.floor(words.length*.18)))].index+words[Math.min(words.length-1,offset+Math.max(0,Math.floor(words.length*.18)))][0].length}}
+return {id:`sentence-${i+1}`,kind:'Sentence recall',chapter,page,prompt:`Complete the sentence: ${sentence.slice(0,start)}[ … ]${sentence.slice(end)}`,answer:sentence.slice(start,end),...(i>0?{context:sentences[i-1].segment.trim()}:{} )};});
+fs.writeFileSync('src/data/stranger-sentences.json',JSON.stringify(cards,null,2)+'\n');
+console.log(`${cards.length} sentence cards, PDF pages ${pages[0][1]}–${pages.at(-1)[1]}.`);
