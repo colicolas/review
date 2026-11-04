@@ -16,7 +16,17 @@ npm run typecheck
 npm run build
 ```
 
-The static export is in `out/`.
+Production now requires a running Next.js server. Use `npm run build` and `npm start`; do not serve a static export. The old `out/` export is removed.
+
+## Password access
+
+The entire site, including PDFs and client question-bank bundles, is protected by a server-side password check. A successful sign-in issues an HTTP-only, signed session cookie with a fixed 48-hour expiry; it is not extended by visiting more pages. The sidebar’s “Lock notebook” button deletes the cookie. An open page also returns to the password screen when its session expires.
+
+Local credentials are already configured in the untracked `.env.local`. For a new installation or production deployment, set `REVIEW_PASSWORD` and `REVIEW_SESSION_SECRET` using `.env.example` as the key reference; generate a unique random session secret of at least 32 characters. Never expose these values using `NEXT_PUBLIC_` environment variables. Password or secret changes invalidate existing sessions.
+
+Use HTTPS in production so the cookie is marked Secure. The normal local HTTP development flow is supported. The production host must support Next.js server execution: this password gate cannot be deployed as static HTML. The Sites manifest no longer advertises a public static directory.
+
+Run `node scripts/check-auth.mjs` to check password rejection, cookie lifetime, tampering and expiration, file/chunk protection, safe redirects, origin checks, and logout.
 
 ## Add a new test
 

@@ -4,3 +4,5 @@ out
 *.tsbuildinfo
 .env*
 .openai/local*
+
+!.env.example
