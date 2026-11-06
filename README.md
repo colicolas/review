@@ -89,3 +89,9 @@ Every study has participant information, procedures, safeguards, a results table
 Practice mode reveals guides by part; test mode withholds all guides until submission. All marking is explicitly self-assessment out of seven (one each for A–E, two for F). Drafts and self-scores persist separately per study under `psych-learning-aaq-v1`. Revising an answer clears its old self-score. Random selection avoids repeats until the current topic selection is exhausted. All writing stays in browser storage; no grading API or request polling is used.
 
 Data: `src/data/psych-aaq.json`. Validation: `node scripts/check-psych-aaq.mjs` checks bank completeness, scoring limits, draft restoration, randomization, and server-rendered form visibility.
+
+### Randomized consequence and schedule drills
+
+The consequence-classification exercise now shuffles both its 12 scenarios and answer choices after hydration and on “Restart & shuffle.” Directly underneath, `#schedule-exercise` adds 20 equally balanced identification scenarios for FR, VR, FI, VI, and continuous reinforcement. Both drills retain their shuffled order and graded answers when using Previous/Next. Continuous reinforcement is explicitly treated as the preferred label for every-response reinforcement (equivalent to FR 1).
+
+Validate with `node scripts/check-scenario-exercises.mjs`.
