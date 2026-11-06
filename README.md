@@ -103,3 +103,9 @@ A server-side temporary code accepts Hannah’s first name without case sensitiv
 Guest sign-in opens `/subjects/psychology/2026-11-06-learning/` and allows that review, the Psychology notebook index, its source PDF, and required shared browser assets. Other subjects, other PDFs, and private API paths are denied server-side. The guest sidebar exposes only Psychology. Subject routes independently check the session as well. Non-Psychology question banks are passed through authorized server responses, not included in shared JavaScript bundles. The primary password retains full 48-hour access.
 
 `node scripts/check-auth.mjs` covers case handling, scope escalation/tampering, subject/file restrictions, deadline rejection, and shortened guest cookies.
+
+### Separate English guest
+
+Joyce’s case-insensitive first-name code grants access only to the English notebook and both current Stranger reviews. It opens `/subjects/english/` and expires **November 6, 2026 at 3 p.m. PST (23:00 UTC)**, including existing sessions. Hannah’s independent Psychology deadline remains noon. Both codes reuse the existing session-signing environment variables.
+
+The subject restriction applies in the request proxy and server-rendered routes, with a subject-only sidebar. All subject question banks are now supplied through authorized server responses rather than shared browser JavaScript, so a guest’s necessary access to UI assets does not reveal another notebook’s datasets.

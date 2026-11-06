@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import {createExpiryCheck} from '../src/lib/session-expiry.ts';
 import ts from 'typescript';
 import {NextRequest} from 'next/server.js';
-import {AUTH_COOKIE,SESSION_SECONDS,PSYCHOLOGY_HOME,HANNAH_EXPIRES_AT,guestPathAllowed,temporaryPsychCodeMatches,createSession,getAuthConfig,passwordMatches,safeReturnTo,verifySession} from '../src/lib/auth.ts';
+import {AUTH_COOKIE,SESSION_SECONDS,PSYCHOLOGY_HOME,HANNAH_EXPIRES_AT,JOYCE_EXPIRES_AT,temporaryGuestScope,guestPathAllowed,temporaryPsychCodeMatches,createSession,getAuthConfig,passwordMatches,safeReturnTo,verifySession} from '../src/lib/auth.ts';
 
 const project=new URL('../',import.meta.url);
 const authUrl=new URL('src/lib/auth.ts',project).href;
@@ -131,7 +131,35 @@ try{
  assert.equal(expiredAttempt.headers.get('set-cookie'),null);
  assert.equal(new URL(expiredAttempt.headers.get('location')).pathname,'/login/');
 }finally{Date.now=realNow;}
+// Joyce has a separate English-only deadline, three hours after Hannah's.
+assert.equal(JOYCE_EXPIRES_AT-HANNAH_EXPIRES_AT,3*60*60*1000);
+const englishNow=JOYCE_EXPIRES_AT-60*60*1000;
+for(const code of ['joyce','JOYCE','JoYcE',' joyce '])assert.equal(temporaryGuestScope(code,englishNow),'english');
+assert.equal(temporaryGuestScope('joyc',englishNow),null);
+assert.equal(temporaryGuestScope('hannah',englishNow),null,'Hannah must remain expired after noon.');
+assert.equal(temporaryGuestScope('joyce',JOYCE_EXPIRES_AT),null);
+const englishSession=createSession(config,englishNow,'english');
+assert.equal(englishSession.session.expiresAt,JOYCE_EXPIRES_AT);
+assert.equal(verifySession(englishSession.token,config,englishNow).scope,'english');
+assert.equal(verifySession(englishSession.token,config,JOYCE_EXPIRES_AT),null);
+for(const path of ['/subjects/english/','/subjects/english/2026-11-04-the-stranger/','/subjects/english/2026-11-06-the-stranger-ending/','/_next/static/chunks/reading.js'])assert.ok(guestPathAllowed(path,'english'));
+for(const path of [PSYCHOLOGY_HOME,'/subjects/psychology/','/psychology-learning-notes.pdf','/jess-coding-standards-2026.pdf','/subjects/english-extra/','/api/private/'])assert.ok(!guestPathAllowed(path,'english'));
+try{
+ Date.now=()=>englishNow;
+ const englishLogin=await unlock.POST(post('/api/auth/unlock/','JoYcE',PSYCHOLOGY_HOME));
+ assert.equal(new URL(englishLogin.headers.get('location')).pathname,'/subjects/english/');
+ const englishCookie=englishLogin.headers.get('set-cookie');
+ assert.ok(englishCookie.includes('Max-Age=3600'));
+ const englishToken=englishCookie.split(';')[0].slice(AUTH_COOKIE.length+1);
+ const headers={cookie:AUTH_COOKIE+'='+englishToken};
+ assert.equal(new URL(proxy(new NextRequest(origin+'/',{headers})).headers.get('location')).pathname,'/subjects/english/');
+ for(const path of ['/subjects/english/','/subjects/english/2026-11-04-the-stranger/','/subjects/english/2026-11-06-the-stranger-ending/'])assert.equal(proxy(new NextRequest(origin+path,{headers})).headers.get('x-middleware-next'),'1');
+ for(const path of [PSYCHOLOGY_HOME,'/subjects/psychology/','/subjects/computer-science/','/psychology-learning-notes.pdf','/jess-coding-standards-2026.pdf'])assert.equal(proxy(new NextRequest(origin+path,{headers})).status,403);
+ Date.now=()=>JOYCE_EXPIRES_AT;
+ assert.equal(proxy(new NextRequest(origin+'/subjects/english/',{headers})).status,307);
+ assert.equal((await unlock.POST(post('/api/auth/unlock/','joyce'))).headers.get('set-cookie'),null);
+}finally{Date.now=realNow;}
 delete process.env.REVIEW_SESSION_SECRET;
 assert.equal(proxy(new NextRequest(origin+'/')).status,503);
 assert.equal((await unlock.POST(post('/api/auth/unlock/','2255'))).status,503);
-console.log('Passed: password acceptance/rejection, fixed 48-hour expiry, tamper rejection, password/secret rotation, protected pages/PDFs/chunks, secure cookie flags, same-origin POSTs, safe redirects, logout, fail-closed configuration, skewed browser clocks, one-shot expiry, no login-to-home redirect loop, case-insensitive Psychology guest access, hard expiry, and subject/file isolation.');
+console.log('Passed: password acceptance/rejection, fixed 48-hour expiry, tamper rejection, password/secret rotation, protected pages/PDFs/chunks, secure cookie flags, same-origin POSTs, safe redirects, logout, fail-closed configuration, skewed browser clocks, one-shot expiry, no login-to-home redirect loop, independent case-insensitive Psychology/English guest codes, hard expiry, and subject/file isolation.');

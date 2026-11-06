@@ -1,13 +1,13 @@
 'use client';
 import {useEffect,useState} from 'react';
-import {createMcqSession,mergeMcqMisses,openStaxSource,psychQuestions,scoreMcq,type PsychQuestion,type SessionQuestion} from '@/lib/psych-mcq';
+import {createMcqSession,mergeMcqMisses,openStaxSource,scoreMcq,type PsychQuestion,type SessionQuestion} from '@/lib/psych-mcq';
 const storageKey='psych-learning-ap-mcq-missed';
 type Mode='practice'|'test';
 function SourceCredit({question}:{question:PsychQuestion}){
  if(!question.source)return <p className="mcq-origin">Original AP-style practice</p>;
  return <p className="mcq-origin">Adapted from <a href={openStaxSource.url} target="_blank" rel="noreferrer">OpenStax, Q{question.source.split('-')[1]}</a>. Wording/options changed; explanation added. <a href={openStaxSource.license} target="_blank" rel="noreferrer">CC BY-NC-SA 4.0</a>.</p>;
 }
-export default function PsychMcqPractice(){
+export default function PsychMcqPractice({questions:psychQuestions}:{questions:PsychQuestion[]}){
  const [topic,setTopic]=useState('All learning topics'),[size,setSize]=useState('20'),[mode,setMode]=useState<Mode>('practice'),[origin,setOrigin]=useState('all'),[onlyMissed,setOnlyMissed]=useState(false),[missed,setMissed]=useState<string[]>([]),[ready,setReady]=useState(false);
  const [deck,setDeck]=useState<SessionQuestion[]>([]),[index,setIndex]=useState(0),[answers,setAnswers]=useState<Record<string,number>>({}),[sessionMode,setSessionMode]=useState<Mode>('practice'),[finished,setFinished]=useState(false);
  useEffect(()=>{try{const saved=JSON.parse(localStorage.getItem(storageKey)||'[]');if(Array.isArray(saved)){const ids=new Set(psychQuestions.map(q=>q.id));setMissed(saved.filter((id):id is string=>typeof id==='string'&&ids.has(id)))}}catch{}setReady(true)},[]);

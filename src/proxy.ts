@@ -1,5 +1,5 @@
 import {NextRequest,NextResponse} from 'next/server';
-import {AUTH_COOKIE,PSYCHOLOGY_HOME,getAuthConfig,guestPathAllowed,safeReturnTo,verifySession} from '@/lib/auth';
+import {AUTH_COOKIE,guestHome,isGuestScope,getAuthConfig,guestPathAllowed,safeReturnTo,verifySession} from '@/lib/auth';
 
 export function proxy(request:NextRequest){
  const path=request.nextUrl.pathname.replace(/\/$/,'')||'/';
@@ -16,9 +16,9 @@ export function proxy(request:NextRequest){
   response.headers.set('Cache-Control','private, no-store');
   return response;
  }
- if(session.scope==='psychology'){
-  if(path==='/')return NextResponse.redirect(new URL(PSYCHOLOGY_HOME,request.url),{headers:{'Cache-Control':'private, no-store'}});
-  if(!guestPathAllowed(request.nextUrl.pathname))return new NextResponse('This temporary code only grants access to AP Psychology.',{status:403,headers:{'Cache-Control':'private, no-store','Content-Type':'text/plain; charset=utf-8'}});
+ if(isGuestScope(session.scope)){
+  if(path==='/')return NextResponse.redirect(new URL(guestHome(session.scope),request.url),{headers:{'Cache-Control':'private, no-store'}});
+  if(!guestPathAllowed(request.nextUrl.pathname,session.scope))return new NextResponse(`This temporary code only grants access to ${session.scope==='psychology'?'AP Psychology':'English Literature'}.`,{status:403,headers:{'Cache-Control':'private, no-store','Content-Type':'text/plain; charset=utf-8'}});
  }
  const response=NextResponse.next();
  response.headers.set('Cache-Control','private, no-store');

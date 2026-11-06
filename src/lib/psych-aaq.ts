@@ -1,10 +1,8 @@
-import rawStudies from '@/data/psych-aaq.json';
 export const aaqLetters=['A','B','C','D','E','F'] as const;
 export type AaqLetter=typeof aaqLetters[number];
 export type AaqPart={letter:AaqLetter;label:string;maxPoints:number;prompt:string;model:string;criteria:string[];pitfall:string};
 export type AaqStudy={id:string;title:string;topic:string;sourceType:string;introduction:string;participants:string;procedure:string;ethics:string;table:{headers:string[];rows:string[][]};resultsNote:string;parts:AaqPart[]};
 export type AaqRecord={answers:Partial<Record<AaqLetter,string>>;scores:Partial<Record<AaqLetter,number>>;revealed:AaqLetter[];submitted:boolean};
-export const aaqStudies=rawStudies as AaqStudy[];
 export function emptyAaqRecord():AaqRecord{return {answers:{},scores:{},revealed:[],submitted:false};}
 export function scoreAaq(record:AaqRecord){
  let points=0,scored=0;
@@ -19,7 +17,7 @@ export function nextRandomAaq(studies:readonly AaqStudy[],seen:readonly string[]
  const chosen=pool[Math.floor(random()*pool.length)];
  return {id:chosen.id,seen:newCycle?[chosen.id]:[...new Set([...seen,chosen.id])],newCycle};
 }
-export function restoreAaqRecords(value:unknown):Record<string,AaqRecord>{
+export function restoreAaqRecords(value:unknown,aaqStudies:readonly AaqStudy[]):Record<string,AaqRecord>{
  const result:Record<string,AaqRecord>={};
  if(!value||typeof value!=='object'||Array.isArray(value))return result;
  for(const study of aaqStudies){

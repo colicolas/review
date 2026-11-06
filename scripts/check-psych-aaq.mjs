@@ -53,7 +53,7 @@ const input={
  [studies[1].id]:{answers:{B:'A different saved draft.'},scores:{B:0,F:99},revealed:['B','not-a-part'],submitted:false},
  'unknown-study':{answers:{A:'Do not load me.'}},
 };
-const restored=restoreAaqRecords(JSON.parse(JSON.stringify(input)));
+const restored=restoreAaqRecords(JSON.parse(JSON.stringify(input)),studies);
 assert.equal(Object.keys(restored).length,2);
 assert.equal(restored[studies[0].id].answers.A,'An experiment.');
 assert.equal(restored[studies[0].id].submitted,true);
@@ -62,7 +62,7 @@ assert.equal(restored[studies[1].id].answers.B,'A different saved draft.');
 assert.equal(restored[studies[1].id].scores.B,0);
 assert.equal(restored[studies[1].id].scores.F,undefined);
 assert.deepEqual(restored[studies[1].id].revealed,['B']);
-for(const invalid of [null,[],42,'bad'])assert.deepEqual(restoreAaqRecords(invalid),{});
+for(const invalid of [null,[],42,'bad'])assert.deepEqual(restoreAaqRecords(invalid,studies),{});
 const route=fs.readFileSync(new URL('src/app/subjects/[slug]/[exam]/page.tsx',root),'utf8');
 assert.ok(route.indexOf('<PsychAaqSection/>')>route.indexOf('id="ap-mcq"'));
 assert.ok(route.includes('href="#ap-aaq"'));
@@ -73,7 +73,7 @@ function componentUrl(relative,substitutions){
  for(const [specifier,url] of Object.entries(substitutions))output=output.replaceAll("'"+specifier+"'",JSON.stringify(url)).replaceAll('"'+specifier+'"',JSON.stringify(url));
  return 'data:text/javascript;base64,'+Buffer.from(output).toString('base64');
 }
-const shared={react:pathToFileURL(require.resolve('react')).href,'react/jsx-runtime':pathToFileURL(require.resolve('react/jsx-runtime')).href,'@/lib/psych-aaq':libraryUrl};
+const shared={react:pathToFileURL(require.resolve('react')).href,'react/jsx-runtime':pathToFileURL(require.resolve('react/jsx-runtime')).href,'@/lib/psych-aaq':libraryUrl,'@/data/psych-aaq.json':'data:text/javascript;base64,'+Buffer.from('export default '+JSON.stringify(studies)).toString('base64')};
 const practiceUrl=componentUrl('src/components/psych-aaq-practice.tsx',shared);
 const sectionUrl=componentUrl('src/components/psych-aaq-section.tsx',{...shared,'@/components/psych-aaq-practice':practiceUrl});
 const {default:Section}=await import(sectionUrl);

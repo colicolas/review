@@ -1,7 +1,5 @@
-import rawQuestions from '@/data/psych-ap-mcq.json';
 export type PsychQuestion={id:string;topic:string;skill:string;stem:string;options:string[];correct:number;explanation:string;trap?:string;source?:string;stimulus?:string};
 export type SessionQuestion=PsychQuestion&{choices:{text:string;originalIndex:number}[]};
-export const psychQuestions:PsychQuestion[]=rawQuestions;
 export const openStaxSource={
  title:'Psychology 2e · Chapter 6 review questions',
  url:'https://openstax.org/books/psychology-2e/pages/6-review-questions',

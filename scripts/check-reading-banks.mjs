@@ -58,6 +58,11 @@ for(const n of [1,2,3])assert.ok(!endHtml.includes(`Part Two · ${n}</option>`))
 for(const n of [1,2,3])assert.ok(firstHtml.includes(`Part Two · ${n}</option>`));
 assert.ok(endHtml.includes('Speakers &amp; references'));
 assert.ok(firstHtml.includes('People &amp; testimony'));
+const englishGuestHtml=renderToStaticMarkup(React.createElement(Review,{ending:true,guestSubject:'english'}));
+assert.match(englishGuestHtml,/href="\/subjects\/english\/?"/);
+assert.doesNotMatch(englishGuestHtml,/href="\/subjects\/psychology\/?"/);
+assert.doesNotMatch(englishGuestHtml,/href="\/subjects\/computer-science\/?"/);
+
 assert.ok(endHtml.includes('199 available'));
 const practiceSource=fs.readFileSync(path.join(root,'src/components/reading-practice.tsx'),'utf8');
 assert.ok(practiceSource.includes('localStorage.getItem(storageKey)')&&practiceSource.includes('localStorage.setItem(storageKey,'));

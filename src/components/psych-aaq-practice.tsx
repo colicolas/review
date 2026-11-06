@@ -1,8 +1,8 @@
 'use client';
 import {useEffect,useState} from 'react';
-import {aaqLetters,aaqStudies,emptyAaqRecord,nextRandomAaq,restoreAaqRecords,scoreAaq,type AaqLetter,type AaqRecord} from '@/lib/psych-aaq';
+import {aaqLetters,emptyAaqRecord,nextRandomAaq,restoreAaqRecords,scoreAaq,type AaqStudy,type AaqLetter,type AaqRecord} from '@/lib/psych-aaq';
 const storageKey='psych-learning-aaq-v1';
-export default function PsychAaqPractice(){
+export default function PsychAaqPractice({studies:aaqStudies}:{studies:readonly AaqStudy[]}){
  const [topic,setTopic]=useState('All learning topics');
  const [studyId,setStudyId]=useState(aaqStudies[0].id);
  const [seen,setSeen]=useState<string[]>([aaqStudies[0].id]);
@@ -11,7 +11,7 @@ export default function PsychAaqPractice(){
  const [ready,setReady]=useState(false);
  const [storageUnavailable,setStorageUnavailable]=useState(false);
  useEffect(()=>{
-  try{setRecords(restoreAaqRecords(JSON.parse(localStorage.getItem(storageKey)||'{}')));}catch{setStorageUnavailable(true);}
+  try{setRecords(restoreAaqRecords(JSON.parse(localStorage.getItem(storageKey)||'{}'),aaqStudies));}catch{setStorageUnavailable(true);}
   setReady(true);
  },[]);
  useEffect(()=>{if(!ready)return;try{localStorage.setItem(storageKey,JSON.stringify(records));}catch{setStorageUnavailable(true);}},[ready,records]);

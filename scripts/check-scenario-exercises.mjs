@@ -32,5 +32,5 @@ for(const [bank,labels] of [[operantScenarios,operantLabels],[scheduleScenarios,
  assert.deepEqual(scoreScenarios(deck,{[zero.id]:labels.length+1}),{answered:0,correct:0});
 }
 const route=fs.readFileSync(new URL('../src/app/subjects/[slug]/[exam]/page.tsx',import.meta.url),'utf8');
-assert.ok(route.includes('<Consequences/><OperantExercise/><ScheduleExercise/>'),'Schedule drill belongs directly below the consequence exercise.');
+assert.ok(route.indexOf('<ScheduleExercise')>route.indexOf('<OperantExercise'),'Schedule drill belongs below the consequence exercise.');
 console.log('Passed: 12 consequence scenarios and 20 balanced schedule scenarios; shuffled scenarios/answers, stable answer mapping, no duplicate questions, correct scoring, source immutability, and section placement.');

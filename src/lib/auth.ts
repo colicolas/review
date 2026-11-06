@@ -4,9 +4,17 @@ export const AUTH_COOKIE='review_session';
 export const SESSION_SECONDS=60*60*48;
 export const PSYCHOLOGY_HOME='/subjects/psychology/2026-11-06-learning/';
 export const HANNAH_EXPIRES_AT=Date.parse('2026-11-06T12:00:00-08:00');
+export const JOYCE_EXPIRES_AT=Date.parse('2026-11-06T15:00:00-08:00');
+export type GuestScope='psychology'|'english';
 const temporaryCodeHash='fc881aa34d44660e1012dec26ccda0b469d6c8359e91dc674dab4c095b9fe832';
+const guestAccess={
+ psychology:{expiresAt:HANNAH_EXPIRES_AT,hash:temporaryCodeHash,home:PSYCHOLOGY_HOME,paths:['/subjects/psychology',PSYCHOLOGY_HOME.slice(0,-1),'/psychology-learning-notes.pdf']},
+ english:{expiresAt:JOYCE_EXPIRES_AT,hash:'005195352c13e18429414c8b36a4047fdcfab8bb3a1aa1aa19d5ff26010c754d',home:'/subjects/english/',paths:['/subjects/english','/subjects/english/2026-11-04-the-stranger','/subjects/english/2026-11-06-the-stranger-ending']},
+};
+export function isGuestScope(scope:unknown):scope is GuestScope{return scope==='psychology'||scope==='english';}
+export function guestHome(scope:GuestScope){return guestAccess[scope].home;}
 export type AuthConfig={password:string;secret:string};
-export type Session={issuedAt:number;expiresAt:number;nonce:string;scope?:'owner'|'psychology'};
+export type Session={issuedAt:number;expiresAt:number;nonce:string;scope?:'owner'|GuestScope};
 
 export function getAuthConfig():AuthConfig{
  const password=process.env.REVIEW_PASSWORD;
@@ -22,18 +30,20 @@ function signature(payload:string,config:AuthConfig){
  const key=createHmac('sha256',config.secret).update(config.password).digest();
  return createHmac('sha256',key).update(payload).digest();
 }
-export function temporaryPsychCodeMatches(input:string,now=Date.now()){
+export function temporaryGuestScope(input:string,now=Date.now()):GuestScope|null{
  const digest=createHash('sha256').update(input.trim().toLowerCase()).digest();
- return now<HANNAH_EXPIRES_AT&&timingSafeEqual(digest,Buffer.from(temporaryCodeHash,'hex'));
+ for(const scope of ['psychology','english'] as const){const policy=guestAccess[scope];if(now<policy.expiresAt&&timingSafeEqual(digest,Buffer.from(policy.hash,'hex')))return scope;}
+ return null;
 }
-export function guestPathAllowed(pathname:string){
+export function temporaryPsychCodeMatches(input:string,now=Date.now()){return temporaryGuestScope(input,now)==='psychology';}
+export function guestPathAllowed(pathname:string,scope:GuestScope='psychology'){
  let path;
  try{path=decodeURIComponent(pathname).replace(/\/$/,'')||'/';}catch{return false;}
  if(path.includes('\\')||path.split('/').includes('..'))return false;
- return path==='/subjects/psychology'||path===PSYCHOLOGY_HOME.slice(0,-1)||path==='/psychology-learning-notes.pdf'||path.startsWith('/_next/static/');
+ return guestAccess[scope].paths.includes(path)||path.startsWith('/_next/static/');
 }
-export function createSession(config:AuthConfig,now=Date.now(),scope:'owner'|'psychology'='owner'){
- const expiresAt=scope==='psychology'?Math.min(now+SESSION_SECONDS*1000,HANNAH_EXPIRES_AT):now+SESSION_SECONDS*1000;
+export function createSession(config:AuthConfig,now=Date.now(),scope:'owner'|GuestScope='owner'){
+ const expiresAt=isGuestScope(scope)?Math.min(now+SESSION_SECONDS*1000,guestAccess[scope].expiresAt):now+SESSION_SECONDS*1000;
  if(expiresAt<=now)throw new Error('Temporary access has expired.');
  const session:Session={issuedAt:now,expiresAt,nonce:randomBytes(16).toString('base64url'),scope};
  const payload=Buffer.from(JSON.stringify(session)).toString('base64url');
@@ -52,8 +62,9 @@ export function verifySession(token:string|undefined,config:AuthConfig,now=Date.
   if(!Number.isSafeInteger(session.issuedAt)||!Number.isSafeInteger(session.expiresAt)||typeof session.nonce!=='string')return null;
   if(session.issuedAt>now||session.expiresAt<=now)return null;
   const lifetime=session.expiresAt-session.issuedAt;
-  if(session.scope==='psychology'){
-   if(now>=HANNAH_EXPIRES_AT||session.expiresAt>HANNAH_EXPIRES_AT||lifetime<=0||lifetime>SESSION_SECONDS*1000)return null;
+  if(isGuestScope(session.scope)){
+   const deadline=guestAccess[session.scope].expiresAt;
+   if(now>=deadline||session.expiresAt>deadline||lifetime<=0||lifetime>SESSION_SECONDS*1000)return null;
   }else if((session.scope!==undefined&&session.scope!=='owner')||lifetime!==SESSION_SECONDS*1000)return null;
   return session;
  }catch{return null;}
