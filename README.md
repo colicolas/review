@@ -71,3 +71,21 @@ Route: `/subjects/english/2026-11-06-the-stranger-ending/`.
 Pages 98–end continues the previous reading with Part Two, chapters 4–5 (digital PDF pages 67–82). Includes a ten-step plot progression, a speaker/reference guide, 199 authored detail/speaker/sequence questions, and 467 sentence-recall cards. The original November 4 quiz and its saved missed questions remain intact. The ending quiz uses its own `stranger-ending-quiz-missed` browser-storage key, with chapter filters for chapters 4 and 5.
 
 The authored bank is `src/data/stranger-ending-details.json`. Run `node scripts/build-stranger-recall.mjs /absolute/path/to/pdfkit-extraction.txt --ending` to rebuild only the ending sentence cards. The book’s download-information footer is excluded. Run `node scripts/check-reading-banks.mjs` to validate both banks and render-check the two review variants and chapter filters.
+
+## Psychology AP-style multiple-choice practice
+
+The end of the November 6 Psychology review (`#ap-mcq`) now includes 100 four-option MCQs across seven learning topics: 94 original AP-style items and six attributed OpenStax review-question adaptations. Online provenance and license details are in `src/data/psych-ap-mcq.LICENSE.md` and displayed on the page, alongside links to the released College Board classical-conditioning sample and a learning-unit Quizlet bank.
+
+Practice mode shows immediate explanations and common traps. Test mode permits answer changes and withholds feedback until finishing. Sessions shuffle both questions and answer choices, allow topic/source filters and sizes of 10/20/40/all, and persist missed IDs under `psych-learning-ap-mcq-missed`. Test answers update the missed bank only when submitted. All quiz behavior is local to the browser; no polling or new request loop is introduced.
+
+Run `node scripts/check-psych-mcq.mjs` to validate the 100-item bank, shuffled answer mapping, scoring, saved-mistake updates, and placement/source links.
+
+## Psychology AAQ guide and practice
+
+The Psychology review ends with `#ap-aaq`, after the MCQ bank. It explains the six-part, seven-point Article Analysis Question and links the public College Board rubric and released examples. The local practice bank contains 20 **original fictional** learning studies and 120 A–F written prompts; these are simulations, not peer-reviewed articles or past exam questions.
+
+Every study has participant information, procedures, safeguards, a results table, prompts, example responses, scoring criteria, and common mistakes. Topics include classical conditioning, operant conditioning, schedules, cognitive learning, observational learning/culture, and habituation. Statistics include means, medians, standard deviations, correlations, effect size, significance, ranges, and sample counts/proportions.
+
+Practice mode reveals guides by part; test mode withholds all guides until submission. All marking is explicitly self-assessment out of seven (one each for A–E, two for F). Drafts and self-scores persist separately per study under `psych-learning-aaq-v1`. Revising an answer clears its old self-score. Random selection avoids repeats until the current topic selection is exhausted. All writing stays in browser storage; no grading API or request polling is used.
+
+Data: `src/data/psych-aaq.json`. Validation: `node scripts/check-psych-aaq.mjs` checks bank completeness, scoring limits, draft restoration, randomization, and server-rendered form visibility.

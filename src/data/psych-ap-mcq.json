@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "learning-mcq-001",
+    "topic": "Foundations",
+    "skill": "Concept application",
+    "stem": "A child becomes more accurate at tying shoelaces after weeks of practice. Which feature makes this an example of learning?",
+    "options": [
+      "It depends on a relatively lasting change produced by experience",
+      "It is present at birth without practice",
+      "It occurs only while the child is unusually alert",
+      "It requires a reward after every successful attempt"
+    ],
+    "correct": 0,
+    "explanation": "Improved performance acquired through repeated experience is learning; reinforcement on every attempt is not necessary.",
+    "trap": "Temporary alertness and inborn reflexes are different from lasting experience-based change."
+  },
+  {
+    "id": "learning-mcq-002",
+    "topic": "Foundations",
+    "skill": "Concept application",
+    "stem": "A researcher repeatedly presents the same harmless vibration. The participant’s startle response steadily weakens. Which process is most directly demonstrated?",
+    "options": [
+      "Sensitization",
+      "Habituation",
+      "Stimulus generalization",
+      "Operant shaping"
+    ],
+    "correct": 1,
+    "explanation": "Habituation is a reduction in responsiveness to a repeatedly presented stimulus.",
+    "trap": "There is no behavior–consequence contingency or pairing of two stimuli in this description."
+  },
+  {
+    "id": "learning-mcq-003",
+    "topic": "Foundations",
+    "skill": "Concept application",
+    "stem": "After becoming accustomed to a humming fan, a student notices it sharply when its pitch suddenly changes. Which observation best supports dishabituation?",
+    "options": [
+      "The student had earned rewards for ignoring the fan",
+      "The student responds only when the fan is turned off",
+      "A novel change restores attention after a learned response reduction",
+      "The fan permanently damaged the student’s hearing"
+    ],
+    "correct": 2,
+    "explanation": "A response returning when the habituated stimulus changes is dishabituation.",
+    "trap": "A restored response to novelty supports learning rather than irreversible sensory loss."
+  },
+  {
+    "id": "learning-mcq-004",
+    "topic": "Foundations",
+    "skill": "Concept application",
+    "stem": "After several painful pinpricks, a person startles more strongly at the next mild touch. Which explanation is best?",
+    "options": [
+      "Extinction of a conditioned response",
+      "Negative punishment of flinching",
+      "An improved cognitive map",
+      "Sensitization to stimulation"
+    ],
+    "correct": 3,
+    "explanation": "Sensitization increases responsiveness after repeated or intense stimulation.",
+    "trap": "A stronger response is not necessarily reinforcement; no consequence has strengthened an emitted action."
+  },
+  {
+    "id": "learning-mcq-005",
+    "topic": "Foundations",
+    "skill": "Concept application",
+    "stem": "The same background noise fades from awareness in a calm room but repeatedly draws attention during a frightening situation. Which account best fits dual-process theory?",
+    "options": [
+      "Habituation and sensitization compete, and arousal changes their relative influence",
+      "Only habituation can occur in a calm person",
+      "Sensitization prevents any learning about a stimulus",
+      "Classical and operant conditioning cannot occur together"
+    ],
+    "correct": 0,
+    "explanation": "Dual-process theory describes opposing habituation and sensitization processes; arousal can shift which predominates.",
+    "trap": "The theory does not require a single process to be completely absent."
+  },
+  {
+    "id": "learning-mcq-006",
+    "topic": "Foundations",
+    "skill": "Concept application",
+    "stem": "Which observation most clearly requires an associative-learning explanation rather than habituation?",
+    "options": [
+      "A child stops noticing a repeated harmless click",
+      "A tone comes to elicit blinking after predicting an air puff",
+      "A startling sound produces less response across identical repetitions",
+      "A participant becomes more sensitive after a painful stimulus"
+    ],
+    "correct": 1,
+    "explanation": "The tone gains meaning through a relationship with another event, the air puff.",
+    "trap": "A change in response to a single repeated stimulus alone can be nonassociative."
+  },
+  {
+    "id": "learning-mcq-007",
+    "topic": "Foundations",
+    "skill": "Research methods",
+    "stem": "A researcher wants to measure habituation in infants who cannot verbally report their experience. Which dependent variable is most appropriate?",
+    "options": [
+      "The researcher’s opinion of the infant’s intelligence",
+      "The number of rewards the parent receives",
+      "Looking duration across repeated presentations of the same stimulus",
+      "The infant’s assigned experimental group"
+    ],
+    "correct": 2,
+    "explanation": "Looking time can operationalize changes in attention across repeated exposures.",
+    "trap": "Group assignment is an independent variable, not a measured response."
+  },
+  {
+    "id": "learning-mcq-008",
+    "topic": "Foundations",
+    "skill": "Data analysis",
+    "stem": "Across six harmless tones, average startle ratings are 9, 7, 5, 3, 3, and 2. A new tone then produces a rating of 8. Which combination best describes the pattern?",
+    "options": [
+      "Acquisition followed by punishment",
+      "Sensitization followed by latent learning",
+      "Discrimination followed by instinctive drift",
+      "Habituation followed by dishabituation"
+    ],
+    "correct": 3,
+    "explanation": "Declining responses to repetition indicate habituation, while the rebound after a novel tone indicates dishabituation.",
+    "trap": "A novel tone is not a delayed return to an extinguished CS, so spontaneous recovery is less specific here."
+  },
+  {
+    "id": "learning-mcq-009",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "Before training, a cue has no learned effect. Its label?",
+    "options": [
+      "Neutral stimulus",
+      "Innate trigger",
+      "Learned response",
+      "Reflex"
+    ],
+    "correct": 0,
+    "explanation": "It has not acquired predictive meaning.",
+    "source": "openstax-5"
+  },
+  {
+    "id": "learning-mcq-010",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "Which procedure weakens a learned cue response?",
+    "options": [
+      "Pair cue and outcome",
+      "Present cue without outcome",
+      "Reward every action",
+      "Remove the cue"
+    ],
+    "correct": 1,
+    "explanation": "Unreinforced cue presentations produce extinction.",
+    "source": "openstax-7"
+  },
+  {
+    "id": "learning-mcq-011",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A musical chime repeatedly precedes a puff of air to the eye. Later the chime alone produces blinking. Which is the unconditioned stimulus?",
+    "options": [
+      "The chime before training",
+      "Blinking at the chime",
+      "The air puff",
+      "The learned association"
+    ],
+    "correct": 2,
+    "explanation": "The air puff produces blinking without prior conditioning, so it is the US.",
+    "trap": "US names the naturally effective stimulus, not the reflex it produces."
+  },
+  {
+    "id": "learning-mcq-012",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A child naturally salivates when sour juice touches the tongue. After a patterned light predicts the juice, the light alone produces salivation. Which is the conditioned response?",
+    "options": [
+      "The sour juice",
+      "The patterned light",
+      "Salivation to the juice",
+      "Salivation to the light"
+    ],
+    "correct": 3,
+    "explanation": "The CR is the learned response elicited by the formerly neutral cue.",
+    "trap": "The UR and CR can look alike; identify which stimulus elicits each one."
+  },
+  {
+    "id": "learning-mcq-013",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A participant’s heart races naturally at a sudden blast. After a shape reliably precedes the blast, the shape elicits racing. Which pairing is correct?",
+    "options": [
+      "Blast = US; racing to the blast = UR",
+      "Shape = UR; blast = CR",
+      "Racing to the shape = US; shape = CR",
+      "Blast = CS; shape = US"
+    ],
+    "correct": 0,
+    "explanation": "The blast naturally produces the UR, while the trained shape becomes the CS.",
+    "trap": "Responses are not stimuli, even if the same physiological reaction appears before and after learning."
+  },
+  {
+    "id": "learning-mcq-014",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A student flinches at a dentist’s drill sound after the sound has repeatedly preceded a painful procedure. What was the sound before those pairings?",
+    "options": [
+      "An unconditioned response",
+      "A neutral stimulus for the learned fear response",
+      "A negative reinforcer",
+      "A primary punisher"
+    ],
+    "correct": 1,
+    "explanation": "Before acquiring its relationship with the painful procedure, the sound was neutral with respect to the learned response.",
+    "trap": "Neutral does not mean physically undetectable; it means not initially eliciting the target learned response."
+  },
+  {
+    "id": "learning-mcq-015",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "During the first training sessions, a cue elicits the target reflex on 10%, then 35%, then 70% of trials. Which phase is illustrated?",
+    "options": [
+      "Spontaneous recovery",
+      "Extinction",
+      "Acquisition",
+      "Negative reinforcement"
+    ],
+    "correct": 2,
+    "explanation": "The increasing reliability of the CS–US association is acquisition.",
+    "trap": "Spontaneous recovery requires an earlier reduction through extinction and a subsequent rest."
+  },
+  {
+    "id": "learning-mcq-016",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A child frightened by one barking dog also fears dogs of similar appearance. Which process is most directly demonstrated?",
+    "options": [
+      "Discrimination",
+      "Shaping",
+      "Blocking",
+      "Stimulus generalization"
+    ],
+    "correct": 3,
+    "explanation": "Responding to stimuli similar to the original conditioned cue is generalization.",
+    "trap": "The child is extending the response, not learning to distinguish safe and unsafe dogs."
+  },
+  {
+    "id": "learning-mcq-017",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A dog salivates to a 700-Hz tone paired with food but not to a 1,200-Hz tone never followed by food. Which process is demonstrated?",
+    "options": [
+      "Stimulus discrimination",
+      "Spontaneous recovery",
+      "Sensitization",
+      "Latent learning"
+    ],
+    "correct": 0,
+    "explanation": "Different responding to predictive and nonpredictive tones reflects discrimination.",
+    "trap": "A generalized response would spread to similar tones instead of remaining selective."
+  },
+  {
+    "id": "learning-mcq-018",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "After a light-conditioned blink has faded during light-only trials, the blink briefly returns the next day. Which explanation is best?",
+    "options": [
+      "The light became an unconditioned stimulus",
+      "Spontaneous recovery reveals that extinction did not simply erase the association",
+      "The organism has been negatively reinforced",
+      "The experimenter must have retrained the blink overnight"
+    ],
+    "correct": 1,
+    "explanation": "A conditioned response can reappear after a rest even without new CS–US pairings.",
+    "trap": "The return does not require new acquisition or proof that retraining occurred."
+  },
+  {
+    "id": "learning-mcq-019",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A once-trained cue regains its response after fewer pairings than it originally needed. This is best described as…",
+    "options": [
+      "Instinctive drift",
+      "Dishabituation",
+      "Rapid relearning or savings",
+      "Partial reinforcement"
+    ],
+    "correct": 2,
+    "explanation": "Faster reacquisition suggests that some information from the earlier learning remains.",
+    "trap": "Savings concerns relearning a previous association, not an unlearned recovery of sensitivity."
+  },
+  {
+    "id": "learning-mcq-020",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "Which arrangement should generally support the strongest predictive classical association?",
+    "options": [
+      "The outcome precedes the cue by an unpredictable period",
+      "The cue appears equally often with and without the outcome",
+      "Cue and outcome occur at unrelated times",
+      "The cue reliably occurs shortly before the outcome"
+    ],
+    "correct": 3,
+    "explanation": "A reliable cue that precedes an outcome gives useful predictive information.",
+    "trap": "Temporal closeness alone is insufficient when the cue adds no information about the outcome."
+  },
+  {
+    "id": "learning-mcq-021",
+    "topic": "Classical conditioning",
+    "skill": "Research methods",
+    "stem": "Two groups hear a tone equally often. In Group A, food follows the tone reliably. In Group B, food is just as likely without the tone. What difference is the researcher testing?",
+    "options": [
+      "Contingency rather than merely exposure to the tone",
+      "Primary rather than secondary reinforcement",
+      "Fixed rather than variable intervals",
+      "Physical maturation rather than learning"
+    ],
+    "correct": 0,
+    "explanation": "The groups differ in how much the tone changes the probability of food.",
+    "trap": "Equal cue exposure does not imply equal predictive value."
+  },
+  {
+    "id": "learning-mcq-022",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A tone already predicts a startling sound. Later, tone and light are paired with the same sound, but the light alone elicits little fear. Which process best explains the weak light response?",
+    "options": [
+      "Extinction",
+      "Blocking",
+      "Stimulus generalization",
+      "Counterconditioning"
+    ],
+    "correct": 1,
+    "explanation": "The established tone makes the new light redundant, limiting learning about the light.",
+    "trap": "The light was not extinguished; it acquired little predictive value in the first place."
+  },
+  {
+    "id": "learning-mcq-023",
+    "topic": "Classical conditioning",
+    "skill": "Research methods",
+    "stem": "Which comparison group best tests whether prior tone training caused blocking of a light?",
+    "options": [
+      "A group receiving fewer light presentations and weaker outcomes",
+      "A group never seeing the light",
+      "A group initially trained with tone and light together, with later exposures otherwise matched",
+      "A group exposed only to unrelated background noise"
+    ],
+    "correct": 2,
+    "explanation": "A compound-trained comparison tests learning about the light when no earlier cue already predicts the outcome.",
+    "trap": "Unequal exposure would confound blocking with differences in training opportunities."
+  },
+  {
+    "id": "learning-mcq-024",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "After learning that a chime predicts food, the food unexpectedly fails to arrive. What change should most directly drive updating of the association?",
+    "options": [
+      "A stronger innate food response",
+      "A new primary reinforcer",
+      "An increase in stimulus similarity",
+      "Prediction error caused by the omitted expected outcome"
+    ],
+    "correct": 3,
+    "explanation": "The mismatch between the predicted and actual outcome signals a need to revise the association.",
+    "trap": "The cue still occurred; the crucial mismatch is the missing expected US."
+  },
+  {
+    "id": "learning-mcq-025",
+    "topic": "Classical conditioning",
+    "skill": "Concept application",
+    "stem": "A cue produces anxiety after predicting a loud sound. The cue is then repeatedly paired with a pleasant relaxing experience. Which procedure is being attempted?",
+    "options": [
+      "Counterconditioning",
+      "Extinction alone",
+      "Variable-ratio reinforcement",
+      "Instinctive drift"
+    ],
+    "correct": 0,
+    "explanation": "A new, incompatible response is being associated with the previously fear-producing cue.",
+    "trap": "Extinction alone would present the cue without its former outcome rather than pair it with a new pleasant one."
+  },
+  {
+    "id": "learning-mcq-026",
+    "topic": "Classical conditioning",
+    "skill": "Data analysis",
+    "stem": "A cue is followed by food on 80% of cue trials. Food also occurs on 80% of no-cue trials. Which conclusion is best supported?",
+    "options": [
+      "The cue must produce exceptionally strong conditioning",
+      "The cue adds little information about whether food will occur",
+      "The cue proves that food is a punishment",
+      "The procedure measures a fixed-ratio schedule"
+    ],
+    "correct": 1,
+    "explanation": "The outcome is equally likely with and without the cue, so the cue has little contingency.",
+    "trap": "High pairing frequency alone does not establish useful prediction."
+  },
+  {
+    "id": "learning-mcq-027",
+    "topic": "Classical conditioning",
+    "skill": "Data analysis",
+    "stem": "After repeated cue-only trials, response magnitude falls from 12 to 2. After a rest it rises to 6, then falls again during cue-only trials. Which interpretation fits all phases?",
+    "options": [
+      "Sensitization, discrimination, and shaping",
+      "Acquisition, blocking, and generalization",
+      "Extinction, spontaneous recovery, and renewed extinction",
+      "Punishment, habituation, and cognitive mapping"
+    ],
+    "correct": 2,
+    "explanation": "Cue-only training weakens the CR, rest permits a temporary return, and further unreinforced cue presentations weaken it again.",
+    "trap": "The first reduction is extinction because an established CS is presented without its US."
+  },
+  {
+    "id": "learning-mcq-028",
+    "topic": "Classical conditioning",
+    "skill": "Research methods",
+    "stem": "A student claims that any response reduction during CS-only training proves the original association is permanently destroyed. Which observation most strongly challenges that claim?",
+    "options": [
+      "The subject’s age remains unchanged",
+      "The cue is physically measurable",
+      "The original US can produce a reflex",
+      "The CR returns after a rest without additional pairings"
+    ],
+    "correct": 3,
+    "explanation": "Spontaneous recovery demonstrates that suppression of responding need not mean complete erasure of learning.",
+    "trap": "A test after rest directly addresses the fate of the learned response, not merely stimulus detectability."
+  },
+  {
+    "id": "learning-mcq-029",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "People more readily learn certain threat associations than arbitrary equally frequent associations. Which concept most directly accounts for this?",
+    "options": [
+      "Preparedness",
+      "Continuous reinforcement",
+      "A cognitive map",
+      "Negative punishment"
+    ],
+    "correct": 0,
+    "explanation": "Preparedness refers to biological predispositions that make some associations easier to learn.",
+    "trap": "It is a predisposition to learn, not an inherited memory of a specific personal event."
+  },
+  {
+    "id": "learning-mcq-030",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "A person becomes nauseated hours after eating a novel soup and later avoids its taste. Which observation is especially consistent with conditioned taste aversion?",
+    "options": [
+      "The association requires a reward after each avoidance response",
+      "The food–illness association can form despite a long delay",
+      "The soup must have been paired with illness dozens of times",
+      "Taste can never function as a conditioned cue"
+    ],
+    "correct": 1,
+    "explanation": "Taste-aversion learning can link ingestion and later illness across a substantial delay.",
+    "trap": "Its biological relevance makes a strict immediate-pairing requirement inappropriate."
+  },
+  {
+    "id": "learning-mcq-031",
+    "topic": "Biology & applications",
+    "skill": "Research methods",
+    "stem": "After flavored water is paired with illness, animals avoid the flavor more strongly than a simultaneously presented light. Which conclusion is best?",
+    "options": [
+      "All sensory cues are equally easy to associate with every outcome",
+      "Learning occurred only because the light was invisible",
+      "Biological constraints influence which associations form readily",
+      "The animals must have been reinforced for every refusal to drink"
+    ],
+    "correct": 2,
+    "explanation": "A selective taste–illness association supports preparedness and limits on arbitrary cue–outcome learning.",
+    "trap": "The result does not show that no other associations can ever be learned."
+  },
+  {
+    "id": "learning-mcq-032",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "A person fears a particular animal after watching another person react fearfully to it, without any direct frightening encounter. Which explanation fits best?",
+    "options": [
+      "Primary reinforcement",
+      "Sensory adaptation",
+      "A fixed-interval schedule",
+      "Vicarious classical conditioning"
+    ],
+    "correct": 3,
+    "explanation": "An emotional association can be acquired through observing another organism’s experience.",
+    "trap": "The person does not need a direct US encounter for observationally acquired fear."
+  },
+  {
+    "id": "learning-mcq-033",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "A familiar drug-taking context begins to elicit physiological changes opposing the drug’s usual effects. What is the learned contextual response?",
+    "options": [
+      "A compensatory conditioned response",
+      "An unconditioned response to an absent drug",
+      "A fixed-ratio consequence",
+      "Permanent extinction of the drug effect"
+    ],
+    "correct": 0,
+    "explanation": "Contextual cues can become CSs that evoke preparatory responses counteracting the expected drug effect.",
+    "trap": "The learned preparatory response may oppose, rather than imitate, the drug’s direct effects."
+  },
+  {
+    "id": "learning-mcq-034",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "Why can the same drug dose have a greater effect in an unfamiliar context than in the usual context?",
+    "options": [
+      "The unfamiliar place must contain more of the drug",
+      "The familiar cues that normally elicit compensatory responses are missing",
+      "The US has permanently become a neutral stimulus",
+      "The unfamiliar context guarantees sensitization to every stimulus"
+    ],
+    "correct": 1,
+    "explanation": "A change in context can remove learned anticipatory compensation, reducing context-specific tolerance.",
+    "trap": "The scenario concerns learned contextual tolerance, not a guaranteed change in the dose itself."
+  },
+  {
+    "id": "learning-mcq-035",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "An advertisement repeatedly pairs a previously unknown logo with pleasant scenes. Later the logo alone elicits positive feelings. Which label applies to the logo after learning?",
+    "options": [
+      "Unconditioned response",
+      "Primary reinforcer",
+      "Conditioned stimulus",
+      "Negative punisher"
+    ],
+    "correct": 2,
+    "explanation": "The logo becomes a learned cue for the positive emotional response.",
+    "trap": "The enjoyable scenes and the feelings they elicit are distinct from the trained logo."
+  },
+  {
+    "id": "learning-mcq-036",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "A patient eats an unusual food shortly before a nausea-producing treatment so that later aversion may attach to that food rather than familiar favorites. This illustrates an application of…",
+    "options": [
+      "Fixed-interval shaping",
+      "Instinctive drift",
+      "Latent spatial learning",
+      "Conditioned taste aversion"
+    ],
+    "correct": 3,
+    "explanation": "A distinctive food can become associated with treatment-related illness, potentially diverting aversion from regular foods.",
+    "trap": "This is an associative explanation; it does not assume the food causes or treats the medical condition."
+  },
+  {
+    "id": "learning-mcq-037",
+    "topic": "Biology & applications",
+    "skill": "Concept application",
+    "stem": "A person’s fear spreads from a traumatic situation to harmless but similar cues. Which learning process helps explain the spread?",
+    "options": [
+      "Generalization",
+      "Discrimination",
+      "The Premack principle",
+      "Continuous reinforcement"
+    ],
+    "correct": 0,
+    "explanation": "Similar stimuli can acquire the capacity to elicit an existing conditioned fear response.",
+    "trap": "A clinical condition is not diagnosed from this example; the question identifies a learning process."
+  },
+  {
+    "id": "learning-mcq-038",
+    "topic": "Biology & applications",
+    "skill": "Research methods",
+    "stem": "A modern replication proposes deliberately conditioning lasting fear in infants and offers no plan to reduce it. Which concern is most relevant?",
+    "options": [
+      "The study contains too many dependent variables",
+      "Risk of psychological harm and failure to protect vulnerable participants",
+      "Infants cannot show observable responses",
+      "All conditioning research requires deception"
+    ],
+    "correct": 1,
+    "explanation": "Inducing persistent distress in vulnerable participants raises protection-from-harm concerns.",
+    "trap": "The ethical concern is not that learning cannot be measured in infants."
+  },
+  {
+    "id": "learning-mcq-039",
+    "topic": "Biology & applications",
+    "skill": "Research methods",
+    "stem": "Two groups receive equally frequent pairings of different novel cues with illness. One develops a much stronger taste aversion. Before attributing this solely to preparedness, which variable should be controlled?",
+    "options": [
+      "Whether both outcomes are called learning",
+      "Whether the researchers prefer the hypothesis",
+      "Initial cue detectability and exposure to the cues",
+      "The number of letters in each group’s name"
+    ],
+    "correct": 2,
+    "explanation": "Equal frequency does not guarantee comparable perceptibility or exposure; those differences could alter learning.",
+    "trap": "A control should address a plausible alternative explanation rather than a label."
+  },
+  {
+    "id": "learning-mcq-040",
+    "topic": "Biology & applications",
+    "skill": "Data analysis",
+    "stem": "Following training, a contextual cue produces a response opposite to a drug’s direct effect. Which finding most strongly supports a conditioned compensatory explanation?",
+    "options": [
+      "The drug produces an effect in every environment",
+      "The participant remembers the location’s address",
+      "The cue is familiar to the researcher",
+      "The opposing response occurs to the context before the drug is administered"
+    ],
+    "correct": 3,
+    "explanation": "A response to the predictive context before the drug arrives supports a learned anticipatory mechanism.",
+    "trap": "An effect appearing only after administration would not by itself establish a cue-elicited compensatory CR."
+  },
+  {
+    "id": "learning-mcq-041",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A valued privilege is removed; misconduct decreases. Classification?",
+    "options": [
+      "Added reward",
+      "Avoidance reinforcement",
+      "Added penalty",
+      "Negative punishment"
+    ],
+    "correct": 3,
+    "explanation": "Removal decreases behavior: negative punishment.",
+    "source": "openstax-9"
+  },
+  {
+    "id": "learning-mcq-042",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A trainer rewards increasingly close versions of one action. Procedure?",
+    "options": [
+      "Shaping",
+      "Habituation",
+      "Discrimination",
+      "Extinction"
+    ],
+    "correct": 0,
+    "explanation": "Successive approximations build the target action.",
+    "source": "openstax-11"
+  },
+  {
+    "id": "learning-mcq-043",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A student receives encouraging feedback after speaking in discussion and subsequently participates more. Which classification fits?",
+    "options": [
+      "Negative reinforcement",
+      "Positive reinforcement",
+      "Positive punishment",
+      "Negative punishment"
+    ],
+    "correct": 1,
+    "explanation": "A consequence is added and participation increases, so the consequence functions as positive reinforcement.",
+    "trap": "Positive describes addition, not a judgment that the behavior is morally good."
+  },
+  {
+    "id": "learning-mcq-044",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "Buckling a seat belt stops an annoying alarm, and prompt buckling increases. Which classification fits?",
+    "options": [
+      "Positive punishment",
+      "Negative punishment",
+      "Negative reinforcement",
+      "Classical extinction"
+    ],
+    "correct": 2,
+    "explanation": "Removing an unpleasant stimulus strengthens buckling, which is negative reinforcement.",
+    "trap": "The removal makes the behavior more likely, so it is not punishment."
+  },
+  {
+    "id": "learning-mcq-045",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "An athlete receives extra unpleasant drills after arriving late, and late arrivals decrease. Which classification fits?",
+    "options": [
+      "Positive reinforcement",
+      "Negative reinforcement",
+      "Negative punishment",
+      "Positive punishment"
+    ],
+    "correct": 3,
+    "explanation": "An aversive consequence is added and lateness decreases, which is positive punishment.",
+    "trap": "The word positive describes the added drills, not their pleasantness."
+  },
+  {
+    "id": "learning-mcq-046",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A child loses access to a game after interrupting, and interruptions decrease. Which classification fits?",
+    "options": [
+      "Negative punishment",
+      "Positive punishment",
+      "Negative reinforcement",
+      "Positive reinforcement"
+    ],
+    "correct": 0,
+    "explanation": "A valued stimulus is removed and interruption decreases.",
+    "trap": "Removing something does not make a consequence negative reinforcement unless behavior increases."
+  },
+  {
+    "id": "learning-mcq-047",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A parent removes a disliked chore when a student turns in work on time. On-time submissions increase. Which mechanism is operating?",
+    "options": [
+      "Positive punishment",
+      "Negative reinforcement through avoidance",
+      "Negative punishment",
+      "Nonassociative habituation"
+    ],
+    "correct": 1,
+    "explanation": "Avoiding an aversive requirement strengthens the submission behavior.",
+    "trap": "Negative reinforcement can involve preventing an unpleasant event, not only ending one already present."
+  },
+  {
+    "id": "learning-mcq-048",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A child screams in a shop, receives candy, and screams more on later visits. The parent gives candy more quickly because it stops the screaming. Which analysis is best?",
+    "options": [
+      "Both behaviors are positively punished",
+      "The child is negatively punished and the parent is positively reinforced",
+      "The child’s screaming is positively reinforced; the parent’s candy-giving is negatively reinforced",
+      "The parent’s behavior cannot be conditioned because the parent is an adult"
+    ],
+    "correct": 2,
+    "explanation": "Candy is added to strengthen screaming, while removal of screaming strengthens the parent’s response.",
+    "trap": "Analyze each person’s target behavior and consequence separately."
+  },
+  {
+    "id": "learning-mcq-049",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A teacher intends a public reprimand to reduce joking, but joking increases because classmates laugh. What determines whether the consequence was a reinforcer?",
+    "options": [
+      "The teacher’s intention alone",
+      "Whether the reprimand uses a negative word",
+      "Whether the student says the reprimand was pleasant",
+      "The observed increase in joking after its consequences"
+    ],
+    "correct": 3,
+    "explanation": "Reinforcement is defined by its effect on the behavior, not the adult’s intention.",
+    "trap": "An intended punishment can function differently if the overall consequence strengthens the behavior."
+  },
+  {
+    "id": "learning-mcq-050",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A puzzle-box animal repeats an action more readily after that action permits escape and access to food. Which principle is most directly illustrated?",
+    "options": [
+      "Thorndike’s law of effect",
+      "Stimulus generalization",
+      "Prepared taste aversion",
+      "Dishabituation"
+    ],
+    "correct": 0,
+    "explanation": "Behavior followed by satisfying consequences becomes more likely.",
+    "trap": "The account links an emitted action with outcomes rather than pairing two reflex-eliciting stimuli."
+  },
+  {
+    "id": "learning-mcq-051",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "In an antecedent–behavior–consequence analysis, which is the antecedent when a green signal precedes lever pressing and food follows it?",
+    "options": [
+      "Food delivery",
+      "The green signal",
+      "Lever pressing",
+      "The increase in response rate"
+    ],
+    "correct": 1,
+    "explanation": "The antecedent is the event or context preceding the action.",
+    "trap": "The cue sets the occasion; it is not the consequence delivered after the behavior."
+  },
+  {
+    "id": "learning-mcq-052",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A click repeatedly paired with food later helps train a new action. What best describes the click’s reinforcing role?",
+    "options": [
+      "An innate primary reinforcer",
+      "A positive punisher",
+      "A learned secondary reinforcer",
+      "An unconditioned reflex"
+    ],
+    "correct": 2,
+    "explanation": "The click has acquired reinforcing value through its association with another reinforcer.",
+    "trap": "The click’s usefulness does not mean it directly satisfies a biological need."
+  },
+  {
+    "id": "learning-mcq-053",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "Which reward is most clearly a primary reinforcer for a hungry animal?",
+    "options": [
+      "A token exchangeable for food",
+      "A sound paired with a meal",
+      "A numerical score",
+      "Food that satisfies hunger"
+    ],
+    "correct": 3,
+    "explanation": "Food can reinforce by meeting a biological need without first acquiring its value through association.",
+    "trap": "Tokens, sounds, and scores generally require learned value."
+  },
+  {
+    "id": "learning-mcq-054",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A student is allowed a favorite frequent activity after completing a less preferred study task. Which principle is being used?",
+    "options": [
+      "The Premack principle",
+      "Spontaneous recovery",
+      "Biological preparedness",
+      "Sensitization"
+    ],
+    "correct": 0,
+    "explanation": "A more probable or preferred activity can reinforce a less probable activity.",
+    "trap": "This is not merely presenting two stimuli before a reflex."
+  },
+  {
+    "id": "learning-mcq-055",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "An animal is rewarded first for approaching a lever, then touching it, and finally pressing it. Why is the change in reward criterion important?",
+    "options": [
+      "It guarantees no extinction can occur",
+      "It reinforces successive approximations rather than waiting only for the final behavior",
+      "It converts a conditioned stimulus into an unconditioned one",
+      "It removes all effects of biological constraints"
+    ],
+    "correct": 1,
+    "explanation": "Gradually closer actions are strengthened, making the final response more attainable.",
+    "trap": "Shaping is a sequence of selected approximations, not simply rewarding every action."
+  },
+  {
+    "id": "learning-mcq-056",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "An animal trained to deposit food-like tokens instead begins instinctive food-handling actions with them. Which explanation fits best?",
+    "options": [
+      "Latent learning",
+      "Stimulus discrimination",
+      "Instinctive drift",
+      "Negative reinforcement"
+    ],
+    "correct": 2,
+    "explanation": "An evolved behavioral tendency can intrude on and replace the trained operant.",
+    "trap": "The return of a species-typical action shows a biological constraint, not proof that no training occurred."
+  },
+  {
+    "id": "learning-mcq-057",
+    "topic": "Operant conditioning",
+    "skill": "Concept application",
+    "stem": "A student chooses a small immediate reward over a larger reward months away, even though the larger reward has greater objective value. Which concept is most relevant?",
+    "options": [
+      "Higher-order conditioning",
+      "A fixed-ratio pause",
+      "Dishabituation",
+      "Delay discounting"
+    ],
+    "correct": 3,
+    "explanation": "Delayed outcomes can be subjectively devalued relative to immediate ones.",
+    "trap": "The question concerns the timing of value rather than an elapsed-time reinforcement schedule."
+  },
+  {
+    "id": "learning-mcq-058",
+    "topic": "Operant conditioning",
+    "skill": "Research methods",
+    "stem": "To test whether praise increases completed homework, students are randomly assigned to contingent praise or neutral acknowledgment. What is the most suitable dependent variable?",
+    "options": [
+      "Number of homework assignments completed",
+      "Assignment to praise or acknowledgment",
+      "The researcher’s prediction",
+      "The written definition of reinforcement"
+    ],
+    "correct": 0,
+    "explanation": "Completed assignments measure the target behavior whose frequency is predicted to change.",
+    "trap": "The manipulated consequence is the independent variable, not the behavioral outcome."
+  },
+  {
+    "id": "learning-mcq-059",
+    "topic": "Operant conditioning",
+    "skill": "Research methods",
+    "stem": "A researcher labels a token a reinforcer simply because participants say they like it. What additional evidence is most important?",
+    "options": [
+      "The token’s color is preferred by the researcher",
+      "The target behavior increases when token delivery is contingent on it",
+      "The token is delivered before every possible action",
+      "Participants know the term operant conditioning"
+    ],
+    "correct": 1,
+    "explanation": "A reinforcer must demonstrably strengthen the behavior it follows.",
+    "trap": "Liking a stimulus does not by itself show its functional effect on a specific action."
+  },
+  {
+    "id": "learning-mcq-060",
+    "topic": "Operant conditioning",
+    "skill": "Data analysis",
+    "stem": "Before a consequence is introduced, a behavior occurs 12 times per hour. It then occurs 4 times per hour after a desired privilege is consistently removed. Which interpretation fits?",
+    "options": [
+      "Positive reinforcement",
+      "Negative reinforcement",
+      "Negative punishment",
+      "Positive punishment"
+    ],
+    "correct": 2,
+    "explanation": "The behavior decreases after removal of a valued consequence, meeting the definition of negative punishment.",
+    "trap": "Both the direction of the behavioral change and the removal matter."
+  },
+  {
+    "id": "learning-mcq-061",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "Unpredictable counts of plays produce slot-machine wins. Schedule?",
+    "options": [
+      "Fixed interval",
+      "Variable interval",
+      "Variable ratio",
+      "Fixed ratio"
+    ],
+    "correct": 2,
+    "explanation": "The response count varies unpredictably.",
+    "source": "openstax-12"
+  },
+  {
+    "id": "learning-mcq-062",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "A lab animal earns one pellet after exactly eight lever presses. Which schedule is used?",
+    "options": [
+      "Fixed ratio",
+      "Variable ratio",
+      "Fixed interval",
+      "Variable interval"
+    ],
+    "correct": 0,
+    "explanation": "A fixed number of responses is required before reinforcement.",
+    "trap": "Ratio concerns response count, not the passage of time."
+  },
+  {
+    "id": "learning-mcq-063",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "The first response after exactly 90 seconds earns a pellet; additional responses before then earn nothing. Which schedule is used?",
+    "options": [
+      "Variable ratio",
+      "Fixed interval",
+      "Fixed ratio",
+      "Continuous reinforcement"
+    ],
+    "correct": 1,
+    "explanation": "The interval is fixed, and a response becomes eligible only after it has passed.",
+    "trap": "Time-based availability distinguishes this from requiring 90 responses."
+  },
+  {
+    "id": "learning-mcq-064",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "Food becomes available after unpredictable intervals averaging 90 seconds, and the first subsequent press earns it. Which schedule is used?",
+    "options": [
+      "Fixed interval",
+      "Variable ratio",
+      "Variable interval",
+      "Fixed ratio"
+    ],
+    "correct": 2,
+    "explanation": "The changing time intervals determine when a response can earn reinforcement.",
+    "trap": "The animal must still respond; this is not simply a free delivery independent of behavior."
+  },
+  {
+    "id": "learning-mcq-065",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "A writer gets paid after a changing number of completed articles averaging five. Which schedule best describes this arrangement?",
+    "options": [
+      "Fixed interval",
+      "Fixed ratio",
+      "Variable interval",
+      "Variable ratio"
+    ],
+    "correct": 3,
+    "explanation": "Reinforcement depends on an unpredictable response count around an average.",
+    "trap": "Five is an average count, not a fixed requirement."
+  },
+  {
+    "id": "learning-mcq-066",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "Which schedule is generally most useful when first establishing a simple new response because every correct response is rewarded?",
+    "options": [
+      "Continuous reinforcement",
+      "Variable interval",
+      "Variable ratio",
+      "Fixed interval"
+    ],
+    "correct": 0,
+    "explanation": "Continuous reinforcement makes the response–consequence connection especially clear during acquisition.",
+    "trap": "Ease of acquisition does not imply the greatest later resistance to extinction."
+  },
+  {
+    "id": "learning-mcq-067",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "After a response is well learned, which change will generally increase persistence when rewards later stop?",
+    "options": [
+      "Switch from partial to continuous reinforcement",
+      "Use partial reinforcement before extinction begins",
+      "Deliver punishment after every reward",
+      "Remove all learning opportunities before training"
+    ],
+    "correct": 1,
+    "explanation": "A history of intermittent reinforcement generally produces greater resistance to extinction.",
+    "trap": "An omitted reward is less informative when omissions have already been normal."
+  },
+  {
+    "id": "learning-mcq-068",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "A cumulative response record rises rapidly, pauses just after reinforcement, then rises rapidly again. Which schedule most characteristically fits?",
+    "options": [
+      "Variable interval",
+      "Fixed interval",
+      "Fixed ratio",
+      "Continuous noncontingent delivery"
+    ],
+    "correct": 2,
+    "explanation": "Fixed-ratio reinforcement commonly produces rapid responding separated by post-reinforcement pauses.",
+    "trap": "A fixed-interval pattern is more characteristically a gradual acceleration as time passes."
+  },
+  {
+    "id": "learning-mcq-069",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "Response rate is low just after reinforcement and accelerates as a predictable waiting period nears its end. Which schedule fits best?",
+    "options": [
+      "Variable ratio",
+      "Fixed ratio",
+      "Variable interval",
+      "Fixed interval"
+    ],
+    "correct": 3,
+    "explanation": "Fixed-interval schedules often produce a scalloped pattern as reinforcement time approaches.",
+    "trap": "The defining pattern depends on elapsed time, not counting a fixed number of actions."
+  },
+  {
+    "id": "learning-mcq-070",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "A response record shows a very high, steady rate with few pauses, and rewards require an unpredictable number of actions. Which schedule fits?",
+    "options": [
+      "Variable ratio",
+      "Fixed interval",
+      "Variable interval",
+      "Fixed ratio"
+    ],
+    "correct": 0,
+    "explanation": "Variable-ratio reinforcement sustains high, steady responding because the next response could complete the requirement.",
+    "trap": "The description explicitly identifies an action-count contingency."
+  },
+  {
+    "id": "learning-mcq-071",
+    "topic": "Reinforcement schedules",
+    "skill": "Concept application",
+    "stem": "Checking for newly arriving messages yields an answer only when enough unpredictably varying time has passed for a message to arrive. Which schedule is most analogous?",
+    "options": [
+      "Fixed ratio",
+      "Variable interval",
+      "Variable ratio",
+      "Fixed interval"
+    ],
+    "correct": 1,
+    "explanation": "A response produces the outcome after varying intervals of availability.",
+    "trap": "Checking more often does not cause a fixed or varying number of checks to generate a new message."
+  },
+  {
+    "id": "learning-mcq-072",
+    "topic": "Reinforcement schedules",
+    "skill": "Research methods",
+    "stem": "Which operational description clearly identifies a fixed-interval schedule rather than an ambiguous everyday example?",
+    "options": [
+      "Give the subject food every minute regardless of responding",
+      "Give food after every tenth press",
+      "Reinforce the first press after each fixed 60-second waiting period",
+      "Reinforce after an average of ten presses"
+    ],
+    "correct": 2,
+    "explanation": "A fixed waiting time plus a required eligible response specifies the operant interval contingency.",
+    "trap": "Automatic delivery every minute would be noncontingent rather than response-dependent."
+  },
+  {
+    "id": "learning-mcq-073",
+    "topic": "Reinforcement schedules",
+    "skill": "Data analysis",
+    "stem": "Two schedules both average one reward per ten responses, but one always requires ten and the other varies. What differs between the schedules?",
+    "options": [
+      "Primary versus secondary reward value",
+      "Whether rewards occur at all",
+      "The average response requirement",
+      "Predictability of the response requirement"
+    ],
+    "correct": 3,
+    "explanation": "The fixed and variable ratio schedules share the average count but differ in whether each requirement can be predicted.",
+    "trap": "Equal average reinforcement does not make the contingencies identical."
+  },
+  {
+    "id": "learning-mcq-074",
+    "topic": "Reinforcement schedules",
+    "skill": "Data analysis",
+    "stem": "Group A is reinforced for every correct response. Group B is reinforced for only some correct responses. When reinforcement stops, B persists longer. Which effect is illustrated?",
+    "options": [
+      "The partial-reinforcement extinction effect",
+      "Stimulus blocking",
+      "Counterconditioning",
+      "A primary-reinforcer preference"
+    ],
+    "correct": 0,
+    "explanation": "Intermittent reward histories typically produce greater persistence during extinction than continuous histories.",
+    "trap": "The dependent observation is behavior after reinforcement stops, not simply acquisition speed."
+  },
+  {
+    "id": "learning-mcq-075",
+    "topic": "Reinforcement schedules",
+    "skill": "Data analysis",
+    "stem": "Schedule A requires 12 presses per reward; Schedule B reinforces the first press after 12 seconds. What is the correct comparison?",
+    "options": [
+      "A is fixed interval; B is fixed ratio",
+      "A is fixed ratio; B is fixed interval",
+      "Both are fixed ratio",
+      "Both are variable interval"
+    ],
+    "correct": 1,
+    "explanation": "A specifies response count; B specifies fixed elapsed time before a response can be reinforced.",
+    "trap": "The shared number 12 does not make the schedules equivalent."
+  },
+  {
+    "id": "learning-mcq-076",
+    "topic": "Reinforcement schedules",
+    "skill": "Research methods",
+    "stem": "A researcher compares extinction after continuous versus partial reinforcement. Which design change most improves interpretation?",
+    "options": [
+      "Use different species and rewards in each group",
+      "Measure only the continuous group after rewards stop",
+      "Use the same target response and extinction procedure in both groups",
+      "Give the partial group a stronger unconditioned stimulus during testing"
+    ],
+    "correct": 2,
+    "explanation": "Matching response and test conditions helps isolate reinforcement history as the source of different persistence.",
+    "trap": "Changing reward quality or species could create alternative explanations."
+  },
+  {
+    "id": "learning-mcq-077",
+    "topic": "Cognition",
+    "skill": "Concept application",
+    "stem": "Rats explore a maze without food and later navigate efficiently when food is introduced. Which explanation fits best?",
+    "options": [
+      "All learning began only when the first reward arrived",
+      "The rats learned exclusively through a fixed-ratio schedule",
+      "Exploration erased their ability to form associations",
+      "Latent learning produced knowledge before the reward revealed it"
+    ],
+    "correct": 3,
+    "explanation": "Knowledge can be acquired during unrewarded exploration and expressed later when an incentive appears.",
+    "trap": "Improved performance when motivated does not prove there was no earlier learning."
+  },
+  {
+    "id": "learning-mcq-078",
+    "topic": "Cognition",
+    "skill": "Concept application",
+    "stem": "A student can find a new route through a familiar campus after a walkway closes. Which representation best explains this flexibility?",
+    "options": [
+      "A cognitive map",
+      "A fixed-interval response count",
+      "A reflex to a single sign",
+      "An inherited memory of the campus"
+    ],
+    "correct": 0,
+    "explanation": "An internal representation of spatial relations can support a route not previously practiced.",
+    "trap": "A rigid stimulus–response chain alone would poorly explain a flexible new path."
+  },
+  {
+    "id": "learning-mcq-079",
+    "topic": "Cognition",
+    "skill": "Concept application",
+    "stem": "An animal suddenly combines available objects to reach a goal after apparently considering them, without repeated rewarded approximations. Which account is most appropriate?",
+    "options": [
+      "Shaping",
+      "Insight learning",
+      "Instinctive drift",
+      "Continuous reinforcement"
+    ],
+    "correct": 1,
+    "explanation": "A sudden grasp of relevant relationships is characteristic of insight.",
+    "trap": "The scenario contrasts conceptual solution with incremental trial-and-error reinforcement."
+  },
+  {
+    "id": "learning-mcq-080",
+    "topic": "Cognition",
+    "skill": "Concept application",
+    "stem": "Food is delivered independently of an animal’s actions. A movement that happens to precede delivery becomes frequent. Which account is most plausible?",
+    "options": [
+      "The movement necessarily caused the food delivery",
+      "The food is an unconditioned punishment",
+      "Superstitious conditioning through accidental contiguity",
+      "The movement proves biological preparedness for that exact action"
+    ],
+    "correct": 2,
+    "explanation": "Coincidental proximity between an action and reward can produce a mistaken perceived contingency.",
+    "trap": "An increase in the action does not establish that the programmed reward actually depended on it."
+  },
+  {
+    "id": "learning-mcq-081",
+    "topic": "Cognition",
+    "skill": "Research methods",
+    "stem": "Which schedule description is clearly noncontingent?",
+    "options": [
+      "Food follows every correct lever press",
+      "A token follows five correct responses",
+      "The first response after a minute earns food",
+      "Food arrives at fixed times whether or not the animal responds"
+    ],
+    "correct": 3,
+    "explanation": "Noncontingent reinforcement is delivered independently of the target action.",
+    "trap": "A fixed time alone is not a fixed-interval operant schedule unless an eligible response is required."
+  },
+  {
+    "id": "learning-mcq-082",
+    "topic": "Cognition",
+    "skill": "Concept application",
+    "stem": "A learner can explain a route but does not walk it until offered a reason to do so. Which distinction is most relevant?",
+    "options": [
+      "Learning versus performance",
+      "Classical versus unconditioned reflexes",
+      "Positive versus negative punishment",
+      "Instinctive versus genetic learning"
+    ],
+    "correct": 0,
+    "explanation": "Knowledge can exist before it is expressed as an observable action under a suitable incentive.",
+    "trap": "Lack of performance is not sufficient evidence of lack of learning."
+  },
+  {
+    "id": "learning-mcq-083",
+    "topic": "Cognition",
+    "skill": "Research methods",
+    "stem": "To test a cognitive-map explanation, which new task is most informative?",
+    "options": [
+      "Repeat the exact trained route with no changes",
+      "Offer a novel shortcut that preserves known spatial relations",
+      "Remove all spatial cues and compare no control group",
+      "Measure only how much the animal likes food"
+    ],
+    "correct": 1,
+    "explanation": "Successful use of a new shortcut tests flexible spatial knowledge beyond a memorized response sequence.",
+    "trap": "A task that repeats the identical route may not distinguish a map from a practiced chain."
+  },
+  {
+    "id": "learning-mcq-084",
+    "topic": "Cognition",
+    "skill": "Data analysis",
+    "stem": "An unrewarded-exploration group’s maze errors fall sharply on the first rewarded test, compared with a no-exploration group. What is the most defensible conclusion?",
+    "options": [
+      "Exploration can never affect learning",
+      "Reward must have altered the animals’ genes",
+      "The earlier exploration likely produced knowledge not previously shown in rewarded performance",
+      "The first group was necessarily trained by punishment"
+    ],
+    "correct": 2,
+    "explanation": "The advantage after reward appears supports prior latent learning.",
+    "trap": "The result supports an explanation; it does not prove that every possible performance difference is cognitive."
+  },
+  {
+    "id": "learning-mcq-085",
+    "topic": "Cognition",
+    "skill": "Concept application",
+    "stem": "A player repeats a ritual because a past win happened immediately afterward, though outcomes are independent of the ritual. Which distinction has been overlooked?",
+    "options": [
+      "Fixed versus variable response counts",
+      "Primary versus secondary reinforcement",
+      "CS versus UR labels",
+      "Temporal coincidence versus genuine contingency"
+    ],
+    "correct": 3,
+    "explanation": "Events occurring close together do not necessarily stand in a causal or response-dependent relationship.",
+    "trap": "Pattern detection can produce superstition when the association is accidental."
+  },
+  {
+    "id": "learning-mcq-086",
+    "topic": "Cognition",
+    "skill": "Research methods",
+    "stem": "Which observation most directly challenges a strict claim that reinforcement is necessary for any learning to occur?",
+    "options": [
+      "Accurate later performance based on earlier unrewarded exploration",
+      "A trained response increases after food delivery",
+      "A response decreases after punishment",
+      "A novel cue initially elicits no response"
+    ],
+    "correct": 0,
+    "explanation": "Latent-learning evidence shows acquisition of useful information without an immediate reward.",
+    "trap": "The other findings can be accommodated without assuming unrewarded knowledge acquisition."
+  },
+  {
+    "id": "learning-mcq-087",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A person whose actions another learner copies is the…",
+    "options": [
+      "Observer",
+      "Model",
+      "Reinforcer",
+      "Outcome"
+    ],
+    "correct": 1,
+    "explanation": "The model supplies the demonstrated behavior.",
+    "source": "openstax-13"
+  },
+  {
+    "id": "learning-mcq-088",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A community develops a learned tool-use practice. Across generations, the practice changes selection pressures on traits that support it, and those traits affect later cultural possibilities. Which framework best fits?",
+    "options": [
+      "Genetic inheritance of a particular tool-making memory",
+      "Extinction of culturally transmitted knowledge",
+      "Gene–culture coevolution",
+      "A fixed-interval reinforcement schedule"
+    ],
+    "correct": 2,
+    "explanation": "Gene–culture coevolution describes reciprocal influences between learned cultural practices and biological evolution.",
+    "trap": "A culturally learned technique is not inherited as a specific genetic memory."
+  },
+  {
+    "id": "learning-mcq-089",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A child sees a model praised for sharing and becomes more likely to share. Which process is illustrated?",
+    "options": [
+      "Primary reinforcement of the child",
+      "Instinctive drift",
+      "Continuous reinforcement of every child response",
+      "Vicarious reinforcement"
+    ],
+    "correct": 3,
+    "explanation": "The observer sees consequences delivered to another person, which influences the observer’s performance.",
+    "trap": "The model receives the reward; the child need not receive that same reward directly."
+  },
+  {
+    "id": "learning-mcq-090",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "Each generation learns an existing technique, improves it, and passes the improved version onward. Later learners benefit from changes they did not invent. Which process best explains the increasing complexity?",
+    "options": [
+      "Cumulative cultural evolution",
+      "Spontaneous recovery",
+      "Nonassociative sensitization",
+      "Instinctive drift"
+    ],
+    "correct": 0,
+    "explanation": "Cumulative cultural evolution builds later skills and knowledge on the achievements of earlier learners.",
+    "trap": "A diffusion chain explains transmission; the repeated preservation and improvement of prior innovations adds the cumulative element."
+  },
+  {
+    "id": "learning-mcq-091",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A student watches a demonstration closely but cannot remember the steps an hour later. Which modeling process most directly failed?",
+    "options": [
+      "Attention",
+      "Retention",
+      "Motivation",
+      "Stimulus generalization"
+    ],
+    "correct": 1,
+    "explanation": "Storing the observed information for later use is retention.",
+    "trap": "The student attended successfully; the stated problem is maintaining the information."
+  },
+  {
+    "id": "learning-mcq-092",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A learner remembers a gymnastics demonstration but cannot yet coordinate the required movements. Which process is the clearest limitation?",
+    "options": [
+      "Retention",
+      "Habituation",
+      "Motor reproduction",
+      "Negative reinforcement"
+    ],
+    "correct": 2,
+    "explanation": "Physical ability to reproduce the action can limit imitation even when the model’s behavior is remembered.",
+    "trap": "Knowing the steps is different from being able to execute them."
+  },
+  {
+    "id": "learning-mcq-093",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A learner can describe and perform a modeled task but chooses not to do it until there is a valued reason. Which factor most directly changes?",
+    "options": [
+      "Attention",
+      "Sensory adaptation",
+      "Preparedness",
+      "Motivation"
+    ],
+    "correct": 3,
+    "explanation": "An incentive can change whether an already acquired behavior is performed.",
+    "trap": "A change in performance need not mean the behavior had to be learned from the start."
+  },
+  {
+    "id": "learning-mcq-094",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "Which sequence best organizes the major processes of learning from a model?",
+    "options": [
+      "Attention, retention, motor reproduction, motivation",
+      "Motivation, extinction, punishment, acquisition",
+      "Reproduction, sensitization, retention, extinction",
+      "Generalization, habituation, attention, blocking"
+    ],
+    "correct": 0,
+    "explanation": "The learner must register the demonstration, retain it, be able to reproduce it, and have motivation to express it.",
+    "trap": "These stages describe modeling, not the sequence of CS–US pairings."
+  },
+  {
+    "id": "learning-mcq-095",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A neuron responds when an action is performed and when a similar action is observed. Which description fits?",
+    "options": [
+      "A neuron proving that empathy is completely explained",
+      "A mirror neuron",
+      "An unconditioned reinforcer",
+      "A fixed-ratio counter"
+    ],
+    "correct": 1,
+    "explanation": "Mirror neurons are identified by overlapping responses to doing and observing actions.",
+    "trap": "That activity alone does not establish a complete explanation of empathy or all social understanding."
+  },
+  {
+    "id": "learning-mcq-096",
+    "topic": "Social learning & culture",
+    "skill": "Research methods",
+    "stem": "Children are randomly assigned to watch rewarded or unrewarded models performing the same action. Later imitation is measured. What is the independent variable?",
+    "options": [
+      "The children’s later imitation frequency",
+      "The definition of imitation",
+      "Whether the model receives a reward",
+      "The observer’s score on the imitation measure"
+    ],
+    "correct": 2,
+    "explanation": "The researcher manipulates the model’s observed consequence.",
+    "trap": "The observer’s later behavior is the dependent variable."
+  },
+  {
+    "id": "learning-mcq-097",
+    "topic": "Social learning & culture",
+    "skill": "Data analysis",
+    "stem": "Children who watch rewarded models imitate more than children who watch punished models. When all children are later offered equal incentives, the groups perform similarly. What is the best interpretation?",
+    "options": [
+      "Only the rewarded-model group ever learned the behavior",
+      "The later incentive shows the earlier models were irrelevant",
+      "The punished-model group had permanently lost motor ability",
+      "Observed consequences affected initial performance more than demonstrated capacity to reproduce the behavior"
+    ],
+    "correct": 3,
+    "explanation": "Similar later performance suggests both groups acquired information, while initial motivation or inhibition differed.",
+    "trap": "Do not equate a temporary lack of imitation with proof of no learning."
+  },
+  {
+    "id": "learning-mcq-098",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A grandparent teaches a child a food-preparation method used by earlier generations. Which form of cultural transmission fits?",
+    "options": [
+      "Vertical transmission",
+      "Horizontal transmission",
+      "Spontaneous recovery",
+      "Instinctive drift"
+    ],
+    "correct": 0,
+    "explanation": "Teaching across generations is vertical cultural transmission.",
+    "trap": "The skill is maintained by learning, not by direct genetic inheritance of the recipe."
+  },
+  {
+    "id": "learning-mcq-099",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A new software shortcut spreads among classmates in the same year. Which description best fits?",
+    "options": [
+      "Vertical transmission",
+      "Horizontal transmission",
+      "Biological preparedness",
+      "Primary reinforcement"
+    ],
+    "correct": 1,
+    "explanation": "Peers within the same generation pass along knowledge horizontally.",
+    "trap": "The distinction concerns the relationship between the learners, not whether the information is digital."
+  },
+  {
+    "id": "learning-mcq-100",
+    "topic": "Social learning & culture",
+    "skill": "Concept application",
+    "stem": "A learner copies a technique, then demonstrates it to another learner, who teaches a third person. What does this illustrate?",
+    "options": [
+      "A fixed-interval chain",
+      "Unconditioned acquisition",
+      "A diffusion chain",
+      "Sensory adaptation"
+    ],
+    "correct": 2,
+    "explanation": "Learners become models for subsequent learners, allowing a behavior to spread through a chain.",
+    "trap": "Diffusion concerns transmission across people, not one person’s reinforcement schedule."
+  }
+]

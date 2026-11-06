@@ -1,0 +1,1989 @@
+[
+  {
+    "id": "learning-aaq-01",
+    "title": "A cue that predicts an air puff",
+    "topic": "Classical conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers examined whether a reliable visual cue could acquire the ability to elicit a blink before an air puff arrived.",
+    "participants": "Eighty volunteers ages 18–22 were recruited from one university psychology pool. Forty were randomly assigned to each condition.",
+    "procedure": "In the predictive condition, a blue shape preceded a mild, safe air puff on 20 trials. In the comparison condition, the same number of shapes and puffs occurred at unrelated times. A camera then recorded the percentage of ten shape-only test trials on which each participant blinked within one second. Baseline blinking to the shape had been low in both groups.",
+    "ethics": "Participants gave informed consent after being told about the air puff and could withdraw without losing their participation credit.",
+    "table": {
+      "headers": [
+        "Condition",
+        "Mean test trials with a blink"
+      ],
+      "rows": [
+        [
+          "Predictive cue",
+          "75%"
+        ],
+        [
+          "Unrelated cue and puff",
+          "20%"
+        ]
+      ]
+    },
+    "resultsNote": "The researchers reported p = .004 for the between-group difference. All figures in this source are fictional.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. They manipulated the temporal relationship between cue and puff and randomly assigned people to the conditions.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of the conditioned blink response used in this study.",
+        "model": "It was the percentage of ten shape-only trials on which a participant blinked within one second of the blue shape.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Explain what the two mean percentages indicate about responding to the shape.",
+        "model": "On average, the predictive group blinked on 75% of shape-only trials versus 20% in the comparison group, a 55-percentage-point difference in cue-elicited blinking.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "The right to withdraw was protected because people could leave without losing their participation credit.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The findings may apply most readily to similar university volunteers. A single university’s 18–22-year-old pool does not represent children or all older adults.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “A cue that reliably predicts an outcome can acquire the ability to elicit its associated reflex.” Apply classical conditioning in your explanation.",
+        "model": "The predictive group blinked on 75% of cue-only trials compared with 20% in the unrelated group. The shape became a conditioned stimulus through its predictive pairing with the naturally blink-eliciting puff, supporting the claim.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not label the puff a conditioned response; it is the unconditioned stimulus in this design."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-02",
+    "title": "When an old cue blocks a new one",
+    "topic": "Classical conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers tested whether an already informative tone would reduce learning about a newly added light.",
+    "participants": "Sixty adult volunteers, ages 20–35, came from one city’s community center and were randomly divided into two groups of 30.",
+    "procedure": "The prior-cue group first experienced a tone reliably followed by a brief, nonpainful startling sound; a light was then added to that same tone–sound sequence. The compound-first group initially experienced the light and tone together predicting the sound, with light exposure matched across groups. At test, the light alone was presented five times. Anticipatory response was each participant’s mean increase in skin conductance from the immediately preceding baseline, in microsiemens.",
+    "ethics": "Consent explained the safe sound level and sensors. Participants could stop on request, and contact information was replaced by participant codes in the analysis file.",
+    "table": {
+      "headers": [
+        "Training history",
+        "Mean light-only response",
+        "SD"
+      ],
+      "rows": [
+        [
+          "Prior tone, then tone + light",
+          "2.1 microsiemens",
+          "1.2"
+        ],
+        [
+          "Tone + light from the start",
+          "6.3 microsiemens",
+          "1.4"
+        ]
+      ]
+    },
+    "resultsNote": "The compound-first group showed more response to the light. Exposure to the light itself was equated.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The researchers manipulated cue-training history and randomly assigned volunteers to the two histories.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of anticipatory response to the light used in this study.",
+        "model": "It was the mean rise in skin conductance, in microsiemens, above the immediately preceding baseline across five light-only test trials.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the difference between the two mean responses to the light.",
+        "model": "The compound-first group averaged a 6.3-microsiemens increase, compared with 2.1 after prior tone training. The light elicited more anticipation when it was informative from the beginning.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Confidentiality was protected by replacing contact information with participant codes in the analysis file.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The adult volunteers came from one community center, so the findings should not automatically be extended to children or all cultural populations.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “An established predictor can limit learning about an added redundant cue.” Apply blocking in your explanation.",
+        "model": "The light produced a mean response of only 2.1 after tone pretraining versus 6.3 with compound-first training. The tone already predicted the sound, leaving the added light with little new information, which supports blocking.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "This is weak acquisition to the new cue, not extinction of a previously strong light response."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-03",
+    "title": "Responding to similar sounds",
+    "topic": "Classical conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "A laboratory team investigated whether a learned response would transfer more readily to a similar cue than to a dissimilar cue.",
+    "participants": "Seventy-two consenting adults ages 18–30 were recruited from two local colleges; 36 were randomly assigned to each test condition.",
+    "procedure": "All participants first heard a 600-Hz tone followed by a mild air puff. The test cue was either a 650-Hz tone or a 1,200-Hz tone. Researchers measured transfer as the percentage of ten test-cue trials producing a blink within one second. No puff followed either test tone.",
+    "ethics": "The consent form described the puff and the option to stop. Experimenters monitored discomfort and stopped trials immediately when asked.",
+    "table": {
+      "headers": [
+        "Test cue",
+        "Mean test trials with a blink"
+      ],
+      "rows": [
+        [
+          "Similar: 650 Hz",
+          "62%"
+        ],
+        [
+          "Dissimilar: 1,200 Hz",
+          "18%"
+        ]
+      ]
+    },
+    "resultsNote": "The reported comparison gave p < .001. This fictional study tests transfer, not medical hearing ability.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The team manipulated test-cue similarity and randomly assigned participants to the test conditions.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of transfer of the learned blink used in this study.",
+        "model": "Transfer was the percentage of ten new-tone trials that elicited a blink within one second.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "What does the difference between 62% and 18% indicate in this study?",
+        "model": "The similar tone elicited blinking on 44 percentage points more test trials on average than the dissimilar tone, indicating greater transfer to the cue nearer the training frequency.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Protection from harm was addressed by monitoring discomfort and stopping trials whenever a participant asked.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "College-recruited adults ages 18–30 may not represent infants, older adults, or people with hearing conditions that were not described in the sample.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “A response learned to one cue transfers more to similar cues than to dissimilar cues.” Apply stimulus generalization in your explanation.",
+        "model": "The 650-Hz group blinked on 62% of test trials, compared with 18% for 1,200 Hz. Greater responding to the cue closer to the original 600-Hz tone supports generalization based on stimulus similarity.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not call this discrimination training: neither new test cue was differentially reinforced during the test."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-04",
+    "title": "A response returns after a rest",
+    "topic": "Classical conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers asked whether a response weakened by cue-only exposure could reappear after a delay.",
+    "participants": "Forty-eight volunteers ages 18–25 from one college completed each of the study’s phases.",
+    "procedure": "The researchers paired a shape with a safe air puff, then presented the shape without the puff until responding declined. Twenty-four hours later, they again presented the shape alone. The outcome was the number of ten shape-only trials with a blink in each phase. The researchers actively controlled the pairing and extinction phases; the same people experienced them all.",
+    "ethics": "Volunteers gave informed consent and could leave at any time. After testing, a debriefing explained the acquisition and extinction procedures.",
+    "table": {
+      "headers": [
+        "Phase",
+        "Mean blink responses out of 10 trials"
+      ],
+      "rows": [
+        [
+          "Immediately after acquisition",
+          "8"
+        ],
+        [
+          "End of cue-only extinction",
+          "1"
+        ],
+        [
+          "After a 24-hour rest",
+          "4"
+        ]
+      ]
+    },
+    "resultsNote": "No new shape–puff pairings occurred during the rest period or before the final test.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. They manipulated the learning phases in a repeated-measures design, rather than merely observing naturally occurring differences.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of the blink response in a phase used in this study.",
+        "model": "It was the number of ten shape-only trials producing a blink during that phase.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the change in means from the end of extinction to the delayed test.",
+        "model": "The mean increased from one blink response out of ten trials to four after the rest, a return of three responses despite no new cue–puff pairing.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Debriefing was used when participants were told after testing how acquisition and extinction had been arranged.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The participants were young volunteers from one college; the findings cannot automatically represent all ages or people who would not volunteer.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Extinction weakens a response without necessarily erasing the earlier association.” Apply spontaneous recovery in your explanation.",
+        "model": "The response fell from a mean of eight to one during extinction but returned to four after the rest without retraining. That return is spontaneous recovery, supporting the idea that the original association was not completely erased.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "The delayed return is not proof that the participants received new conditioning during the rest."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-05",
+    "title": "Remembered illness and food avoidance",
+    "topic": "Biology & applications",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers studied whether a stronger remembered nausea experience was associated with stronger later avoidance of the food eaten beforehand.",
+    "participants": "One hundred twenty adult volunteers ages 18–65 were recruited through one community dining program. All reported a naturally occurring past episode of nausea.",
+    "procedure": "The team did not give anyone food or induce illness. In a confidential survey, people rated the nausea intensity of the past episode from 0 to 10 and their current willingness to avoid that particular food from 0 to 10, where 10 indicated strongest avoidance. The researchers calculated the association between the two ratings.",
+    "ethics": "Participants consented to the survey, could skip any distressing item, and answered using anonymous codes with no names attached.",
+    "table": {
+      "headers": [
+        "Variables compared",
+        "Correlation"
+      ],
+      "rows": [
+        [
+          "Nausea intensity and current avoidance rating",
+          "r = +.58"
+        ]
+      ]
+    },
+    "resultsNote": "Ratings were recalled by participants rather than measured at the original illness. No variables were assigned or manipulated.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used a correlational study. They measured existing nausea memories and avoidance ratings without manipulating either variable.",
+        "criteria": [
+          "Identify a correlational study as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Observation or association alone does not establish an experimental manipulation."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of current food avoidance used in this study.",
+        "model": "It was the participant’s 0–10 rating of willingness to avoid the specific food, with 10 marking strongest avoidance.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Explain the meaning of r = +.58 in this source.",
+        "model": "Participants reporting more intense nausea tended to report stronger food avoidance. The positive association does not establish that nausea caused the current avoidance.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Confidentiality was protected by collecting answers under anonymous codes rather than names; participants could also skip distressing questions.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The community dining program’s volunteers with a recalled nausea episode may not represent adults without such experiences or people outside that program.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “An illness experience can be associated with later avoidance of a food linked to it.” Apply conditioned taste aversion in your explanation.",
+        "model": "The positive correlation of .58 is consistent with stronger illness experiences being linked to stronger food avoidance, as taste-aversion learning predicts. Because this is recalled correlational evidence, it supports an association rather than establishing a causal conditioning effect.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not claim random assignment or that the researchers deliberately made participants nauseated."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-06",
+    "title": "Praise contingent on completed work",
+    "topic": "Operant conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "A school study compared praise tied to completed assignments with equally frequent praise unrelated to completion.",
+    "participants": "Ninety student volunteers ages 16–18 at one high school were randomly assigned to three groups of 30.",
+    "procedure": "Students had ten optional practice tasks per week. One group received praise immediately after each completed task. Another received the same number of encouraging messages at times unrelated to completion. A third received neutral task instructions. Completed work was the number of tasks meeting a preset accuracy requirement during the final week.",
+    "ethics": "Parents gave permission, students assented, and participation or withdrawal had no effect on grades. Teachers used participant codes in the research spreadsheet.",
+    "table": {
+      "headers": [
+        "Condition",
+        "Mean completed tasks out of 10"
+      ],
+      "rows": [
+        [
+          "Contingent praise",
+          "8.4"
+        ],
+        [
+          "Noncontingent praise",
+          "5.1"
+        ],
+        [
+          "Neutral instructions",
+          "5.0"
+        ]
+      ]
+    },
+    "resultsNote": "The contingent-praise versus neutral comparison had p = .002. Messages were positive and contained no public rankings.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The researchers manipulated the praise contingency and randomly assigned students to groups.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of completed work used in this study.",
+        "model": "It was the number of ten optional practice tasks meeting the stated accuracy requirement during the final week.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the mean of 8.4 compared with 5.1 in this source.",
+        "model": "The contingent group completed an average of 3.3 more qualifying tasks than the group receiving praise unrelated to completion.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Informed participation for minors included parental permission and student assent; withdrawal did not affect grades.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Because participants were volunteers ages 16–18 from one school, results should not automatically be extended to younger pupils or all schools.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Praise is more effective at strengthening completed work when it follows that work contingently.” Apply positive reinforcement in your explanation.",
+        "model": "Contingent praise produced 8.4 completed tasks on average versus 5.1 with unrelated praise. Adding praise directly after completion links the consequence to the action, supporting positive reinforcement of task completion.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Positive reinforcement is defined by increased behavior, not simply by calling a message nice."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-07",
+    "title": "Stopping a mildly annoying tone",
+    "topic": "Operant conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers tested whether an action would increase when it stopped an unpleasant but safe sound.",
+    "participants": "Sixty-four volunteers ages 19–40 from one local employment-training center were randomly assigned to two groups of 32.",
+    "procedure": "A quiet tone began during repeated short trials. In the escape condition, pressing a button stopped it immediately. In the comparison condition, it stopped after a fixed duration regardless of button pressing. The target behavior was total button presses during a five-minute training block. Sound levels were kept within a preapproved comfortable range.",
+    "ethics": "Participants consented after hearing a sample sound and could end the session immediately without penalty. Experimenters stopped if discomfort was reported.",
+    "table": {
+      "headers": [
+        "Condition",
+        "Mean button presses in 5 minutes"
+      ],
+      "rows": [
+        [
+          "Press stops tone",
+          "9"
+        ],
+        [
+          "Tone ends independently",
+          "3"
+        ]
+      ]
+    },
+    "resultsNote": "Tone removal, not delivery of a prize, was the consequence under investigation.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The team manipulated whether pressing caused tone removal and randomly assigned volunteers to that contingency.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of the target action used in this study.",
+        "model": "It was the total number of button presses recorded during a five-minute block.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "What do the group means indicate about the effect of contingent sound removal?",
+        "model": "Participants averaged six more presses in five minutes when pressing stopped the tone, compared with independent tone endings.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "The right to withdraw was protected because participants could end the session immediately without any penalty.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The local training-center volunteers ages 19–40 do not necessarily represent children, retirees, or all employment backgrounds.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Removing an unpleasant stimulus after an action can strengthen that action.” Apply negative reinforcement in your explanation.",
+        "model": "The escape group made nine presses on average versus three when the tone ended independently. Because pressing removed the unpleasant tone and pressing increased, the result supports negative reinforcement.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "The action increases, so removal of the sound is reinforcement rather than negative punishment."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-08",
+    "title": "Learning a complex cursor movement",
+    "topic": "Operant conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers compared reinforcement of successive approximations with reinforcement only after a complete target movement.",
+    "participants": "Fifty adults ages 18–35 who had not used the task were recruited from one campus and randomly assigned to two groups of 25.",
+    "procedure": "Participants used a joystick to trace a novel curved path. The shaping group earned tokens first for approaching the path, then for closer approximations, and finally for the complete path. The comparison group earned tokens only for the full movement. Acquisition speed was the number of trials needed to achieve three consecutive complete correct traces; fewer trials meant faster acquisition.",
+    "ethics": "Participants gave informed consent, could withdraw, and received the same base compensation regardless of token count. They were debriefed on the training difference.",
+    "table": {
+      "headers": [
+        "Training condition",
+        "Mean trials to criterion"
+      ],
+      "rows": [
+        [
+          "Successive approximations",
+          "18"
+        ],
+        [
+          "Complete movement only",
+          "45"
+        ]
+      ]
+    },
+    "resultsNote": "The reported standardized difference was d = 0.80 in favor of shaping for faster acquisition.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The researchers manipulated reward criteria and randomly assigned participants to them.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of acquisition speed used in this study.",
+        "model": "It was the number of trials needed to complete three consecutive correct traces of the full path.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret d = 0.80 in the context of the comparison.",
+        "model": "The conditions differed by about 0.80 pooled standard deviations on trials to criterion, with the shaping group requiring fewer trials. This describes the size of the group difference, not an 80% success rate.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Withdrawal and compensation safeguards were used: participants could leave and still receive the same base payment regardless of token count.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Campus-recruited adults new to the joystick task may not represent expert users or children learning a different motor skill.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Reinforcing closer approximations can establish a complex action faster than waiting for the complete action alone.” Apply shaping in your explanation.",
+        "model": "The shaping group reached the criterion in a mean of 18 trials versus 45. Rewarding increasingly close movements strengthened intermediate steps toward the target, supporting shaping as the explanation.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Fewer trials indicate faster learning here; a higher trial count is not the better outcome."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-09",
+    "title": "Preferred activity after studying",
+    "topic": "Operant conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers examined whether placing a preferred activity after a less preferred task would increase completed work.",
+    "participants": "Sixty volunteers ages 15–17 from one after-school program were randomly divided into two groups of 30.",
+    "procedure": "Each participant identified a favorite puzzle game. One group could play for ten minutes only after completing a study block; the comparison group played for the same time before the study block. Completion was the number of accurate practice items produced during a twenty-minute session. Both groups had equal total access to the game.",
+    "ethics": "Parents gave permission, students assented, and withdrawal did not affect their access to the after-school program. Individual results were not shared with classmates.",
+    "table": {
+      "headers": [
+        "Timing of preferred game",
+        "Median accurate items"
+      ],
+      "rows": [
+        [
+          "After study block",
+          "18"
+        ],
+        [
+          "Before study block",
+          "11"
+        ]
+      ]
+    },
+    "resultsNote": "The reported medians summarize the middle of each group’s performance distribution.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The researchers manipulated when game access occurred and randomly assigned participants to conditions.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of study completion used in this study.",
+        "model": "It was the number of accurate practice items produced during a twenty-minute session.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the medians of 18 and 11 without treating them as means.",
+        "model": "The middle score in the after-study condition was 18 accurate items, compared with 11 in the before-study condition. These are medians, not arithmetic averages.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Confidentiality was protected because individual results were not disclosed to classmates; assent and parental permission were also obtained.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Volunteers from one after-school program ages 15–17 may differ from adults or adolescents who do not attend such programs.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “A preferred activity can strengthen a less preferred activity when access depends on first completing it.” Apply the Premack principle in your explanation.",
+        "model": "The after-study group’s median was 18 accurate items versus 11 when the game came first. Making the preferred game contingent on studying supports using a more preferred activity to reinforce the less preferred task.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not attribute the difference simply to more game time: total access was matched."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-10",
+    "title": "Immediate choices and delayed rewards",
+    "topic": "Operant conditioning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers explored whether everyday preference for immediate outcomes was related to choices on a delayed-reward task.",
+    "participants": "One hundred sixty adults ages 18–60 volunteered through an online forum serving one metropolitan area.",
+    "procedure": "Participants completed a preference questionnaire scored from 0 to 40, with higher scores representing a stronger immediate-outcome preference. They then chose between small immediate and larger delayed hypothetical rewards on twenty items. Delay discounting was operationalized as the number of immediate-reward choices out of twenty. No condition was assigned.",
+    "ethics": "Consent explained that all rewards were hypothetical. Responses were stored without account names, and people could skip items or withdraw.",
+    "table": {
+      "headers": [
+        "Measured variables",
+        "Association"
+      ],
+      "rows": [
+        [
+          "Immediate-preference questionnaire and immediate choices",
+          "r = +.62"
+        ]
+      ]
+    },
+    "resultsNote": "No actual financial payment depended on a participant’s choices. The study measured an association.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used a correlational study. Both preference score and immediate-choice count were measured without assigning a preference or reward-delay condition.",
+        "criteria": [
+          "Identify a correlational study as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Observation or association alone does not establish an experimental manipulation."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of delay discounting in the task used in this study.",
+        "model": "It was the number of small-immediate-reward choices selected across twenty hypothetical reward items.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the correlation of +.62.",
+        "model": "Higher immediate-preference questionnaire scores tended to accompany more immediate-reward choices. The association is positive but does not prove either variable causes the other.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Informed consent included the fact that the rewards were hypothetical, so participants were not misled about receiving the listed amounts.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Online volunteers from one metropolitan forum may not represent offline populations or people from all regions and income backgrounds.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “People who give delayed outcomes less subjective value tend to choose small immediate rewards more often.” Apply delay discounting in your explanation.",
+        "model": "The positive correlation of .62 links stronger immediate-outcome preference to more immediate choices. This is consistent with devaluing delayed rewards, but the correlational design cannot establish the causal mechanism.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "A positive r is not a 62% probability that the hypothesis is true."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-11",
+    "title": "Persistence after rewards stop",
+    "topic": "Reinforcement schedules",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers compared how reinforcement history changed persistence during extinction.",
+    "participants": "Ninety-six adult volunteers ages 18–30 from one technical college were randomly assigned to three groups of 32.",
+    "procedure": "Participants pressed a key to earn tokens. Training used a continuous schedule, a fixed-ratio schedule, or a variable-ratio schedule. Fixed and variable ratio requirements had the same average response count per token. In the test, no tokens were delivered to anyone. Persistence was total key presses in the first ten minutes of this extinction test.",
+    "ethics": "Participants consented, knew they could stop, and received a base payment independent of persistence. Researchers explained the change in token availability after the test.",
+    "table": {
+      "headers": [
+        "Training schedule",
+        "Mean extinction presses",
+        "SD"
+      ],
+      "rows": [
+        [
+          "Continuous",
+          "18",
+          "6"
+        ],
+        [
+          "Fixed ratio",
+          "36",
+          "10"
+        ],
+        [
+          "Variable ratio",
+          "68",
+          "15"
+        ]
+      ]
+    },
+    "resultsNote": "These numbers describe the extinction test, not the original acquisition phase.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. Reinforcement history was manipulated and assigned randomly before a common extinction test.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of persistence used in this study.",
+        "model": "It was the total number of key presses during the first ten minutes in which no tokens were delivered.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "What does the SD of 15 versus 6 indicate, and what does it not indicate?",
+        "model": "Extinction counts were more spread out among variable-ratio participants than among continuous participants. A larger SD does not itself mean a higher average or more accurate performance.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Debriefing occurred when researchers explained after testing why token availability had changed.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "A single technical college’s young adult volunteers may not represent children, older adults, or people with different educational backgrounds.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Intermittently reinforced behavior can persist longer than continuously reinforced behavior when rewards stop.” Apply the partial-reinforcement extinction effect in your explanation.",
+        "model": "Variable-ratio training was followed by 68 extinction presses on average, versus 18 after continuous reinforcement. Prior omissions were normal under intermittent reinforcement, so missing rewards were less immediately informative, supporting greater persistence.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not treat a variable ratio as a variable time interval; its requirement concerns responses."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-12",
+    "title": "The rhythm of a fixed waiting period",
+    "topic": "Reinforcement schedules",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers investigated whether predictable time intervals produced an accelerating response pattern.",
+    "participants": "Forty volunteers ages 18–28 from one university experienced both schedules. The order of the two schedules was randomly counterbalanced.",
+    "procedure": "Under fixed-interval training, the first response after a 30-second wait earned a token. Under variable-interval training, availability changed around a 30-second average and still required a response. Researchers counted presses in the early, middle, and late ten-second segments of each 30-second observation window. The table reports each schedule’s average segment counts.",
+    "ethics": "Participants consented to the computer task, could leave at any time, and received a debriefing explaining that the reward schedules differed.",
+    "table": {
+      "headers": [
+        "Schedule",
+        "Early 10 seconds",
+        "Middle 10 seconds",
+        "Late 10 seconds"
+      ],
+      "rows": [
+        [
+          "Fixed interval",
+          "2",
+          "7",
+          "16"
+        ],
+        [
+          "Variable interval",
+          "8",
+          "8",
+          "9"
+        ]
+      ]
+    },
+    "resultsNote": "The numbers are mean response counts, not time taken to receive a reward.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The experimenters manipulated the schedule in a repeated-measures design and counterbalanced its order.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of response pattern across a waiting period used in this study.",
+        "model": "It was the number of presses in each early, middle, and late ten-second segment of the observation window.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the fixed-interval means across the three segments.",
+        "model": "Average responding rose from 2 presses early to 7 in the middle and 16 late, showing acceleration near the predictable end of the wait.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "The right to withdraw was protected because participants could leave the computer task at any time.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The young adults at one university may not represent other ages or all real-world behaviors; the participant restriction is the relevant sampling limit.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “A predictable waiting interval can produce low early responding and higher responding as reinforcement becomes available.” Apply fixed-interval reinforcement in your explanation.",
+        "model": "Fixed-interval presses rose from 2 to 16 across the window, whereas variable-interval counts stayed near 8–9. The predictable wait made late responses more likely to contact reinforcement, supporting the fixed-interval scallop.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "A reward delivered automatically every 30 seconds would not be the same response-dependent procedure."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-13",
+    "title": "When the expected schedule advantage is uncertain",
+    "topic": "Reinforcement schedules",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers tested a partial-reinforcement prediction in a short training session.",
+    "participants": "Eighty adult volunteers ages 18–24 from one university were randomly assigned to continuous or variable-ratio training, 40 per group.",
+    "procedure": "All participants learned the same button action. Following their assigned token schedule, they entered a five-minute test with no tokens. Persistence was the number of presses in that test. Training duration and token appearance were matched, although the number of tokens earned could differ.",
+    "ethics": "Consent described a task with changing reward availability and the right to withdraw. Individual response files used codes instead of names.",
+    "table": {
+      "headers": [
+        "Training history",
+        "Mean extinction presses"
+      ],
+      "rows": [
+        [
+          "Continuous",
+          "22"
+        ],
+        [
+          "Variable ratio",
+          "24"
+        ]
+      ]
+    },
+    "resultsNote": "The reported difference had p = .41, using a prespecified significance threshold of .05.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The researchers manipulated and randomly assigned reinforcement schedules before the common test.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of persistence in extinction used in this study.",
+        "model": "It was the number of button presses during the five-minute no-token test.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Explain what p = .41 permits the researchers to conclude at their stated .05 threshold.",
+        "model": "The difference is not statistically significant at .05, so the study does not provide clear evidence of a schedule effect. The p value is not the probability that the null hypothesis is true.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Confidentiality was addressed by storing individual response files under codes rather than names.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "A convenience sample of university volunteers ages 18–24 should not be assumed representative of every age or educational group.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “This particular study clearly demonstrates that variable-ratio training increases persistence.” Apply the partial-reinforcement extinction effect in your explanation.",
+        "model": "The mean difference was only two presses, 24 versus 22, and p = .41 did not reach .05. These results do not clearly support the claimed effect in this study, even though they do not prove that partial reinforcement can never increase persistence.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Failure to reach significance is not proof of equality or a disproof of every prior study."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-14",
+    "title": "Exploration before an incentive",
+    "topic": "Cognition",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers tested whether unrewarded spatial exploration could help later goal-directed navigation.",
+    "participants": "Fifty adult volunteers ages 18–35 from a community college were randomly assigned to maze exploration or a nonspatial viewing activity, 25 per group.",
+    "procedure": "The exploration group navigated a virtual maze for ten minutes without rewards. The comparison group viewed nonspatial patterns for ten minutes. Both then received the same goal location and a token incentive for reaching it. Navigation errors were wrong corridor entries on the first goal-directed trial.",
+    "ethics": "Participants consented, could withdraw without penalty, and were debriefed about the purpose of unrewarded exploration. No real-world confinement was involved.",
+    "table": {
+      "headers": [
+        "Earlier activity",
+        "Mean wrong corridor entries"
+      ],
+      "rows": [
+        [
+          "Unrewarded maze exploration",
+          "2"
+        ],
+        [
+          "Nonspatial viewing",
+          "7"
+        ]
+      ]
+    },
+    "resultsNote": "The first goal-directed trial, before repeated rewarded practice, supplied the reported outcome.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. Earlier activity was manipulated and randomly assigned before a common navigation test.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of navigation errors used in this study.",
+        "model": "They were the number of wrong corridor entries on the first goal-directed trial.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the difference between the means of 2 and 7.",
+        "model": "Earlier maze exploration was associated with five fewer wrong entries on average on the first goal trial, so a lower score here indicates better navigation.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Debriefing was used when participants were told the purpose of the unrewarded exploration phase.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Community-college adult volunteers may not represent young children, older nonstudents, or all populations learning physical environments.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Useful spatial knowledge can be acquired before any explicit reward is available.” Apply latent learning in your explanation.",
+        "model": "The unrewarded-exploration group made two wrong entries versus seven in the comparison group on the first rewarded trial. Their advantage before repeated rewarded practice is consistent with prior latent learning becoming visible when an incentive appeared.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not say all knowledge necessarily began with the first token; the unrewarded phase is the point of the design."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-15",
+    "title": "Choosing a new route after a closure",
+    "topic": "Cognition",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers examined route flexibility when a city unexpectedly closed a familiar pedestrian path for maintenance.",
+    "participants": "Twenty-four adult commuters ages 25–50 who regularly used the path volunteered after receiving the study information. They all traveled within the same neighborhood.",
+    "procedure": "The city made the closure independently of the study. Researchers did not assign routes, offer rewards, or change the surroundings. Consenting commuters were observed during their usual trip. A successful novel shortcut was scored when the commuter reached the usual destination using an unblocked route they reported never taking before, without asking for directions.",
+    "ethics": "Researchers observed only people who had consented. Route records used participant codes and omitted home addresses.",
+    "table": {
+      "headers": [
+        "Observed outcome",
+        "Number of commuters"
+      ],
+      "rows": [
+        [
+          "Successful novel shortcut",
+          "18"
+        ],
+        [
+          "Did not use a successful novel shortcut",
+          "6"
+        ]
+      ]
+    },
+    "resultsNote": "Eighteen out of 24 is 75%. The study observes existing behavior without manipulating the closure.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used naturalistic observation. The researchers recorded routine behavior during an independently occurring closure without assigning conditions.",
+        "criteria": [
+          "Identify naturalistic observation as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Observation or association alone does not establish an experimental manipulation."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of successful novel shortcut use used in this study.",
+        "model": "It was reaching the usual destination by a previously unused unblocked route without asking for directions, as scored in the observation.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Explain what the reported 75% describes.",
+        "model": "Eighteen of the 24 observed commuters met the novel-shortcut criterion. It is the sample proportion showing that behavior, not a probability that every commuter has a cognitive map.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Confidentiality was protected by using participant codes and leaving home addresses out of the route records.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The small group of regular commuters from one neighborhood does not necessarily represent unfamiliar visitors or people in different cities.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Spatial knowledge can support a route a person has not previously practiced.” Apply cognitive maps in your explanation.",
+        "model": "Eighteen commuters successfully used a new route without directions. This is consistent with flexible spatial representations supporting novel navigation, but the observational design cannot rule out every alternative explanation.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "The city’s closure is not a researcher-assigned manipulation, and the observation does not prove a single mental mechanism."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-16",
+    "title": "Previewing objects before a sudden solution",
+    "topic": "Cognition",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers asked whether seeing relevant objects before a problem would support a later solution without incremental reinforcement.",
+    "participants": "Sixty volunteers ages 18–30 from one university were randomly assigned to relevant-object or unrelated-object previews, 30 per condition.",
+    "procedure": "Participants viewed objects for one minute, then attempted a new construction problem. The relevant objects could be recombined into the solution; the unrelated set could not. No rewards or corrective feedback were given during attempts. Solution latency was elapsed seconds from seeing the problem to the first complete correct construction.",
+    "ethics": "Participants gave consent, could stop if frustrated, and were told during debriefing how the preview related to the problem.",
+    "table": {
+      "headers": [
+        "Preview condition",
+        "Median solution latency"
+      ],
+      "rows": [
+        [
+          "Relevant objects",
+          "40 seconds"
+        ],
+        [
+          "Unrelated objects",
+          "95 seconds"
+        ]
+      ]
+    },
+    "resultsNote": "All participants finished within the allowed session. The table gives medians rather than arithmetic means.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The team manipulated the preview and randomly assigned participants to it.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of solution latency used in this study.",
+        "model": "It was elapsed seconds from presentation of the problem to the first fully correct construction.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the medians of 40 and 95 seconds.",
+        "model": "The middle solution time was 40 seconds with relevant objects and 95 with unrelated objects, a 55-second difference between medians. The smaller median indicates quicker solution.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Protection from distress included allowing participants to stop when frustrated; debriefing explained the task afterward.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "University volunteers ages 18–30 may not represent young children or people with substantially different construction experience.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Understanding useful relationships among objects can aid problem solving without successive reinforced approximations.” Apply insight and mental representation in your explanation.",
+        "model": "The relevant-preview group’s median latency was 40 seconds versus 95 without that preview, despite neither group receiving incremental reinforcement. This supports a role for mental representation compatible with insight, though latency alone does not prove every solution felt sudden.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not rename this shaping: no successive approximation was selectively reinforced."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-17",
+    "title": "Learning a new action by watching",
+    "topic": "Social learning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers investigated whether observing a novel action sequence would improve later performance without direct instruction.",
+    "participants": "Eighty-four children ages 8–10 from one suburban school volunteered with family permission and were randomly assigned to two groups of 42.",
+    "procedure": "One group watched a video of a model completing an eight-step noncompetitive object-arrangement task. The comparison group watched a matched video of the same objects without the action sequence. Children then attempted the task with no corrective feedback. Imitation was the number of the eight demonstrated actions reproduced correctly and in order.",
+    "ethics": "Parents gave permission, children assented, and a child could stop at any point. Researchers used private individual sessions and did not rank children publicly.",
+    "table": {
+      "headers": [
+        "Video",
+        "Mean correct actions",
+        "Observed minimum",
+        "Observed maximum"
+      ],
+      "rows": [
+        [
+          "Model demonstration",
+          "6",
+          "3",
+          "8"
+        ],
+        [
+          "Objects only",
+          "2",
+          "0",
+          "5"
+        ]
+      ]
+    },
+    "resultsNote": "Each child’s score was between zero and eight. The reported scores are fictional.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The team manipulated video content and randomly assigned children to view the demonstration or comparison.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of imitation performance used in this study.",
+        "model": "It was the number of eight demonstrated actions reproduced correctly and in order on the subsequent attempt.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Calculate and interpret the range for the demonstration group.",
+        "model": "Its observed maximum was eight and minimum was three, so the range was five correctly reproduced actions. This is spread in the scores, not the average child’s score.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "The study obtained parental permission and child assent; allowing children to stop protected voluntary participation.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Children ages 8–10 from one suburban school do not represent all ages, school types, or cultural settings.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Watching a model can support acquisition of a novel behavior without direct trial-and-error training.” Apply observational learning in your explanation.",
+        "model": "Children seeing the demonstration averaged six correct actions versus two after the objects-only video. The modeled sequence supplied information the observers could retain and reproduce, supporting observational learning.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "The observers did not need to receive a direct reward in order to acquire information from the model."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-18",
+    "title": "Observed consequences and hidden learning",
+    "topic": "Social learning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers distinguished learning an action from choosing to display it after observing consequences for a model.",
+    "participants": "Ninety adolescents ages 13–15 from one youth program were randomly assigned to three video conditions of 30 each.",
+    "procedure": "All videos showed the same ten-step action. The actor was praised, neutrally acknowledged, or mildly reprimanded in a scripted scene. Initial imitation was the number of correctly reproduced steps during a free-choice opportunity. Later, every participant was offered the same token incentive to reproduce as many steps as possible.",
+    "ethics": "Parents gave permission and adolescents assented. They were informed that the videos were scripted; no participant was reprimanded. Researchers explained the study after testing.",
+    "table": {
+      "headers": [
+        "Model consequence",
+        "Mean initial correct steps",
+        "Mean steps with equal incentive"
+      ],
+      "rows": [
+        [
+          "Praised",
+          "8",
+          "9"
+        ],
+        [
+          "Neutral",
+          "5",
+          "9"
+        ],
+        [
+          "Reprimanded",
+          "2",
+          "8"
+        ]
+      ]
+    },
+    "resultsNote": "The later comparison among the groups had p = .63 at a .05 threshold. Initial group differences were more pronounced.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. The model’s observed consequence was manipulated with random assignment, followed by the same incentive test for all.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of initial imitation used in this study.",
+        "model": "It was the number of ten modeled steps correctly reproduced during the first free-choice opportunity.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "What does p = .63 mean for the later incentive comparison at the .05 threshold?",
+        "model": "The later score differences did not reach statistical significance at .05. This does not establish perfect equality or prove that everyone learned an identical amount.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Informed participation included permission and assent, and participants knew the videos were scripted rather than genuine punishment of an unsuspecting person.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Adolescents volunteering in one youth program may not represent younger children or adolescents outside that program.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “Observed consequences can change initial imitation without showing that a behavior was never learned.” Apply vicarious consequences and the distinction between acquisition and performance in your explanation.",
+        "model": "The reprimanded-model group initially reproduced only two steps, but later averaged eight under the common incentive. Their later performance suggests information was acquired but initially inhibited, supporting the acquisition–performance distinction.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Low initial imitation does not prove absence of learning; a nonsignificant later difference also does not prove exact equivalence."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-19",
+    "title": "A technique spreads among peers",
+    "topic": "Social learning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers tracked how an existing dance technique spread among peers during a community workshop series.",
+    "participants": "Seventy-one consenting dancers ages 18–45 attended the same local workshop program. Five already knew the focal technique at enrollment.",
+    "procedure": "Researchers did not introduce demonstrations, assign teachers, or reward imitation. During routine sessions, observers recorded who demonstrated the technique to whom. Knowing the technique was scored as completing all four specified movement elements in a normal practice run. Weekly totals counted dancers meeting that criterion.",
+    "ethics": "Dancers consented to being observed, could opt out of records, and were identified by codes rather than public names. Ordinary workshop access did not depend on participation.",
+    "table": {
+      "headers": [
+        "Observation time",
+        "Dancers meeting the technique criterion"
+      ],
+      "rows": [
+        [
+          "Enrollment",
+          "5"
+        ],
+        [
+          "Week 1",
+          "18"
+        ],
+        [
+          "Week 2",
+          "43"
+        ],
+        [
+          "Week 3",
+          "71"
+        ]
+      ]
+    },
+    "resultsNote": "Records included instances of one learner later demonstrating to another. The researchers observed rather than arranged these interactions.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used naturalistic observation. They recorded normal workshop demonstrations and practice without assigning models, rewards, or conditions.",
+        "criteria": [
+          "Identify naturalistic observation as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Observation or association alone does not establish an experimental manipulation."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of knowing the technique used in this study.",
+        "model": "It was completing all four specified movement elements during a normal practice run.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the change in the observed count from week 1 to week 2.",
+        "model": "The number meeting the criterion increased from 18 to 43, an increase of 25 dancers in this sample. That count is not a 25-percentage-point change.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Voluntary participation was protected by allowing people to opt out of records without losing access to the workshop.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "The consenting adult dancers in one local program do not represent all adults, nondancers, or every cultural setting.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “A learned technique can spread among peers as learners become models for later learners.” Apply horizontal cultural transmission and diffusion chains in your explanation.",
+        "model": "The count rose from five at enrollment to 71 by week 3, and observers recorded learners later demonstrating to other dancers. Those linked peer demonstrations are consistent with diffusion chains and horizontal transmission, although the observational design cannot isolate them as the only cause.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "More people performing the technique is not evidence that the skill became genetically inherited."
+      }
+    ]
+  },
+  {
+    "id": "learning-aaq-20",
+    "title": "Repeated pictures and a novel pattern",
+    "topic": "Nonassociative learning",
+    "sourceType": "Original fictional study; all participants, procedures, and numbers are invented for practice.",
+    "introduction": "Researchers tested whether decreasing attention to a repeated picture would recover when a new pattern appeared.",
+    "participants": "Sixty infants ages 5–7 months were recruited through one pediatric clinic with parental permission. Thirty were randomly assigned to each final-test condition.",
+    "procedure": "All infants first saw the same harmless geometric picture on eight brief trials. Looking time was the number of seconds gaze stayed on the display during a 20-second window, coded from video by observers unaware of final-test assignment. At the final trial, one group saw a new pattern; the other saw the original pattern again.",
+    "ethics": "Parents consented and remained with the infants. Trials stopped immediately if the infant showed distress, and families could withdraw the video from analysis.",
+    "table": {
+      "headers": [
+        "Observation",
+        "Mean looking time"
+      ],
+      "rows": [
+        [
+          "First presentation, all infants",
+          "14 seconds"
+        ],
+        [
+          "Eighth presentation, all infants",
+          "3 seconds"
+        ],
+        [
+          "Final test: new pattern",
+          "12 seconds"
+        ],
+        [
+          "Final test: repeated pattern",
+          "3 seconds"
+        ]
+      ]
+    },
+    "resultsNote": "The patterns were matched for size and brightness. The final manipulation concerned novelty, not a reward.",
+    "parts": [
+      {
+        "letter": "A",
+        "label": "Research method",
+        "maxPoints": 1,
+        "prompt": "Name the research method used in this study.",
+        "model": "The researchers used an experiment. Final-pattern novelty was manipulated with random assignment after common repeated presentations.",
+        "criteria": [
+          "Identify an experiment as the method. Design details may clarify the answer but do not replace the method name."
+        ],
+        "pitfall": "Random assignment is a design feature, not the name of the research method."
+      },
+      {
+        "letter": "B",
+        "label": "Operational definition",
+        "maxPoints": 1,
+        "prompt": "State the operational definition of looking time used in this study.",
+        "model": "It was the number of seconds gaze remained on the display within a 20-second trial window, as coded from video.",
+        "criteria": [
+          "Give the study’s observable measurement or manipulation, including its relevant units, scoring, or time window."
+        ],
+        "pitfall": "A dictionary definition of the concept does not state how this particular study measured it."
+      },
+      {
+        "letter": "C",
+        "label": "Statistic interpretation",
+        "maxPoints": 1,
+        "prompt": "Interpret the difference between the two final-test means.",
+        "model": "Infants shown the new pattern looked for an average of 12 seconds versus three for the repeated pattern, a nine-second difference following the same earlier exposure.",
+        "criteria": [
+          "Interpret the specified statistic accurately in the context of the measured behavior and conditions."
+        ],
+        "pitfall": "Name the actual variable and conditions; do not merely repeat the statistic’s value."
+      },
+      {
+        "letter": "D",
+        "label": "Ethical guideline",
+        "maxPoints": 1,
+        "prompt": "Identify one ethical safeguard described in the source and explain how it was used.",
+        "model": "Protection from harm was addressed by stopping immediately at signs of distress, while parents remained present and could withdraw the recordings.",
+        "criteria": [
+          "Name a relevant ethical guideline and connect it to the specific protection reported in this study."
+        ],
+        "pitfall": "Do not invent approval, consent, or debriefing that the source never mentions."
+      },
+      {
+        "letter": "E",
+        "label": "Generalizability",
+        "maxPoints": 1,
+        "prompt": "Explain how far the findings can reasonably extend beyond this sample, using a specific participant characteristic.",
+        "model": "Infants ages 5–7 months recruited through one clinic may not represent older children, adults, or infants from all clinical and cultural backgrounds.",
+        "criteria": [
+          "Make a defensible claim about a population and justify it with an actual characteristic or sampling feature reported in the source."
+        ],
+        "pitfall": "Randomly assigning a convenience sample does not make it a random or representative sample of everyone."
+      },
+      {
+        "letter": "F",
+        "label": "Argumentation",
+        "maxPoints": 2,
+        "prompt": "Use a specific finding to explain whether the results support or challenge this claim: “A response reduced by repetition can recover when the stimulus changes.” Apply habituation and dishabituation in your explanation.",
+        "model": "Looking fell from 14 to three seconds across repetition, then rose to 12 for a new pattern while staying at three for the repeated one. The decline fits habituation and the novelty rebound fits dishabituation rather than a reward-based process.",
+        "criteria": [
+          "For 2 points: cite an accurate, specific finding and explain how it supports or challenges the stated claim using the relevant learning mechanism.",
+          "For 1 point: a relevant result without the explanatory link, or a relevant explanatory argument without a specific result.",
+          "For 0 points: neither relevant evidence nor a defensible explanation, or a contradiction that undermines the response."
+        ],
+        "pitfall": "Do not call the novelty rebound spontaneous recovery: the key change is a new pattern, not merely a rest after extinction."
+      }
+    ]
+  }
+]
