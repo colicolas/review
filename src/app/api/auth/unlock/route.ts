@@ -1,5 +1,5 @@
 import {NextRequest,NextResponse} from 'next/server';
-import {AUTH_COOKIE,SESSION_SECONDS,createSession,getAuthConfig,passwordMatches,safeReturnTo,sameOriginPost} from '@/lib/auth';
+import {AUTH_COOKIE,PSYCHOLOGY_HOME,createSession,getAuthConfig,passwordMatches,safeReturnTo,sameOriginPost,temporaryPsychCodeMatches} from '@/lib/auth';
 export const runtime='nodejs';
 export async function POST(request:NextRequest){
  if(!sameOriginPost(request))return new NextResponse('Invalid request origin.',{status:403,headers:{'Cache-Control':'no-store'}});
@@ -10,12 +10,16 @@ export async function POST(request:NextRequest){
  try{form=await request.formData();}catch{return new NextResponse('Invalid form.',{status:400,headers:{'Cache-Control':'no-store'}});}
  const password=form.get('password');
  const next=safeReturnTo(form.get('next'));
- if(typeof password!=='string'||password.length>1024||!passwordMatches(password,config.password)){
+ const now=Date.now();
+ const validInput=typeof password==='string'&&password.length<=1024;
+ const owner=validInput&&passwordMatches(password,config.password);
+ const guest=!owner&&validInput&&temporaryPsychCodeMatches(password,now);
+ if(!owner&&!guest){
   const login=new URL('/login/',request.url);login.searchParams.set('error','1');login.searchParams.set('next',next);
   return NextResponse.redirect(login,{status:303,headers:{'Cache-Control':'private, no-store'}});
  }
- const {token,session}=createSession(config);
- const response=NextResponse.redirect(new URL(next,request.url),{status:303,headers:{'Cache-Control':'private, no-store'}});
- response.cookies.set(AUTH_COOKIE,token,{httpOnly:true,secure:request.nextUrl.protocol==='https:',sameSite:'lax',path:'/',maxAge:SESSION_SECONDS,expires:new Date(session.expiresAt)});
+ const {token,session}=createSession(config,now,guest?'psychology':'owner');
+ const response=NextResponse.redirect(new URL(guest?PSYCHOLOGY_HOME:next,request.url),{status:303,headers:{'Cache-Control':'private, no-store'}});
+ response.cookies.set(AUTH_COOKIE,token,{httpOnly:true,secure:request.nextUrl.protocol==='https:',sameSite:'lax',path:'/',maxAge:Math.floor((session.expiresAt-now)/1000),expires:new Date(session.expiresAt)});
  return response;
 }

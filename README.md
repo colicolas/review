@@ -95,3 +95,11 @@ Data: `src/data/psych-aaq.json`. Validation: `node scripts/check-psych-aaq.mjs` 
 The consequence-classification exercise now shuffles both its 12 scenarios and answer choices after hydration and on “Restart & shuffle.” Directly underneath, `#schedule-exercise` adds 20 equally balanced identification scenarios for FR, VR, FI, VI, and continuous reinforcement. Both drills retain their shuffled order and graded answers when using Previous/Next. Continuous reinforcement is explicitly treated as the preferred label for every-response reinforcement (equivalent to FR 1).
 
 Validate with `node scripts/check-scenario-exercises.mjs`.
+
+## Temporary Psychology-only guest access
+
+A server-side temporary code accepts Hannah’s first name without case sensitivity. It expires **November 6, 2026 at noon America/Los_Angeles (20:00 UTC)**. Both new sign-ins and existing guest sessions stop working at that deadline; the cookie lifetime is capped accordingly. This uses the existing production password/session-secret configuration, so no new Vercel environment variable is needed.
+
+Guest sign-in opens `/subjects/psychology/2026-11-06-learning/` and allows that review, the Psychology notebook index, its source PDF, and required shared browser assets. Other subjects, other PDFs, and private API paths are denied server-side. The guest sidebar exposes only Psychology. Subject routes independently check the session as well. Non-Psychology question banks are passed through authorized server responses, not included in shared JavaScript bundles. The primary password retains full 48-hour access.
+
+`node scripts/check-auth.mjs` covers case handling, scope escalation/tampering, subject/file restrictions, deadline rejection, and shortened guest cookies.

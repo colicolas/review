@@ -1,12 +1,10 @@
 'use client';
 import {useEffect,useState} from 'react';
 import {shuffleQuestions,checkFiveLines} from '@/lib/coding-session';
-import rawQuestions from '@/data/jess-questions.json';
-type CodingQuestion={id:string;kind:string;topic:string;page:number;prompt:string;answer:string;code?:string;solution?:string;lines?:string[];errors?:Record<string,string|undefined>};
-const questions: CodingQuestion[]=rawQuestions;
+export type CodingQuestion={id:string;kind:string;topic:string;page:number;prompt:string;answer:string;code?:string;solution?:string;lines?:string[];errors?:Record<string,string|undefined>};
 const kinds=['All types','Recall','Diagnose','Find five','Rewrite','Exceptions'];
 const topics=['All topics','Comments','Naming','Values & Java','Formatting','Flow control','Organization','Mixed'];
-export default function CodingPractice(){
+export default function CodingPractice({questions}:{questions:CodingQuestion[]}){
  const [kind,setKind]=useState('All types'),[topic,setTopic]=useState('All topics'),[size,setSize]=useState('20'),[onlyMissed,setOnlyMissed]=useState(false),[missed,setMissed]=useState<string[]>([]),[ready,setReady]=useState(false);
  const [deck,setDeck]=useState<CodingQuestion[]>([]),[index,setIndex]=useState(0),[draft,setDraft]=useState(''),[selected,setSelected]=useState<number[]>([]),[revealed,setRevealed]=useState(false),[grades,setGrades]=useState<Record<string,boolean>>({});
  useEffect(()=>{try{const saved=JSON.parse(localStorage.getItem('jess-coding-missed')||'[]');if(Array.isArray(saved))setMissed(saved.filter((v):v is string=>typeof v==='string'))}catch{}setReady(true)},[]);
