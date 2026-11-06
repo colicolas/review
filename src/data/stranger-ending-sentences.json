@@ -1,0 +1,4204 @@
+[
+  {
+    "id": "ending-sentence-1",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Even in the prisoner’s dock it’s always [ … ] people talk about you.",
+    "answer": "interesting to hear"
+  },
+  {
+    "id": "ending-sentence-2",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: And during the summations by the prosecutor and my [ … ], there was a lot said about me, maybe more about me than about my crime.",
+    "answer": "lawyer",
+    "context": "Even in the prisoner’s dock it’s always interesting to hear people talk about you."
+  },
+  {
+    "id": "ending-sentence-3",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: But were their [ … ] speeches so different after all?",
+    "answer": "two",
+    "context": "And during the summations by the prosecutor and my lawyer, there was a lot said about me, maybe more about me than about my crime."
+  },
+  {
+    "id": "ending-sentence-4",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: My [ … ] raised his arms and pleaded guilty, but with an explanation.",
+    "answer": "lawyer",
+    "context": "But were their two speeches so different after all?"
+  },
+  {
+    "id": "ending-sentence-5",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: The [ … ] waved his hands and proclaimed my guilt, but without an explanation.",
+    "answer": "prosecutor",
+    "context": "My lawyer raised his arms and pleaded guilty, but with an explanation."
+  },
+  {
+    "id": "ending-sentence-6",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: [ … ] thing bothered me a little, though.",
+    "answer": "One",
+    "context": "The prosecutor waved his hands and proclaimed my guilt, but without an explanation."
+  },
+  {
+    "id": "ending-sentence-7",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Despite everything that was on my mind, I felt like intervening every now and then, but my [ … ] kept telling me, “Just keep quiet—it won’t do your case any good.”",
+    "answer": "lawyer",
+    "context": "One thing bothered me a little, though."
+  },
+  {
+    "id": "ending-sentence-8",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: In a way, they seemed to be arguing the case [ … ] nothing to do with me.",
+    "answer": "as if it had",
+    "context": "Despite everything that was on my mind, I felt like intervening every now and then, but my lawyer kept telling me, “Just keep quiet—it won’t do your case any good.”"
+  },
+  {
+    "id": "ending-sentence-9",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Everything was happening [ … ] participation.",
+    "answer": "without my",
+    "context": "In a way, they seemed to be arguing the case as if it had nothing to do with me."
+  },
+  {
+    "id": "ending-sentence-10",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: My fate was being decided without anyone [ … ] asking my opinion.",
+    "answer": "so much as",
+    "context": "Everything was happening without my participation."
+  },
+  {
+    "id": "ending-sentence-11",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: There were times when I felt like breaking in [ … ] and saying, “Wait a minute!",
+    "answer": "on all of them",
+    "context": "My fate was being decided without anyone so much as asking my opinion."
+  },
+  {
+    "id": "ending-sentence-12",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Who’s the [ … ] here?",
+    "answer": "accused",
+    "context": "There were times when I felt like breaking in on all of them and saying, “Wait a minute!"
+  },
+  {
+    "id": "ending-sentence-13",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Being the accused [ … ] something.",
+    "answer": "counts for",
+    "context": "Who’s the accused here?"
+  },
+  {
+    "id": "ending-sentence-14",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: And I have [ … ] say!”",
+    "answer": "something to",
+    "context": "Being the accused counts for something."
+  },
+  {
+    "id": "ending-sentence-15",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: But on second thought, I [ … ] anything to say.",
+    "answer": "didn’t have",
+    "context": "And I have something to say!”"
+  },
+  {
+    "id": "ending-sentence-16",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Besides, I have to admit that whatever interest you can get [ … ] you doesn’t last very long.",
+    "answer": "people to take in",
+    "context": "But on second thought, I didn’t have anything to say."
+  },
+  {
+    "id": "ending-sentence-17",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: For example, I got bored very quickly with the [ … ]’s speech.",
+    "answer": "prosecutor",
+    "context": "Besides, I have to admit that whatever interest you can get people to take in you doesn’t last very long."
+  },
+  {
+    "id": "ending-sentence-18",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Only bits and pieces—a gesture or a long but [ … ] attention or aroused my interest.",
+    "answer": "isolated tirade— caught my",
+    "context": "For example, I got bored very quickly with the prosecutor’s speech."
+  },
+  {
+    "id": "ending-sentence-19",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: The gist of what he was saying, if I [ … ] that my crime was premeditated.",
+    "answer": "understood him correctly, was",
+    "context": "Only bits and pieces—a gesture or a long but isolated tirade— caught my attention or aroused my interest."
+  },
+  {
+    "id": "ending-sentence-20",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: At least that is [ … ] tried to show.",
+    "answer": "what he",
+    "context": "The gist of what he was saying, if I understood him correctly, was that my crime was premeditated."
+  },
+  {
+    "id": "ending-sentence-21",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: As he himself said, “I will prove it to you, gentlemen, and I will prove it in [ … ] ways.",
+    "answer": "two",
+    "context": "At least that is what he tried to show."
+  },
+  {
+    "id": "ending-sentence-22",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: First, in the blinding clarity of the facts, and second, in the [ … ] the mind of this criminal soul.”",
+    "answer": "dim light cast by",
+    "context": "As he himself said, “I will prove it to you, gentlemen, and I will prove it in two ways."
+  },
+  {
+    "id": "ending-sentence-23",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: He reminded the court of my insensitivity; of my ignorance when asked Maman’s age; of my swim the next day—with a woman; of the [ … ] movie; and finally of my taking Marie home with me.",
+    "answer": "Fernandel",
+    "context": "First, in the blinding clarity of the facts, and second, in the dim light cast by the mind of this criminal soul.”"
+  },
+  {
+    "id": "ending-sentence-24",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: It took me a few minutes to understand the last part because he kept saying “his mistress” and to me she was [ … ].",
+    "answer": "Marie",
+    "context": "He reminded the court of my insensitivity; of my ignorance when asked Maman’s age; of my swim the next day—with a woman; of the Fernandel movie; and finally of my taking Marie home with me."
+  },
+  {
+    "id": "ending-sentence-25",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: Then he came to the business with [ … ].",
+    "answer": "Raymond",
+    "context": "It took me a few minutes to understand the last part because he kept saying “his mistress” and to me she was Marie."
+  },
+  {
+    "id": "ending-sentence-26",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 67,
+    "prompt": "Complete the sentence: I thought his way of viewing [ … ] a certain consistency.",
+    "answer": "the events had",
+    "context": "Then he came to the business with Raymond."
+  },
+  {
+    "id": "ending-sentence-27",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: What he was [ … ] plausible.",
+    "answer": "saying was",
+    "context": "I thought his way of viewing the events had a certain consistency."
+  },
+  {
+    "id": "ending-sentence-28",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I had agreed with [ … ] to write the letter in order to lure his mistress and submit her to mistreatment by a man “of doubtful morality.”",
+    "answer": "Raymond",
+    "context": "What he was saying was plausible."
+  },
+  {
+    "id": "ending-sentence-29",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I had provoked [ … ]’s adversaries at the beach.",
+    "answer": "Raymond",
+    "context": "I had agreed with Raymond to write the letter in order to lure his mistress and submit her to mistreatment by a man “of doubtful morality.”"
+  },
+  {
+    "id": "ending-sentence-30",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: [ … ] had been wounded.",
+    "answer": "Raymond",
+    "context": "I had provoked Raymond’s adversaries at the beach."
+  },
+  {
+    "id": "ending-sentence-31",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I had asked him [ … ] me his gun.",
+    "answer": "to give",
+    "context": "Raymond had been wounded."
+  },
+  {
+    "id": "ending-sentence-32",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I had gone back [ … ] to use it.",
+    "answer": "alone intending",
+    "context": "I had asked him to give me his gun."
+  },
+  {
+    "id": "ending-sentence-33",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I had shot the [ … ] I planned.",
+    "answer": "Arab as",
+    "context": "I had gone back alone intending to use it."
+  },
+  {
+    "id": "ending-sentence-34",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "I had waited.",
+    "context": "I had shot the Arab as I planned."
+  },
+  {
+    "id": "ending-sentence-35",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: And to make sure I had done the job right, I fired [ … ] more shots, calmly, point-blank—thoughtfully, as it were.",
+    "answer": "four",
+    "context": "I had waited."
+  },
+  {
+    "id": "ending-sentence-36",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: “And there you have it, gentlemen,” said the [ … ].",
+    "answer": "prosecutor",
+    "context": "And to make sure I had done the job right, I fired four more shots, calmly, point-blank—thoughtfully, as it were."
+  },
+  {
+    "id": "ending-sentence-37",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: “I have retraced for you the course of events which led [ … ] with full knowledge of his actions.",
+    "answer": "this man to kill",
+    "context": "“And there you have it, gentlemen,” said the prosecutor."
+  },
+  {
+    "id": "ending-sentence-38",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I stress this point,” he said, “for this is no ordinary murder, [ … ] which you might find mitigating circumstances.",
+    "answer": "no thoughtless act for",
+    "context": "“I have retraced for you the course of events which led this man to kill with full knowledge of his actions."
+  },
+  {
+    "id": "ending-sentence-39",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: This man, gentlemen, [ … ] is intelligent.",
+    "answer": "this man",
+    "context": "I stress this point,” he said, “for this is no ordinary murder, no thoughtless act for which you might find mitigating circumstances."
+  },
+  {
+    "id": "ending-sentence-40",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: You heard [ … ], didn’t you?",
+    "answer": "him",
+    "context": "This man, gentlemen, this man is intelligent."
+  },
+  {
+    "id": "ending-sentence-41",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: He knows [ … ] to answer.",
+    "answer": "how",
+    "context": "You heard him, didn’t you?"
+  },
+  {
+    "id": "ending-sentence-42",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: He knows the [ … ] words.",
+    "answer": "value of",
+    "context": "He knows how to answer."
+  },
+  {
+    "id": "ending-sentence-43",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: And no [ … ] can say that he acted without realizing what he was doing.”",
+    "answer": "one",
+    "context": "He knows the value of words."
+  },
+  {
+    "id": "ending-sentence-44",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I was listening, and I could hear [ … ] being judged intelligent.",
+    "answer": "that I was",
+    "context": "And no one can say that he acted without realizing what he was doing.”"
+  },
+  {
+    "id": "ending-sentence-45",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: But I couldn’t quite understand how an ordinary man’s good [ … ] accusations against a guilty man.",
+    "answer": "qualities could become crushing",
+    "context": "I was listening, and I could hear that I was being judged intelligent."
+  },
+  {
+    "id": "ending-sentence-46",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: At least that was what struck me, and I stopped listening to the prosecutor until I heard him say, “Has he so much as expressed any [ … ]?",
+    "answer": "remorse",
+    "context": "But I couldn’t quite understand how an ordinary man’s good qualities could become crushing accusations against a guilty man."
+  },
+  {
+    "id": "ending-sentence-47",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "Never, gentlemen.",
+    "context": "At least that was what struck me, and I stopped listening to the prosecutor until I heard him say, “Has he so much as expressed any remorse?"
+  },
+  {
+    "id": "ending-sentence-48",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: Not once during the preliminary hearings did this [ … ] over his heinous offense.”",
+    "answer": "man show emotion",
+    "context": "Never, gentlemen."
+  },
+  {
+    "id": "ending-sentence-49",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: At that point, he turned in my direction, pointed his finger at me, [ … ] without my ever really understanding why.",
+    "answer": "and went on attacking me",
+    "context": "Not once during the preliminary hearings did this man show emotion over his heinous offense.”"
+  },
+  {
+    "id": "ending-sentence-50",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: Of course, I couldn’t help [ … ] he was right.",
+    "answer": "admitting that",
+    "context": "At that point, he turned in my direction, pointed his finger at me, and went on attacking me without my ever really understanding why."
+  },
+  {
+    "id": "ending-sentence-51",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I didn’t feel much [ … ] for what I’d done.",
+    "answer": "remorse",
+    "context": "Of course, I couldn’t help admitting that he was right."
+  },
+  {
+    "id": "ending-sentence-52",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: But I was surprised [ … ] relentless he was.",
+    "answer": "by how",
+    "context": "I didn’t feel much remorse for what I’d done."
+  },
+  {
+    "id": "ending-sentence-53",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I would have liked to have tried explaining to him cordially, almost affectionately, that I had never been able to truly feel [ … ] for anything.",
+    "answer": "remorse",
+    "context": "But I was surprised by how relentless he was."
+  },
+  {
+    "id": "ending-sentence-54",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: My mind was always on what [ … ], today or tomorrow.",
+    "answer": "was coming next",
+    "context": "I would have liked to have tried explaining to him cordially, almost affectionately, that I had never been able to truly feel remorse for anything."
+  },
+  {
+    "id": "ending-sentence-55",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: But naturally, given the position I’d been put in, [ … ] anyone in that way.",
+    "answer": "I couldn’t talk to",
+    "context": "My mind was always on what was coming next, today or tomorrow."
+  },
+  {
+    "id": "ending-sentence-56",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: I didn’t have the right to [ … ] feeling or goodwill.",
+    "answer": "show any",
+    "context": "But naturally, given the position I’d been put in, I couldn’t talk to anyone in that way."
+  },
+  {
+    "id": "ending-sentence-57",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: And I tried to listen again, because the [ … ] started talking about my soul.",
+    "answer": "prosecutor",
+    "context": "I didn’t have the right to show any feeling or goodwill."
+  },
+  {
+    "id": "ending-sentence-58",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: He said that he had peered into it and that he had found nothing, gentlemen of the [ … ].",
+    "answer": "jury",
+    "context": "And I tried to listen again, because the prosecutor started talking about my soul."
+  },
+  {
+    "id": "ending-sentence-59",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: He said the truth was that I didn’t have a soul and that nothing human, not [ … ] of the moral principles that govern men’s hearts, was within my reach.",
+    "answer": "one",
+    "context": "He said that he had peered into it and that he had found nothing, gentlemen of the jury."
+  },
+  {
+    "id": "ending-sentence-60",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: “Of course,” he added, “we [ … ] him for this.",
+    "answer": "cannot blame",
+    "context": "He said the truth was that I didn’t have a soul and that nothing human, not one of the moral principles that govern men’s hearts, was within my reach."
+  },
+  {
+    "id": "ending-sentence-61",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 68,
+    "prompt": "Complete the sentence: We cannot complain that he lacks what it [ … ] his power to acquire.",
+    "answer": "was not in",
+    "context": "“Of course,” he added, “we cannot blame him for this."
+  },
+  {
+    "id": "ending-sentence-62",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: But here in this court the wholly negative virtue of tolerance must [ … ] sterner but loftier virtue of justice.",
+    "answer": "give way to the",
+    "context": "We cannot complain that he lacks what it was not in his power to acquire."
+  },
+  {
+    "id": "ending-sentence-63",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: Especially when the emptiness of a man’s heart becomes, as we find it [ … ] abyss threatening to swallow up society.”",
+    "answer": "has in this man, an",
+    "context": "But here in this court the wholly negative virtue of tolerance must give way to the sterner but loftier virtue of justice."
+  },
+  {
+    "id": "ending-sentence-64",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: It was then that he talked about my attitude toward [ … ].",
+    "answer": "Maman",
+    "context": "Especially when the emptiness of a man’s heart becomes, as we find it has in this man, an abyss threatening to swallow up society.”"
+  },
+  {
+    "id": "ending-sentence-65",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: He repeated what he had [ … ] in the proceedings.",
+    "answer": "said earlier",
+    "context": "It was then that he talked about my attitude toward Maman."
+  },
+  {
+    "id": "ending-sentence-66",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: But it went on much longer than when he was talking about my crime—so long, in [ … ] aware of was how hot a morning it was.",
+    "answer": "fact, that finally all I was",
+    "context": "He repeated what he had said earlier in the proceedings."
+  },
+  {
+    "id": "ending-sentence-67",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: At least until the [ … ] stopped and after a short silence continued in a very low voice filled with conviction: “Tomorrow, gentlemen, this same court is to sit in judgment of the most monstrous of crimes: the murder of a father.”",
+    "answer": "prosecutor",
+    "context": "But it went on much longer than when he was talking about my crime—so long, in fact, that finally all I was aware of was how hot a morning it was."
+  },
+  {
+    "id": "ending-sentence-68",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: According to him, the imagination recoiled [ … ] an odious offense.",
+    "answer": "before such",
+    "context": "At least until the prosecutor stopped and after a short silence continued in a very low voice filled with conviction: “Tomorrow, gentlemen, this same court is to sit in judgment of the most monstrous of crimes: the murder of a father.”"
+  },
+  {
+    "id": "ending-sentence-69",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: He went so far as to hope that [ … ] mete out punishment unflinchingly.",
+    "answer": "human justice would",
+    "context": "According to him, the imagination recoiled before such an odious offense."
+  },
+  {
+    "id": "ending-sentence-70",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: But he wasn’t afraid to say it: my callousness inspired in him a horror [ … ] he felt at the crime of parricide.",
+    "answer": "nearly greater than that which",
+    "context": "He went so far as to hope that human justice would mete out punishment unflinchingly."
+  },
+  {
+    "id": "ending-sentence-71",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: And also according to him, a man who is morally guilty of killing his [ … ] severs himself from society in the same way as the man who raises a murderous hand against the father who begat him.",
+    "answer": "mother",
+    "context": "But he wasn’t afraid to say it: my callousness inspired in him a horror nearly greater than that which he felt at the crime of parricide."
+  },
+  {
+    "id": "ending-sentence-72",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: In any case, the [ … ] man paved the way for the deeds of the other, in a sense foreshadowed and even legitimized them.",
+    "answer": "one",
+    "context": "And also according to him, a man who is morally guilty of killing his mother severs himself from society in the same way as the man who raises a murderous hand against the father who begat him."
+  },
+  {
+    "id": "ending-sentence-73",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: “I am convinced, gentlemen,” he added, raising his voice, “that you will not think it too bold of me if I suggest to you that [ … ] also guilty of the murder to be tried in this court tomorrow.",
+    "answer": "the man who is seated in the dock is",
+    "context": "In any case, the one man paved the way for the deeds of the other, in a sense foreshadowed and even legitimized them."
+  },
+  {
+    "id": "ending-sentence-74",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: He must [ … ] punished accordingly.”",
+    "answer": "be",
+    "context": "“I am convinced, gentlemen,” he added, raising his voice, “that you will not think it too bold of me if I suggest to you that the man who is seated in the dock is also guilty of the murder to be tried in this court tomorrow."
+  },
+  {
+    "id": "ending-sentence-75",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: Here the [ … ] wiped his face, which was glistening with sweat.",
+    "answer": "prosecutor",
+    "context": "He must be punished accordingly.”"
+  },
+  {
+    "id": "ending-sentence-76",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: He concluded by saying that his duty was a painful [ … ] but that he would carry it out resolutely.",
+    "answer": "one",
+    "context": "Here the prosecutor wiped his face, which was glistening with sweat."
+  },
+  {
+    "id": "ending-sentence-77",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: He stated that I had no place in a society whose most fundamental rules I ignored and that I could not [ … ] to the same human heart whose elementary response I knew nothing of.",
+    "answer": "appeal",
+    "context": "He concluded by saying that his duty was a painful one but that he would carry it out resolutely."
+  },
+  {
+    "id": "ending-sentence-78",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: “I ask you for this man’s head,” he said, “[ … ] with a heart at ease.",
+    "answer": "and I do so",
+    "context": "He stated that I had no place in a society whose most fundamental rules I ignored and that I could not appeal to the same human heart whose elementary response I knew nothing of."
+  },
+  {
+    "id": "ending-sentence-79",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: For if in the course of what has been a long career I have had occasion to call for the death penalty, never as strongly as today have I felt this painful duty made easier, [ … ] the horror I feel when I look into a man’s face and all I see is a monster.”",
+    "answer": "lighter, clearer by the certain knowledge of a sacred imperative and by",
+    "context": "“I ask you for this man’s head,” he said, “and I do so with a heart at ease."
+  },
+  {
+    "id": "ending-sentence-80",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: When the [ … ] returned to his seat, there was a rather long silence.",
+    "answer": "prosecutor",
+    "context": "For if in the course of what has been a long career I have had occasion to call for the death penalty, never as strongly as today have I felt this painful duty made easier, lighter, clearer by the certain knowledge of a sacred imperative and by the horror I feel when I look into a man’s face and all I see is a monster.”"
+  },
+  {
+    "id": "ending-sentence-81",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: My head was spinning with [ … ] and astonishment.",
+    "answer": "heat",
+    "context": "When the prosecutor returned to his seat, there was a rather long silence."
+  },
+  {
+    "id": "ending-sentence-82",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: The presiding judge cleared his throat and in a very low [ … ] I had anything to add.",
+    "answer": "voice asked me if",
+    "context": "My head was spinning with heat and astonishment."
+  },
+  {
+    "id": "ending-sentence-83",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 69,
+    "prompt": "Complete the sentence: I stood up, and since I did wish to speak, I said, almost [ … ] I never intended to kill the Arab.",
+    "answer": "at random, in fact, that",
+    "context": "The presiding judge cleared his throat and in a very low voice asked me if I had anything to add."
+  },
+  {
+    "id": "ending-sentence-84",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: The judge replied by saying that at least that was an assertion, that until then he hadn’t quite grasped the nature of my defense, and that before hearing from my [ … ] he would be happy to have me state precisely the motives for my act.",
+    "answer": "lawyer",
+    "context": "I stood up, and since I did wish to speak, I said, almost at random, in fact, that I never intended to kill the Arab."
+  },
+  {
+    "id": "ending-sentence-85",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: Fumbling a little with my words and realizing how ridiculous I sounded, I blurted out that it was because of the [ … ].",
+    "answer": "sun",
+    "context": "The judge replied by saying that at least that was an assertion, that until then he hadn’t quite grasped the nature of my defense, and that before hearing from my lawyer he would be happy to have me state precisely the motives for my act."
+  },
+  {
+    "id": "ending-sentence-86",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "People laughed.",
+    "context": "Fumbling a little with my words and realizing how ridiculous I sounded, I blurted out that it was because of the sun."
+  },
+  {
+    "id": "ending-sentence-87",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: My [ … ] threw up his hands, and immediately after that he was given the floor.",
+    "answer": "lawyer",
+    "context": "People laughed."
+  },
+  {
+    "id": "ending-sentence-88",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: But he stated that it was late [ … ] would need several hours.",
+    "answer": "and that he",
+    "context": "My lawyer threw up his hands, and immediately after that he was given the floor."
+  },
+  {
+    "id": "ending-sentence-89",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: He requested that the trial [ … ] in the afternoon.",
+    "answer": "be reconvened",
+    "context": "But he stated that it was late and that he would need several hours."
+  },
+  {
+    "id": "ending-sentence-90",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: The court [ … ] his motion.",
+    "answer": "granted",
+    "context": "He requested that the trial be reconvened in the afternoon."
+  },
+  {
+    "id": "ending-sentence-91",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: That afternoon the big fans were still churning the thick air in the [ … ] colored fans were all moving in unison.",
+    "answer": "courtroom and the jurors’ brightly",
+    "context": "The court granted his motion."
+  },
+  {
+    "id": "ending-sentence-92",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: It seemed to me as if my [ … ]’s summation would never end.",
+    "answer": "lawyer",
+    "context": "That afternoon the big fans were still churning the thick air in the courtroom and the jurors’ brightly colored fans were all moving in unison."
+  },
+  {
+    "id": "ending-sentence-93",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: At [ … ] point, though, I listened, because he was saying, “It is true I killed a man.”",
+    "answer": "one",
+    "context": "It seemed to me as if my lawyer’s summation would never end."
+  },
+  {
+    "id": "ending-sentence-94",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: He went on like that, saying “I” [ … ] speaking about me.",
+    "answer": "whenever he was",
+    "context": "At one point, though, I listened, because he was saying, “It is true I killed a man.”"
+  },
+  {
+    "id": "ending-sentence-95",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: I was [ … ] taken aback.",
+    "answer": "completely",
+    "context": "He went on like that, saying “I” whenever he was speaking about me."
+  },
+  {
+    "id": "ending-sentence-96",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: I leaned over to [ … ] of the guards and asked him why he was doing that.",
+    "answer": "one",
+    "context": "I was completely taken aback."
+  },
+  {
+    "id": "ending-sentence-97",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: He told me to keep quiet, and a few [ … ], “All lawyers do it.”",
+    "answer": "seconds later he added",
+    "context": "I leaned over to one of the guards and asked him why he was doing that."
+  },
+  {
+    "id": "ending-sentence-98",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: I thought it was a way to exclude me even further from the case, [ … ], in a sense, substitute himself for me.",
+    "answer": "reduce me to nothing, and",
+    "context": "He told me to keep quiet, and a few seconds later he added, “All lawyers do it.”"
+  },
+  {
+    "id": "ending-sentence-99",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: But I think I was already [ … ] from that courtroom.",
+    "answer": "very far removed",
+    "context": "I thought it was a way to exclude me even further from the case, reduce me to nothing, and, in a sense, substitute himself for me."
+  },
+  {
+    "id": "ending-sentence-100",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: Besides, my [ … ] seemed ridiculous to me.",
+    "answer": "lawyer",
+    "context": "But I think I was already very far removed from that courtroom."
+  },
+  {
+    "id": "ending-sentence-101",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: He rushed through a plea of provocation, and [ … ] talked about my soul.",
+    "answer": "then he too",
+    "context": "Besides, my lawyer seemed ridiculous to me."
+  },
+  {
+    "id": "ending-sentence-102",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: But to me he seemed to be a lot less talented than the [ … ].",
+    "answer": "prosecutor",
+    "context": "He rushed through a plea of provocation, and then he too talked about my soul."
+  },
+  {
+    "id": "ending-sentence-103",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: “I, too,” he said, “have peered into this man’s soul, but unlike the esteemed representative of the government [ … ]’s office, I did see something there, and I can assure you that I read it like an open book.”",
+    "answer": "prosecutor",
+    "context": "But to me he seemed to be a lot less talented than the prosecutor."
+  },
+  {
+    "id": "ending-sentence-104",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: What he read was that I was an honest man, a steadily employed, tireless worker, loyal to the firm that employed him, [ … ] liked, and sympathetic to the misfortunes of others.",
+    "answer": "well",
+    "context": "“I, too,” he said, “have peered into this man’s soul, but unlike the esteemed representative of the government prosecutor’s office, I did see something there, and I can assure you that I read it like an open book.”"
+  },
+  {
+    "id": "ending-sentence-105",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: To him, I was a model son who had supported his [ … ] as long as he could.",
+    "answer": "mother",
+    "context": "What he read was that I was an honest man, a steadily employed, tireless worker, loyal to the firm that employed him, well liked, and sympathetic to the misfortunes of others."
+  },
+  {
+    "id": "ending-sentence-106",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: In the end I had hoped that a home for the aged would give the old [ … ] limited means I could not provide for her.",
+    "answer": "woman the comfort that with my",
+    "context": "To him, I was a model son who had supported his mother as long as he could."
+  },
+  {
+    "id": "ending-sentence-107",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: “Gentlemen,” he added, “I am amazed that so [ … ] made of this home.",
+    "answer": "much has been",
+    "context": "In the end I had hoped that a home for the aged would give the old woman the comfort that with my limited means I could not provide for her."
+  },
+  {
+    "id": "ending-sentence-108",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: For after all, if it were necessary to prove the usefulness and importance of such institutions, all [ … ] would have to say is that it is the state itself which subsidizes them.”",
+    "answer": "one",
+    "context": "“Gentlemen,” he added, “I am amazed that so much has been made of this home."
+  },
+  {
+    "id": "ending-sentence-109",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: The only thing is, he didn’t say anything about the funeral, and [ … ] a glaring omission in his summation.",
+    "answer": "I thought that that was",
+    "context": "For after all, if it were necessary to prove the usefulness and importance of such institutions, all one would have to say is that it is the state itself which subsidizes them.”"
+  },
+  {
+    "id": "ending-sentence-110",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 70,
+    "prompt": "Complete the sentence: But all the long speeches, all the interminable days and hours that people had spent talking about my soul, had left me with the impression of a colorless swirling [ … ] that was making me dizzy.",
+    "answer": "river",
+    "context": "The only thing is, he didn’t say anything about the funeral, and I thought that that was a glaring omission in his summation."
+  },
+  {
+    "id": "ending-sentence-111",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: In the end, all I remember is that while my [ … ] went on talking, I could hear through the expanse of chambers and courtrooms an ice cream vendor blowing his tin trumpet out in the street.",
+    "answer": "lawyer",
+    "context": "But all the long speeches, all the interminable days and hours that people had spent talking about my soul, had left me with the impression of a colorless swirling river that was making me dizzy."
+  },
+  {
+    "id": "ending-sentence-112",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I was assailed by memories of a life that wasn’t mine anymore, but one in which I’d found the simplest and most lasting joys: the smells of summer, the part of town I loved, a certain evening sky, [ … ]’s dresses and the way she laughed.",
+    "answer": "Marie",
+    "context": "In the end, all I remember is that while my lawyer went on talking, I could hear through the expanse of chambers and courtrooms an ice cream vendor blowing his tin trumpet out in the street."
+  },
+  {
+    "id": "ending-sentence-113",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: The utter pointlessness of whatever I was doing there seized me by the throat, and all I [ … ] with and get back to my cell and sleep.",
+    "answer": "wanted was to get it over",
+    "context": "I was assailed by memories of a life that wasn’t mine anymore, but one in which I’d found the simplest and most lasting joys: the smells of summer, the part of town I loved, a certain evening sky, Marie’s dresses and the way she laughed."
+  },
+  {
+    "id": "ending-sentence-114",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I barely even heard when my lawyer, wrapping up, exclaimed that the [ … ] surely would not send an honest, hardworking man to his death because he had lost control of himself for one moment, and then he asked them to find extenuating circumstances for a crime for which I was already suffering the most agonizing of punishments—eternal remorse.",
+    "answer": "jury",
+    "context": "The utter pointlessness of whatever I was doing there seized me by the throat, and all I wanted was to get it over with and get back to my cell and sleep."
+  },
+  {
+    "id": "ending-sentence-115",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: Court was adjourned and my [ … ] sat back down.",
+    "answer": "lawyer",
+    "context": "I barely even heard when my lawyer, wrapping up, exclaimed that the jury surely would not send an honest, hardworking man to his death because he had lost control of himself for one moment, and then he asked them to find extenuating circumstances for a crime for which I was already suffering the most agonizing of punishments—eternal remorse."
+  },
+  {
+    "id": "ending-sentence-116",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "He looked exhausted.",
+    "context": "Court was adjourned and my lawyer sat back down."
+  },
+  {
+    "id": "ending-sentence-117",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: But his colleagues came [ … ] shake his hand.",
+    "answer": "over to",
+    "context": "He looked exhausted."
+  },
+  {
+    "id": "ending-sentence-118",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I heard: “[ … ] was brilliant!”",
+    "answer": "That",
+    "context": "But his colleagues came over to shake his hand."
+  },
+  {
+    "id": "ending-sentence-119",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: [ … ] of them even appealed to me as a witness.",
+    "answer": "One",
+    "context": "I heard: “That was brilliant!”"
+  },
+  {
+    "id": "ending-sentence-120",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "“Wasn’t it?”",
+    "context": "One of them even appealed to me as a witness."
+  },
+  {
+    "id": "ending-sentence-121",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "he said.",
+    "context": "“Wasn’t it?”"
+  },
+  {
+    "id": "ending-sentence-122",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I agreed, but my congratulations weren’t [ … ] was too tired.",
+    "answer": "sincere, because I",
+    "context": "he said."
+  },
+  {
+    "id": "ending-sentence-123",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: Meanwhile, the [ … ] was getting low outside and it wasn’t as hot anymore.",
+    "answer": "sun",
+    "context": "I agreed, but my congratulations weren’t sincere, because I was too tired."
+  },
+  {
+    "id": "ending-sentence-124",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: From what street noises I could hear, I [ … ] of evening coming on.",
+    "answer": "sensed the sweetness",
+    "context": "Meanwhile, the sun was getting low outside and it wasn’t as hot anymore."
+  },
+  {
+    "id": "ending-sentence-125",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: There we [ … ] were, waiting.",
+    "answer": "all",
+    "context": "From what street noises I could hear, I sensed the sweetness of evening coming on."
+  },
+  {
+    "id": "ending-sentence-126",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: And what we were all waiting [ … ] concerned only me.",
+    "answer": "for really",
+    "context": "There we all were, waiting."
+  },
+  {
+    "id": "ending-sentence-127",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I looked around [ … ] again.",
+    "answer": "the room",
+    "context": "And what we were all waiting for really concerned only me."
+  },
+  {
+    "id": "ending-sentence-128",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: Everything was the same as it [ … ] the first day.",
+    "answer": "had been",
+    "context": "I looked around the room again."
+  },
+  {
+    "id": "ending-sentence-129",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: My [ … ] met those of the little robot woman and the reporter in the gray jacket.",
+    "answer": "eyes",
+    "context": "Everything was the same as it had been the first day."
+  },
+  {
+    "id": "ending-sentence-130",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: That reminded me that I hadn’t tried to catch [ … ]’s eye once during the whole trial.",
+    "answer": "Marie",
+    "context": "My eyes met those of the little robot woman and the reporter in the gray jacket."
+  },
+  {
+    "id": "ending-sentence-131",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I hadn’t forgotten about her; I’d [ … ] much to do.",
+    "answer": "just had too",
+    "context": "That reminded me that I hadn’t tried to catch Marie’s eye once during the whole trial."
+  },
+  {
+    "id": "ending-sentence-132",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I saw her sitting between Céleste and [ … ].",
+    "answer": "Raymond",
+    "context": "I hadn’t forgotten about her; I’d just had too much to do."
+  },
+  {
+    "id": "ending-sentence-133",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: She made a little gesture as [ … ] say “At last.”",
+    "answer": "if to",
+    "context": "I saw her sitting between Céleste and Raymond."
+  },
+  {
+    "id": "ending-sentence-134",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: There was a worried little [ … ] on her face.",
+    "answer": "smile",
+    "context": "She made a little gesture as if to say “At last.”"
+  },
+  {
+    "id": "ending-sentence-135",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: But my heart felt nothing, and I couldn’t even return her [ … ].",
+    "answer": "smile",
+    "context": "There was a worried little smile on her face."
+  },
+  {
+    "id": "ending-sentence-136",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: The judges [ … ] back in.",
+    "answer": "came",
+    "context": "But my heart felt nothing, and I couldn’t even return her smile."
+  },
+  {
+    "id": "ending-sentence-137",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: Very quickly a series of questions was read to the [ … ].",
+    "answer": "jury",
+    "context": "The judges came back in."
+  },
+  {
+    "id": "ending-sentence-138",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: I heard “guilty of [ … ]” … “extenuating circumstances.”",
+    "answer": "murder” … “premeditated",
+    "context": "Very quickly a series of questions was read to the jury."
+  },
+  {
+    "id": "ending-sentence-139",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: The jurors filed out, and I was taken to [ … ] I had waited before.",
+    "answer": "the little room where",
+    "context": "I heard “guilty of murder” … “premeditated” … “extenuating circumstances.”"
+  },
+  {
+    "id": "ending-sentence-140",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: My [ … ] joined me.",
+    "answer": "lawyer",
+    "context": "The jurors filed out, and I was taken to the little room where I had waited before."
+  },
+  {
+    "id": "ending-sentence-141",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: He was very talkative and spoke to me more [ … ] he ever had before.",
+    "answer": "confidently and cordially than",
+    "context": "My lawyer joined me."
+  },
+  {
+    "id": "ending-sentence-142",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 71,
+    "prompt": "Complete the sentence: He thought that everything would go well and that I would get off with a few years in [ … ] or at hard labor.",
+    "answer": "prison",
+    "context": "He was very talkative and spoke to me more confidently and cordially than he ever had before."
+  },
+  {
+    "id": "ending-sentence-143",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: I asked him whether he thought there was any chance of overturning the [ … ] if it was unfavorable.",
+    "answer": "verdict",
+    "context": "He thought that everything would go well and that I would get off with a few years in prison or at hard labor."
+  },
+  {
+    "id": "ending-sentence-144",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "He said no.",
+    "context": "I asked him whether he thought there was any chance of overturning the verdict if it was unfavorable."
+  },
+  {
+    "id": "ending-sentence-145",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: His tactic had been not to file any motions so as not to antagonize the [ … ].",
+    "answer": "jury",
+    "context": "He said no."
+  },
+  {
+    "id": "ending-sentence-146",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: He explained to me that verdicts weren’t [ … ] like that, for nothing.",
+    "answer": "set aside just",
+    "context": "His tactic had been not to file any motions so as not to antagonize the jury."
+  },
+  {
+    "id": "ending-sentence-147",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: That seemed obvious and [ … ] his logic.",
+    "answer": "I accepted",
+    "context": "He explained to me that verdicts weren’t set aside just like that, for nothing."
+  },
+  {
+    "id": "ending-sentence-148",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: Looking at it objectively, [ … ] perfect sense.",
+    "answer": "it made",
+    "context": "That seemed obvious and I accepted his logic."
+  },
+  {
+    "id": "ending-sentence-149",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: Otherwise there would be [ … ] pointless paperwork.",
+    "answer": "too much",
+    "context": "Looking at it objectively, it made perfect sense."
+  },
+  {
+    "id": "ending-sentence-150",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: “Anyway,” he said, “we can always [ … ].",
+    "answer": "appeal",
+    "context": "Otherwise there would be too much pointless paperwork."
+  },
+  {
+    "id": "ending-sentence-151",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: But I’m convinced that [ … ] will be favorable.”",
+    "answer": "the outcome",
+    "context": "“Anyway,” he said, “we can always appeal."
+  },
+  {
+    "id": "ending-sentence-152",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: We waited a long time—almost [ … ] of an hour, I think.",
+    "answer": "three-quarters",
+    "context": "But I’m convinced that the outcome will be favorable.”"
+  },
+  {
+    "id": "ending-sentence-153",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: Then a [ … ] rang.",
+    "answer": "bell",
+    "context": "We waited a long time—almost three-quarters of an hour, I think."
+  },
+  {
+    "id": "ending-sentence-154",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: My lawyer left me, saying, “The [ … ] of the jury is going to announce the verdict.",
+    "answer": "foreman",
+    "context": "Then a bell rang."
+  },
+  {
+    "id": "ending-sentence-155",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: You’ll only be brought in [ … ] passing of sentence.”",
+    "answer": "for the",
+    "context": "My lawyer left me, saying, “The foreman of the jury is going to announce the verdict."
+  },
+  {
+    "id": "ending-sentence-156",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "Doors slammed.",
+    "context": "You’ll only be brought in for the passing of sentence.”"
+  },
+  {
+    "id": "ending-sentence-157",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: People were running on stairs somewhere, but I couldn’t [ … ] nearby or far away.",
+    "answer": "tell if they were",
+    "context": "Doors slammed."
+  },
+  {
+    "id": "ending-sentence-158",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: Then I heard a muffled voice [ … ] in the courtroom.",
+    "answer": "reading something",
+    "context": "People were running on stairs somewhere, but I couldn’t tell if they were nearby or far away."
+  },
+  {
+    "id": "ending-sentence-159",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: When the bell rang again, when the door to the dock opened, what rose to meet me was the silence in the courtroom, silence and the strange feeling I had when I noticed that the young reporter had turned his [ … ] away.",
+    "answer": "eyes",
+    "context": "Then I heard a muffled voice reading something in the courtroom."
+  },
+  {
+    "id": "ending-sentence-160",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: I didn’t look in [ … ]’s direction.",
+    "answer": "Marie",
+    "context": "When the bell rang again, when the door to the dock opened, what rose to meet me was the silence in the courtroom, silence and the strange feeling I had when I noticed that the young reporter had turned his eyes away."
+  },
+  {
+    "id": "ending-sentence-161",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: I didn’t have time to, because the presiding judge told me in bizarre language that I was to have my head cut off in a public square in the name of the [ … ] people.",
+    "answer": "French",
+    "context": "I didn’t look in Marie’s direction."
+  },
+  {
+    "id": "ending-sentence-162",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: Then it seemed to me that I [ … ] was on everybody’s face.",
+    "answer": "suddenly knew what",
+    "context": "I didn’t have time to, because the presiding judge told me in bizarre language that I was to have my head cut off in a public square in the name of the French people."
+  },
+  {
+    "id": "ending-sentence-163",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: It was a look [ … ], I’m sure.",
+    "answer": "of consideration",
+    "context": "Then it seemed to me that I suddenly knew what was on everybody’s face."
+  },
+  {
+    "id": "ending-sentence-164",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: The policemen were [ … ] with me.",
+    "answer": "very gentle",
+    "context": "It was a look of consideration, I’m sure."
+  },
+  {
+    "id": "ending-sentence-165",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: The [ … ] put his hand on my wrist.",
+    "answer": "lawyer",
+    "context": "The policemen were very gentle with me."
+  },
+  {
+    "id": "ending-sentence-166",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: I wasn’t thinking [ … ] anymore.",
+    "answer": "about anything",
+    "context": "The lawyer put his hand on my wrist."
+  },
+  {
+    "id": "ending-sentence-167",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: But the presiding judge asked me [ … ] anything to say.",
+    "answer": "if I had",
+    "context": "I wasn’t thinking about anything anymore."
+  },
+  {
+    "id": "ending-sentence-168",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: I thought [ … ] it.",
+    "answer": "about",
+    "context": "But the presiding judge asked me if I had anything to say."
+  },
+  {
+    "id": "ending-sentence-169",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "I said, “No.”",
+    "context": "I thought about it."
+  },
+  {
+    "id": "ending-sentence-170",
+    "kind": "Sentence recall",
+    "chapter": 4,
+    "page": 72,
+    "prompt": "Complete the sentence: That’s when they [ … ] away.",
+    "answer": "took me",
+    "context": "I said, “No.”"
+  },
+  {
+    "id": "ending-sentence-171",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: For the third time I’ve refused to see the [ … ].",
+    "answer": "chaplain",
+    "context": "That’s when they took me away."
+  },
+  {
+    "id": "ending-sentence-172",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: I don’t have anything to say to him; I don’t feel like [ … ] him soon enough as it is.",
+    "answer": "talking, and I’ll be seeing",
+    "context": "For the third time I’ve refused to see the chaplain."
+  },
+  {
+    "id": "ending-sentence-173",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: All I care about right now is escaping the machinery of [ … ] any way out of the inevitable.",
+    "answer": "justice, seeing if there’s",
+    "context": "I don’t have anything to say to him; I don’t feel like talking, and I’ll be seeing him soon enough as it is."
+  },
+  {
+    "id": "ending-sentence-174",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: They’ve put me [ … ] different cell.",
+    "answer": "in a",
+    "context": "All I care about right now is escaping the machinery of justice, seeing if there’s any way out of the inevitable."
+  },
+  {
+    "id": "ending-sentence-175",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: From this [ … ], when I’m stretched out on my bunk, I see the sky and that’s all I see.",
+    "answer": "one",
+    "context": "They’ve put me in a different cell."
+  },
+  {
+    "id": "ending-sentence-176",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: I spend my days watching how the [ … ] turns day into night.",
+    "answer": "dwindling of color",
+    "context": "From this one, when I’m stretched out on my bunk, I see the sky and that’s all I see."
+  },
+  {
+    "id": "ending-sentence-177",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: Lying here, I put my hands [ … ] head and wait.",
+    "answer": "behind my",
+    "context": "I spend my days watching how the dwindling of color turns day into night."
+  },
+  {
+    "id": "ending-sentence-178",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: I can’t count the times I’ve wondered if there have ever been any instances of condemned men [ … ] the execution or breaking through the cordon of police.",
+    "answer": "escaping the relentless machinery, disappearing before",
+    "context": "Lying here, I put my hands behind my head and wait."
+  },
+  {
+    "id": "ending-sentence-179",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: Then I blame myself every time for not [ … ] attention to accounts of executions.",
+    "answer": "having paid enough",
+    "context": "I can’t count the times I’ve wondered if there have ever been any instances of condemned men escaping the relentless machinery, disappearing before the execution or breaking through the cordon of police."
+  },
+  {
+    "id": "ending-sentence-180",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: A man should always take [ … ] in those things.",
+    "answer": "an interest",
+    "context": "Then I blame myself every time for not having paid enough attention to accounts of executions."
+  },
+  {
+    "id": "ending-sentence-181",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: You never know [ … ] happen.",
+    "answer": "what might",
+    "context": "A man should always take an interest in those things."
+  },
+  {
+    "id": "ending-sentence-182",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: I’d read stories in [ … ] like everybody else.",
+    "answer": "the papers",
+    "context": "You never know what might happen."
+  },
+  {
+    "id": "ending-sentence-183",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: But there must have been books devoted to the subject [ … ] curious enough to look into.",
+    "answer": "that I’d never been",
+    "context": "I’d read stories in the papers like everybody else."
+  },
+  {
+    "id": "ending-sentence-184",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: Maybe I would have found some [ … ] escapes in them.",
+    "answer": "accounts of",
+    "context": "But there must have been books devoted to the subject that I’d never been curious enough to look into."
+  },
+  {
+    "id": "ending-sentence-185",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: I might have discovered that in at least [ … ] instance the wheel had stopped, that in spite of all the unrelenting calculation, chance and luck had, at least once, changed something.",
+    "answer": "one",
+    "context": "Maybe I would have found some accounts of escapes in them."
+  },
+  {
+    "id": "ending-sentence-186",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "Just once!",
+    "context": "I might have discovered that in at least one instance the wheel had stopped, that in spite of all the unrelenting calculation, chance and luck had, at least once, changed something."
+  },
+  {
+    "id": "ending-sentence-187",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: In a way, I think [ … ] have been enough.",
+    "answer": "that would",
+    "context": "Just once!"
+  },
+  {
+    "id": "ending-sentence-188",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: My heart would have [ … ] from there.",
+    "answer": "taken over",
+    "context": "In a way, I think that would have been enough."
+  },
+  {
+    "id": "ending-sentence-189",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: The papers were always talking about [ … ] owed to society.",
+    "answer": "the debt",
+    "context": "My heart would have taken over from there."
+  },
+  {
+    "id": "ending-sentence-190",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: According to them, it [ … ] be paid.",
+    "answer": "had to",
+    "context": "The papers were always talking about the debt owed to society."
+  },
+  {
+    "id": "ending-sentence-191",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: But that doesn’t [ … ] the imagination.",
+    "answer": "speak to",
+    "context": "According to them, it had to be paid."
+  },
+  {
+    "id": "ending-sentence-192",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: What really counted was the possibility of escape, a leap to freedom, out of the implacable ritual, [ … ] would give whatever chance for hope there was.",
+    "answer": "a wild run for it that",
+    "context": "But that doesn’t speak to the imagination."
+  },
+  {
+    "id": "ending-sentence-193",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: Of course, hope meant being cut down on some street corner, [ … ] mad, by a random bullet.",
+    "answer": "as you ran like",
+    "context": "What really counted was the possibility of escape, a leap to freedom, out of the implacable ritual, a wild run for it that would give whatever chance for hope there was."
+  },
+  {
+    "id": "ending-sentence-194",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: But when I really thought it through, nothing [ … ] allow me such a luxury.",
+    "answer": "was going to",
+    "context": "Of course, hope meant being cut down on some street corner, as you ran like mad, by a random bullet."
+  },
+  {
+    "id": "ending-sentence-195",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: Everything was against it; I would just [ … ] in the machinery again.",
+    "answer": "be caught up",
+    "context": "But when I really thought it through, nothing was going to allow me such a luxury."
+  },
+  {
+    "id": "ending-sentence-196",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: Despite my willingness to understand, I [ … ] such arrogant certainty.",
+    "answer": "just couldn’t accept",
+    "context": "Everything was against it; I would just be caught up in the machinery again."
+  },
+  {
+    "id": "ending-sentence-197",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 73,
+    "prompt": "Complete the sentence: Because, after all, there really was something ridiculously out of proportion between the [ … ] such certainty was based on and the imperturbable march of events from the moment the verdict was announced.",
+    "answer": "verdict",
+    "context": "Despite my willingness to understand, I just couldn’t accept such arrogant certainty."
+  },
+  {
+    "id": "ending-sentence-198",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: The fact that the sentence had been read at eight o’clock at night and not at [ … ] o’clock, the fact that it could have been an entirely different one, the fact that it had been decided by men who change their underwear, the fact that it had been handed down in the name of some vague notion called the French (or German, or Chinese) people—all of it seemed to detract from the seriousness of the decision.",
+    "answer": "five",
+    "context": "Because, after all, there really was something ridiculously out of proportion between the verdict such certainty was based on and the imperturbable march of events from the moment the verdict was announced."
+  },
+  {
+    "id": "ending-sentence-199",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: I was forced to admit, however, that from the moment it had been passed its consequences became as [ … ] against which I pressed the length of my body.",
+    "answer": "real and as serious as the wall",
+    "context": "The fact that the sentence had been read at eight o’clock at night and not at five o’clock, the fact that it could have been an entirely different one, the fact that it had been decided by men who change their underwear, the fact that it had been handed down in the name of some vague notion called the French (or German, or Chinese) people—all of it seemed to detract from the seriousness of the decision."
+  },
+  {
+    "id": "ending-sentence-200",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: At times like this I remembered a story Maman used to tell me about my [ … ].",
+    "answer": "father",
+    "context": "I was forced to admit, however, that from the moment it had been passed its consequences became as real and as serious as the wall against which I pressed the length of my body."
+  },
+  {
+    "id": "ending-sentence-201",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: I never [ … ] him.",
+    "answer": "knew",
+    "context": "At times like this I remembered a story Maman used to tell me about my father."
+  },
+  {
+    "id": "ending-sentence-202",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: Maybe the only thing I did know about the man was the story [ … ] would tell me back then: he’d gone to watch a murderer be executed.",
+    "answer": "Maman",
+    "context": "I never knew him."
+  },
+  {
+    "id": "ending-sentence-203",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: Just the thought of going had [ … ] to his stomach.",
+    "answer": "made him sick",
+    "context": "Maybe the only thing I did know about the man was the story Maman would tell me back then: he’d gone to watch a murderer be executed."
+  },
+  {
+    "id": "ending-sentence-204",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: But he went anyway, and when he came [ … ] half the morning throwing up.",
+    "answer": "back he spent",
+    "context": "Just the thought of going had made him sick to his stomach."
+  },
+  {
+    "id": "ending-sentence-205",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: I remember feeling a little disgusted [ … ] at the time.",
+    "answer": "by him",
+    "context": "But he went anyway, and when he came back he spent half the morning throwing up."
+  },
+  {
+    "id": "ending-sentence-206",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: But now I understood, [ … ] perfectly normal.",
+    "answer": "it was",
+    "context": "I remember feeling a little disgusted by him at the time."
+  },
+  {
+    "id": "ending-sentence-207",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: How had I not seen that there was nothing more important than an execution, and that when you come [ … ] only thing a man could truly be interested in?",
+    "answer": "right down to it, it was the",
+    "context": "But now I understood, it was perfectly normal."
+  },
+  {
+    "id": "ending-sentence-208",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: If I ever got out of this [ … ] I would go and watch every execution there was.",
+    "answer": "prison",
+    "context": "How had I not seen that there was nothing more important than an execution, and that when you come right down to it, it was the only thing a man could truly be interested in?"
+  },
+  {
+    "id": "ending-sentence-209",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: But I think it was a [ … ] consider the possibility.",
+    "answer": "mistake even to",
+    "context": "If I ever got out of this prison I would go and watch every execution there was."
+  },
+  {
+    "id": "ending-sentence-210",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: Because at the thought that [ … ] fine morning I would find myself a free man standing behind a cordon of police—on the outside, as it were—at the thought of being the spectator who comes to watch and then can go and throw up afterwards, a wave of poisoned joy rose in my throat.",
+    "answer": "one",
+    "context": "But I think it was a mistake even to consider the possibility."
+  },
+  {
+    "id": "ending-sentence-211",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: But I [ … ] being reasonable.",
+    "answer": "wasn’t",
+    "context": "Because at the thought that one fine morning I would find myself a free man standing behind a cordon of police—on the outside, as it were—at the thought of being the spectator who comes to watch and then can go and throw up afterwards, a wave of poisoned joy rose in my throat."
+  },
+  {
+    "id": "ending-sentence-212",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: It was a mistake to let myself get carried away by such imaginings, because the next minute I would get so cold that I would curl up into a ball under my blanket and my [ … ] would be chattering and I couldn’t make them stop.",
+    "answer": "teeth",
+    "context": "But I wasn’t being reasonable."
+  },
+  {
+    "id": "ending-sentence-213",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: But naturally, you [ … ] be reasonable.",
+    "answer": "can’t always",
+    "context": "It was a mistake to let myself get carried away by such imaginings, because the next minute I would get so cold that I would curl up into a ball under my blanket and my teeth would be chattering and I couldn’t make them stop."
+  },
+  {
+    "id": "ending-sentence-214",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: At other times, for instance, I [ … ] up new laws.",
+    "answer": "would make",
+    "context": "But naturally, you can’t always be reasonable."
+  },
+  {
+    "id": "ending-sentence-215",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: I would reform [ … ] code.",
+    "answer": "the penal",
+    "context": "At other times, for instance, I would make up new laws."
+  },
+  {
+    "id": "ending-sentence-216",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: I’d realized that the most important thing was [ … ] condemned man a chance.",
+    "answer": "to give the",
+    "context": "I would reform the penal code."
+  },
+  {
+    "id": "ending-sentence-217",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: Even [ … ] in a thousand was good enough to set things right.",
+    "answer": "one",
+    "context": "I’d realized that the most important thing was to give the condemned man a chance."
+  },
+  {
+    "id": "ending-sentence-218",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 74,
+    "prompt": "Complete the sentence: So it seemed to me that you could come up with a mixture of chemicals that if ingested by [ … ]: “patient”) would kill him nine times out of ten.",
+    "answer": "the patient (that’s the word I’d use",
+    "context": "Even one in a thousand was good enough to set things right."
+  },
+  {
+    "id": "ending-sentence-219",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: But he would know this—that would be the [ … ] condition.",
+    "answer": "one",
+    "context": "So it seemed to me that you could come up with a mixture of chemicals that if ingested by the patient (that’s the word I’d use: “patient”) would kill him nine times out of ten."
+  },
+  {
+    "id": "ending-sentence-220",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: For by giving it some hard thought, by considering the whole thing calmly, I could see that the trouble with the [ … ] was that you had no chance at all, absolutely none.",
+    "answer": "guillotine",
+    "context": "But he would know this—that would be the one condition."
+  },
+  {
+    "id": "ending-sentence-221",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: The fact was that it had been decided once [ … ] the patient was to die.",
+    "answer": "and for all that",
+    "context": "For by giving it some hard thought, by considering the whole thing calmly, I could see that the trouble with the guillotine was that you had no chance at all, absolutely none."
+  },
+  {
+    "id": "ending-sentence-222",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: It was an open-and-shut case, a fixed arrangement, a tacit agreement [ … ] question of going back on.",
+    "answer": "that there was no",
+    "context": "The fact was that it had been decided once and for all that the patient was to die."
+  },
+  {
+    "id": "ending-sentence-223",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: If by some extraordinary chance the blade [ … ] just start over.",
+    "answer": "failed, they would",
+    "context": "It was an open-and-shut case, a fixed arrangement, a tacit agreement that there was no question of going back on."
+  },
+  {
+    "id": "ending-sentence-224",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: So the thing that bothered me most was that the condemned man [ … ] machine would work the first time.",
+    "answer": "had to hope the",
+    "context": "If by some extraordinary chance the blade failed, they would just start over."
+  },
+  {
+    "id": "ending-sentence-225",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: And I [ … ] that’s wrong.",
+    "answer": "say",
+    "context": "So the thing that bothered me most was that the condemned man had to hope the machine would work the first time."
+  },
+  {
+    "id": "ending-sentence-226",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: And in a [ … ] was right.",
+    "answer": "way I",
+    "context": "And I say that’s wrong."
+  },
+  {
+    "id": "ending-sentence-227",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: But in another way I was forced to admit [ … ] whole secret of good organization.",
+    "answer": "that that was the",
+    "context": "And in a way I was right."
+  },
+  {
+    "id": "ending-sentence-228",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: In other words, the condemned man was [ … ] kind of moral collaboration.",
+    "answer": "forced into a",
+    "context": "But in another way I was forced to admit that that was the whole secret of good organization."
+  },
+  {
+    "id": "ending-sentence-229",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: It was in his interest that [ … ] without a hitch.",
+    "answer": "everything go off",
+    "context": "In other words, the condemned man was forced into a kind of moral collaboration."
+  },
+  {
+    "id": "ending-sentence-230",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I was also made to see that until that [ … ] ideas about these things.",
+    "answer": "moment I’d had mistaken",
+    "context": "It was in his interest that everything go off without a hitch."
+  },
+  {
+    "id": "ending-sentence-231",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: For a long time I believed—and I don’t know why—that to get to the [ … ] you had to climb stairs onto a scaffold.",
+    "answer": "guillotine",
+    "context": "I was also made to see that until that moment I’d had mistaken ideas about these things."
+  },
+  {
+    "id": "ending-sentence-232",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I think it was because of the [ … ] Revolution—I mean, because of everything I’d been taught or shown about it.",
+    "answer": "French",
+    "context": "For a long time I believed—and I don’t know why—that to get to the guillotine you had to climb stairs onto a scaffold."
+  },
+  {
+    "id": "ending-sentence-233",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: But [ … ] morning I remembered seeing a photograph that appeared in the papers at the time of a much-talked-about execution.",
+    "answer": "one",
+    "context": "I think it was because of the French Revolution—I mean, because of everything I’d been taught or shown about it."
+  },
+  {
+    "id": "ending-sentence-234",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: In reality, the machine was set up right [ … ], as simple as you please.",
+    "answer": "on the ground",
+    "context": "But one morning I remembered seeing a photograph that appeared in the papers at the time of a much-talked-about execution."
+  },
+  {
+    "id": "ending-sentence-235",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: It was much [ … ] I’d thought.",
+    "answer": "narrower than",
+    "context": "In reality, the machine was set up right on the ground, as simple as you please."
+  },
+  {
+    "id": "ending-sentence-236",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: It was funny I’d [ … ] that before.",
+    "answer": "never noticed",
+    "context": "It was much narrower than I’d thought."
+  },
+  {
+    "id": "ending-sentence-237",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I’d been struck by this picture because the [ … ] looked like such a precision instrument, perfect and gleaming.",
+    "answer": "guillotine",
+    "context": "It was funny I’d never noticed that before."
+  },
+  {
+    "id": "ending-sentence-238",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: You always get exaggerated notions of [ … ] know anything about.",
+    "answer": "things you don’t",
+    "context": "I’d been struck by this picture because the guillotine looked like such a precision instrument, perfect and gleaming."
+  },
+  {
+    "id": "ending-sentence-239",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I was made to see that contrary to what I thought, everything was very simple: the [ … ] is on the same level as the man approaching it.",
+    "answer": "guillotine",
+    "context": "You always get exaggerated notions of things you don’t know anything about."
+  },
+  {
+    "id": "ending-sentence-240",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: He walks up to it the way [ … ] to another person.",
+    "answer": "you walk up",
+    "context": "I was made to see that contrary to what I thought, everything was very simple: the guillotine is on the same level as the man approaching it."
+  },
+  {
+    "id": "ending-sentence-241",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: That bothered [ … ] too.",
+    "answer": "me",
+    "context": "He walks up to it the way you walk up to another person."
+  },
+  {
+    "id": "ending-sentence-242",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: Mounting the [ … ], going right up into the sky, was something the imagination could hold on to.",
+    "answer": "scaffold",
+    "context": "That bothered me too."
+  },
+  {
+    "id": "ending-sentence-243",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: Whereas, once again, the machine destroyed everything: you were killed [ … ] shame and with great precision.",
+    "answer": "discreetly, with a little",
+    "context": "Mounting the scaffold, going right up into the sky, was something the imagination could hold on to."
+  },
+  {
+    "id": "ending-sentence-244",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: There were two other things I was always thinking about: the dawn and my [ … ].",
+    "answer": "appeal",
+    "context": "Whereas, once again, the machine destroyed everything: you were killed discreetly, with a little shame and with great precision."
+  },
+  {
+    "id": "ending-sentence-245",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I would reason with myself, though, and [ … ] think about them anymore.",
+    "answer": "try not to",
+    "context": "There were two other things I was always thinking about: the dawn and my appeal."
+  },
+  {
+    "id": "ending-sentence-246",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I would stretch out, look at the sky, and [ … ] something interesting about it.",
+    "answer": "force myself to find",
+    "context": "I would reason with myself, though, and try not to think about them anymore."
+  },
+  {
+    "id": "ending-sentence-247",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: It would turn [ … ] was evening.",
+    "answer": "green: that",
+    "context": "I would stretch out, look at the sky, and force myself to find something interesting about it."
+  },
+  {
+    "id": "ending-sentence-248",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I would make another [ … ] divert my thoughts.",
+    "answer": "effort to",
+    "context": "It would turn green: that was evening."
+  },
+  {
+    "id": "ending-sentence-249",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 75,
+    "prompt": "Complete the sentence: I would listen [ … ] heartbeat.",
+    "answer": "to my",
+    "context": "I would make another effort to divert my thoughts."
+  },
+  {
+    "id": "ending-sentence-250",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: I couldn’t imagine that this sound which had been [ … ] long could ever stop.",
+    "answer": "with me for so",
+    "context": "I would listen to my heartbeat."
+  },
+  {
+    "id": "ending-sentence-251",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: I’ve never really had [ … ] an imagination.",
+    "answer": "much of",
+    "context": "I couldn’t imagine that this sound which had been with me for so long could ever stop."
+  },
+  {
+    "id": "ending-sentence-252",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: But still I would try to picture the exact moment when the beating [ … ] longer be going on inside my head.",
+    "answer": "of my heart would no",
+    "context": "I’ve never really had much of an imagination."
+  },
+  {
+    "id": "ending-sentence-253",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: But it [ … ] no use.",
+    "answer": "was",
+    "context": "But still I would try to picture the exact moment when the beating of my heart would no longer be going on inside my head."
+  },
+  {
+    "id": "ending-sentence-254",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: The dawn or my [ … ] would still be there.",
+    "answer": "appeal",
+    "context": "But it was no use."
+  },
+  {
+    "id": "ending-sentence-255",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: I would end up telling myself that the most [ … ] to hold myself back.",
+    "answer": "rational thing was not",
+    "context": "The dawn or my appeal would still be there."
+  },
+  {
+    "id": "ending-sentence-256",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: They always came at [ … ] knew that.",
+    "answer": "dawn, I",
+    "context": "I would end up telling myself that the most rational thing was not to hold myself back."
+  },
+  {
+    "id": "ending-sentence-257",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: And so I spent my [ … ] for that dawn.",
+    "answer": "nights waiting",
+    "context": "They always came at dawn, I knew that."
+  },
+  {
+    "id": "ending-sentence-258",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: I’ve never [ … ] being surprised.",
+    "answer": "liked",
+    "context": "And so I spent my nights waiting for that dawn."
+  },
+  {
+    "id": "ending-sentence-259",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: If something is going to happen to [ … ] to be there.",
+    "answer": "me, I want",
+    "context": "I’ve never liked being surprised."
+  },
+  {
+    "id": "ending-sentence-260",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: That’s why I ended up sleeping only a little bit during the day and then, all night [ … ] light to show on the pane of sky.",
+    "answer": "long, waited patiently for the first",
+    "context": "If something is going to happen to me, I want to be there."
+  },
+  {
+    "id": "ending-sentence-261",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: The hardest time was that uncertain hour when [ … ] usually set to work.",
+    "answer": "I knew they",
+    "context": "That’s why I ended up sleeping only a little bit during the day and then, all night long, waited patiently for the first light to show on the pane of sky."
+  },
+  {
+    "id": "ending-sentence-262",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: After midnight, I [ … ] and watch.",
+    "answer": "would wait",
+    "context": "The hardest time was that uncertain hour when I knew they usually set to work."
+  },
+  {
+    "id": "ending-sentence-263",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: My ears had never heard so many [ … ] up such small sounds.",
+    "answer": "noises or picked",
+    "context": "After midnight, I would wait and watch."
+  },
+  {
+    "id": "ending-sentence-264",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: [ … ] thing I can say, though, is that in a certain way I was lucky that whole time, since I never heard footsteps.",
+    "answer": "One",
+    "context": "My ears had never heard so many noises or picked up such small sounds."
+  },
+  {
+    "id": "ending-sentence-265",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: [ … ] used to say that you can always find something to be happy about.",
+    "answer": "Maman",
+    "context": "One thing I can say, though, is that in a certain way I was lucky that whole time, since I never heard footsteps."
+  },
+  {
+    "id": "ending-sentence-266",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: In my prison, when the sky turned [ … ] and a new day slipped into my cell, I found out that she was right.",
+    "answer": "red",
+    "context": "Maman used to say that you can always find something to be happy about."
+  },
+  {
+    "id": "ending-sentence-267",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: Because I might just as easily have heard [ … ] heart could have burst.",
+    "answer": "footsteps and my",
+    "context": "In my prison, when the sky turned red and a new day slipped into my cell, I found out that she was right."
+  },
+  {
+    "id": "ending-sentence-268",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: Even though I would rush to the door at the slightest shuffle, even though, with my ear pressed to the wood, I would wait frantically until I heard the sound of my own breathing, terrified to find it so hoarse, like a dog’s panting, my heart would not burst after all, and I would have gained another [ … ] hours.",
+    "answer": "twenty-four",
+    "context": "Because I might just as easily have heard footsteps and my heart could have burst."
+  },
+  {
+    "id": "ending-sentence-269",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: All day long there was the thought of my [ … ].",
+    "answer": "appeal",
+    "context": "Even though I would rush to the door at the slightest shuffle, even though, with my ear pressed to the wood, I would wait frantically until I heard the sound of my own breathing, terrified to find it so hoarse, like a dog’s panting, my heart would not burst after all, and I would have gained another twenty-four hours."
+  },
+  {
+    "id": "ending-sentence-270",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: I think I got everything out [ … ] that I could.",
+    "answer": "of it",
+    "context": "All day long there was the thought of my appeal."
+  },
+  {
+    "id": "ending-sentence-271",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: I would assess my holdings and get [ … ] on my thoughts.",
+    "answer": "the maximum return",
+    "context": "I think I got everything out of it that I could."
+  },
+  {
+    "id": "ending-sentence-272",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: I would always begin by assuming the worst: my [ … ] was denied.",
+    "answer": "appeal",
+    "context": "I would assess my holdings and get the maximum return on my thoughts."
+  },
+  {
+    "id": "ending-sentence-273",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: “[ … ], so I’m going to die.”",
+    "answer": "Well",
+    "context": "I would always begin by assuming the worst: my appeal was denied."
+  },
+  {
+    "id": "ending-sentence-274",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: Sooner than other [ … ], obviously.",
+    "answer": "people will",
+    "context": "“Well, so I’m going to die.”"
+  },
+  {
+    "id": "ending-sentence-275",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: But everybody knows [ … ] worth living.",
+    "answer": "life isn’t",
+    "context": "Sooner than other people will, obviously."
+  },
+  {
+    "id": "ending-sentence-276",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: Deep down I knew perfectly [ … ] that it doesn’t much matter whether you die at thirty or at seventy, since in either case other men and women will naturally go on living—and for thousands of years.",
+    "answer": "well",
+    "context": "But everybody knows life isn’t worth living."
+  },
+  {
+    "id": "ending-sentence-277",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: In fact, nothing [ … ] clearer.",
+    "answer": "could be",
+    "context": "Deep down I knew perfectly well that it doesn’t much matter whether you die at thirty or at seventy, since in either case other men and women will naturally go on living—and for thousands of years."
+  },
+  {
+    "id": "ending-sentence-278",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: Whether it was now or twenty years from now, I would still be the [ … ] dying.",
+    "answer": "one",
+    "context": "In fact, nothing could be clearer."
+  },
+  {
+    "id": "ending-sentence-279",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: At that point, what would disturb my train of thought was the terrifying leap I would feel my [ … ] having twenty more years of life ahead of me.",
+    "answer": "heart take at the idea of",
+    "context": "Whether it was now or twenty years from now, I would still be the one dying."
+  },
+  {
+    "id": "ending-sentence-280",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 76,
+    "prompt": "Complete the sentence: But I simply had to stifle it by imagining what I’d be thinking in [ … ] all come down to the same thing anyway.",
+    "answer": "twenty years when it would",
+    "context": "At that point, what would disturb my train of thought was the terrifying leap I would feel my heart take at the idea of having twenty more years of life ahead of me."
+  },
+  {
+    "id": "ending-sentence-281",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: Since we’re all going to die, it’s [ … ] and how don’t matter.",
+    "answer": "obvious that when",
+    "context": "But I simply had to stifle it by imagining what I’d be thinking in twenty years when it would all come down to the same thing anyway."
+  },
+  {
+    "id": "ending-sentence-282",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: Therefore (and the difficult thing was not to lose sight of all the reasoning that went into this “therefore”), I had to accept the rejection of my [ … ].",
+    "answer": "appeal",
+    "context": "Since we’re all going to die, it’s obvious that when and how don’t matter."
+  },
+  {
+    "id": "ending-sentence-283",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: Then and only then would I have the right, so to speak—would I give myself permission, as it were—to consider the alternative hypothesis: I was [ … ].",
+    "answer": "pardoned",
+    "context": "Therefore (and the difficult thing was not to lose sight of all the reasoning that went into this “therefore”), I had to accept the rejection of my appeal."
+  },
+  {
+    "id": "ending-sentence-284",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: The trouble was that I would somehow have to cool the hot blood that would suddenly surge through my body and sting my [ … ] with a delirious joy.",
+    "answer": "eyes",
+    "context": "Then and only then would I have the right, so to speak—would I give myself permission, as it were—to consider the alternative hypothesis: I was pardoned."
+  },
+  {
+    "id": "ending-sentence-285",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: It would take all my strength to [ … ], to be rational.",
+    "answer": "quiet my heart",
+    "context": "The trouble was that I would somehow have to cool the hot blood that would suddenly surge through my body and sting my eyes with a delirious joy."
+  },
+  {
+    "id": "ending-sentence-286",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: In order to make my resignation to the first hypothesis more plausible, I had to be level-headed about this one as [ … ].",
+    "answer": "well",
+    "context": "It would take all my strength to quiet my heart, to be rational."
+  },
+  {
+    "id": "ending-sentence-287",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: If I succeeded, I [ … ] hour of calm.",
+    "answer": "gained an",
+    "context": "In order to make my resignation to the first hypothesis more plausible, I had to be level-headed about this one as well."
+  },
+  {
+    "id": "ending-sentence-288",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: That was [ … ] anyway.",
+    "answer": "something",
+    "context": "If I succeeded, I gained an hour of calm."
+  },
+  {
+    "id": "ending-sentence-289",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: It was at [ … ] such moment that I once again refused to see the chaplain.",
+    "answer": "one",
+    "context": "That was something anyway."
+  },
+  {
+    "id": "ending-sentence-290",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: I was lying down, and I could tell from the golden [ … ] that evening was coming on.",
+    "answer": "glow in the sky",
+    "context": "It was at one such moment that I once again refused to see the chaplain."
+  },
+  {
+    "id": "ending-sentence-291",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: I had just denied my [ … ] and I could feel the steady pulse of my blood circulating inside me.",
+    "answer": "appeal",
+    "context": "I was lying down, and I could tell from the golden glow in the sky that evening was coming on."
+  },
+  {
+    "id": "ending-sentence-292",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: I didn’t need to see the [ … ].",
+    "answer": "chaplain",
+    "context": "I had just denied my appeal and I could feel the steady pulse of my blood circulating inside me."
+  },
+  {
+    "id": "ending-sentence-293",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: For the first time in a long time I thought about [ … ].",
+    "answer": "Marie",
+    "context": "I didn’t need to see the chaplain."
+  },
+  {
+    "id": "ending-sentence-294",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: The days had been [ … ] she’d stopped writing.",
+    "answer": "long since",
+    "context": "For the first time in a long time I thought about Marie."
+  },
+  {
+    "id": "ending-sentence-295",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: That evening I thought about it and told myself that maybe she [ … ] the girlfriend of a condemned man.",
+    "answer": "had gotten tired of being",
+    "context": "The days had been long since she’d stopped writing."
+  },
+  {
+    "id": "ending-sentence-296",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: It also occurred to me that [ … ] sick, or dead.",
+    "answer": "maybe she was",
+    "context": "That evening I thought about it and told myself that maybe she had gotten tired of being the girlfriend of a condemned man."
+  },
+  {
+    "id": "ending-sentence-297",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "These things happen.",
+    "context": "It also occurred to me that maybe she was sick, or dead."
+  },
+  {
+    "id": "ending-sentence-298",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: How was I to know, since apart from our [ … ] bodies, now separated, there wasn’t anything to keep us together or even to remind us of each other?",
+    "answer": "two",
+    "context": "These things happen."
+  },
+  {
+    "id": "ending-sentence-299",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: Anyway, after that, remembering [ … ] meant nothing to me.",
+    "answer": "Marie",
+    "context": "How was I to know, since apart from our two bodies, now separated, there wasn’t anything to keep us together or even to remind us of each other?"
+  },
+  {
+    "id": "ending-sentence-300",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: I wasn’t interested [ … ] dead.",
+    "answer": "in her",
+    "context": "Anyway, after that, remembering Marie meant nothing to me."
+  },
+  {
+    "id": "ending-sentence-301",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: That seemed perfectly normal to me, since I understood very [ … ] that people would forget me when I was dead.",
+    "answer": "well",
+    "context": "I wasn’t interested in her dead."
+  },
+  {
+    "id": "ending-sentence-302",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: They wouldn’t have anything [ … ] do with me.",
+    "answer": "more to",
+    "context": "That seemed perfectly normal to me, since I understood very well that people would forget me when I was dead."
+  },
+  {
+    "id": "ending-sentence-303",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: I wasn’t even able to tell myself that [ … ] to think those things.",
+    "answer": "it was hard",
+    "context": "They wouldn’t have anything more to do with me."
+  },
+  {
+    "id": "ending-sentence-304",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: It was at that exact moment that the [ … ] came in.",
+    "answer": "chaplain",
+    "context": "I wasn’t even able to tell myself that it was hard to think those things."
+  },
+  {
+    "id": "ending-sentence-305",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: When I saw him I felt [ … ] go through me.",
+    "answer": "a little shudder",
+    "context": "It was at that exact moment that the chaplain came in."
+  },
+  {
+    "id": "ending-sentence-306",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: He noticed it and told [ … ] to be afraid.",
+    "answer": "me not",
+    "context": "When I saw him I felt a little shudder go through me."
+  },
+  {
+    "id": "ending-sentence-307",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: I told him that [ … ] his usual time.",
+    "answer": "it wasn’t",
+    "context": "He noticed it and told me not to be afraid."
+  },
+  {
+    "id": "ending-sentence-308",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: He replied that it was just a friendly visit and had nothing to do with my [ … ], which he knew nothing about.",
+    "answer": "appeal",
+    "context": "I told him that it wasn’t his usual time."
+  },
+  {
+    "id": "ending-sentence-309",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: He sat down on my bunk and [ … ] sit next to him.",
+    "answer": "invited me to",
+    "context": "He replied that it was just a friendly visit and had nothing to do with my appeal, which he knew nothing about."
+  },
+  {
+    "id": "ending-sentence-310",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "I refused.",
+    "context": "He sat down on my bunk and invited me to sit next to him."
+  },
+  {
+    "id": "ending-sentence-311",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: All the same, there was [ … ] gentle about him.",
+    "answer": "something very",
+    "context": "I refused."
+  },
+  {
+    "id": "ending-sentence-312",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: He sat there for a few seconds, leaning forward, with [ … ] knees, looking at his hands.",
+    "answer": "his elbows on his",
+    "context": "All the same, there was something very gentle about him."
+  },
+  {
+    "id": "ending-sentence-313",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: They were slender and sinewy and they reminded me of [ … ] nimble animals.",
+    "answer": "two",
+    "context": "He sat there for a few seconds, leaning forward, with his elbows on his knees, looking at his hands."
+  },
+  {
+    "id": "ending-sentence-314",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 77,
+    "prompt": "Complete the sentence: He slowly rubbed [ … ] against the other.",
+    "answer": "one",
+    "context": "They were slender and sinewy and they reminded me of two nimble animals."
+  },
+  {
+    "id": "ending-sentence-315",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: Then he sat there, leaning forward like that, for so long that [ … ] seemed to forget he was there.",
+    "answer": "for an instant I",
+    "context": "He slowly rubbed one against the other."
+  },
+  {
+    "id": "ending-sentence-316",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: But suddenly he raised his head [ … ] straight at me.",
+    "answer": "and looked",
+    "context": "Then he sat there, leaning forward like that, for so long that for an instant I seemed to forget he was there."
+  },
+  {
+    "id": "ending-sentence-317",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: “Why have you [ … ] see me?”",
+    "answer": "refused to",
+    "context": "But suddenly he raised his head and looked straight at me."
+  },
+  {
+    "id": "ending-sentence-318",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "he asked.",
+    "context": "“Why have you refused to see me?”"
+  },
+  {
+    "id": "ending-sentence-319",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I said that I didn’t believe in [ … ].",
+    "answer": "God",
+    "context": "he asked."
+  },
+  {
+    "id": "ending-sentence-320",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: He wanted to know if I was sure and I said that I [ … ] ask myself that question: it seemed unimportant.",
+    "answer": "didn’t see any reason to",
+    "context": "I said that I didn’t believe in God."
+  },
+  {
+    "id": "ending-sentence-321",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: He then leaned back against the [ … ] on his thighs.",
+    "answer": "wall, hands flat",
+    "context": "He wanted to know if I was sure and I said that I didn’t see any reason to ask myself that question: it seemed unimportant."
+  },
+  {
+    "id": "ending-sentence-322",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: Almost as if it wasn’t me he was talking to, he remarked [ … ] sure when in fact we’re not.",
+    "answer": "that sometimes we think we’re",
+    "context": "He then leaned back against the wall, hands flat on his thighs."
+  },
+  {
+    "id": "ending-sentence-323",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I didn’t [ … ] anything.",
+    "answer": "say",
+    "context": "Almost as if it wasn’t me he was talking to, he remarked that sometimes we think we’re sure when in fact we’re not."
+  },
+  {
+    "id": "ending-sentence-324",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: He looked at me and [ … ] do you think?”",
+    "answer": "asked, “What",
+    "context": "I didn’t say anything."
+  },
+  {
+    "id": "ending-sentence-325",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I said [ … ] was possible.",
+    "answer": "it",
+    "context": "He looked at me and asked, “What do you think?”"
+  },
+  {
+    "id": "ending-sentence-326",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: In any case, I may not have been sure about what really [ … ] was absolutely sure about what didn’t.",
+    "answer": "did interest me, but I",
+    "context": "I said it was possible."
+  },
+  {
+    "id": "ending-sentence-327",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: And it just so happened that what [ … ] about didn’t interest me.",
+    "answer": "he was talking",
+    "context": "In any case, I may not have been sure about what really did interest me, but I was absolutely sure about what didn’t."
+  },
+  {
+    "id": "ending-sentence-328",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: He looked away and without moving asked me if [ … ] way out of extreme despair.",
+    "answer": "I wasn’t talking that",
+    "context": "And it just so happened that what he was talking about didn’t interest me."
+  },
+  {
+    "id": "ending-sentence-329",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I explained to him [ … ] wasn’t desperate.",
+    "answer": "that I",
+    "context": "He looked away and without moving asked me if I wasn’t talking that way out of extreme despair."
+  },
+  {
+    "id": "ending-sentence-330",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I was just afraid, [ … ] only natural.",
+    "answer": "which was",
+    "context": "I explained to him that I wasn’t desperate."
+  },
+  {
+    "id": "ending-sentence-331",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: “Then [ … ] can help you,” he said.",
+    "answer": "God",
+    "context": "I was just afraid, which was only natural."
+  },
+  {
+    "id": "ending-sentence-332",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: “Every man I have known in [ … ] turned to Him.”",
+    "answer": "your position has",
+    "context": "“Then God can help you,” he said."
+  },
+  {
+    "id": "ending-sentence-333",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I acknowledged that [ … ] their right.",
+    "answer": "that was",
+    "context": "“Every man I have known in your position has turned to Him.”"
+  },
+  {
+    "id": "ending-sentence-334",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: It also meant that they must [ … ] time for it.",
+    "answer": "have had the",
+    "context": "I acknowledged that that was their right."
+  },
+  {
+    "id": "ending-sentence-335",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: As for me, I didn’t want anybody’s help, and I just didn’t [ … ] myself in what didn’t interest me.",
+    "answer": "have the time to interest",
+    "context": "It also meant that they must have had the time for it."
+  },
+  {
+    "id": "ending-sentence-336",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: At that point he threw up his hands in annoyance but then sat forward and smoothed out the folds of his [ … ].",
+    "answer": "cassock",
+    "context": "As for me, I didn’t want anybody’s help, and I just didn’t have the time to interest myself in what didn’t interest me."
+  },
+  {
+    "id": "ending-sentence-337",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: When he had finished he started in [ … ] as “my friend.”",
+    "answer": "again, addressing me",
+    "context": "At that point he threw up his hands in annoyance but then sat forward and smoothed out the folds of his cassock."
+  },
+  {
+    "id": "ending-sentence-338",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: If he was talking to me this way, it wasn’t because I was condemned [ … ] saw it, we were all condemned to die.",
+    "answer": "to die; the way he",
+    "context": "When he had finished he started in again, addressing me as “my friend.”"
+  },
+  {
+    "id": "ending-sentence-339",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: But I interrupted him by saying that it wasn’t the same [ … ], it wouldn’t be a consolation anyway.",
+    "answer": "thing and that besides",
+    "context": "If he was talking to me this way, it wasn’t because I was condemned to die; the way he saw it, we were all condemned to die."
+  },
+  {
+    "id": "ending-sentence-340",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "“Certainly,” he agreed.",
+    "context": "But I interrupted him by saying that it wasn’t the same thing and that besides, it wouldn’t be a consolation anyway."
+  },
+  {
+    "id": "ending-sentence-341",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: “But if you don’t die today, you’ll [ … ] the next day.",
+    "answer": "die tomorrow, or",
+    "context": "“Certainly,” he agreed."
+  },
+  {
+    "id": "ending-sentence-342",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: And then the [ … ] will arise.",
+    "answer": "same question",
+    "context": "“But if you don’t die today, you’ll die tomorrow, or the next day."
+  },
+  {
+    "id": "ending-sentence-343",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: How will you [ … ] terrifying ordeal?”",
+    "answer": "face that",
+    "context": "And then the same question will arise."
+  },
+  {
+    "id": "ending-sentence-344",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I said I would face it exactly [ … ] facing it now.",
+    "answer": "as I was",
+    "context": "How will you face that terrifying ordeal?”"
+  },
+  {
+    "id": "ending-sentence-345",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: At that he stood up and [ … ] in the eye.",
+    "answer": "looked me straight",
+    "context": "I said I would face it exactly as I was facing it now."
+  },
+  {
+    "id": "ending-sentence-346",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: It was a game I knew [ … ].",
+    "answer": "well",
+    "context": "At that he stood up and looked me straight in the eye."
+  },
+  {
+    "id": "ending-sentence-347",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I played it a lot with [ … ] and Céleste and usually they were the ones who looked away.",
+    "answer": "Emmanuel",
+    "context": "It was a game I knew well."
+  },
+  {
+    "id": "ending-sentence-348",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: The chaplain knew the game [ … ] too, I could tell right away: his gaze never faltered.",
+    "answer": "well",
+    "context": "I played it a lot with Emmanuel and Céleste and usually they were the ones who looked away."
+  },
+  {
+    "id": "ending-sentence-349",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: And his voice didn’t falter, either, when he [ … ] no hope at all?",
+    "answer": "said, “Have you",
+    "context": "The chaplain knew the game well too, I could tell right away: his gaze never faltered."
+  },
+  {
+    "id": "ending-sentence-350",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: And do you really live with the thought that [ … ] die, and nothing remains?”",
+    "answer": "when you die, you",
+    "context": "And his voice didn’t falter, either, when he said, “Have you no hope at all?"
+  },
+  {
+    "id": "ending-sentence-351",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "“Yes,” I said.",
+    "context": "And do you really live with the thought that when you die, you die, and nothing remains?”"
+  },
+  {
+    "id": "ending-sentence-352",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: Then he lowered his [ … ] sat back down.",
+    "answer": "head and",
+    "context": "“Yes,” I said."
+  },
+  {
+    "id": "ending-sentence-353",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: He told me [ … ] pitied me.",
+    "answer": "that he",
+    "context": "Then he lowered his head and sat back down."
+  },
+  {
+    "id": "ending-sentence-354",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: He thought it was more [ … ] man could bear.",
+    "answer": "than a",
+    "context": "He told me that he pitied me."
+  },
+  {
+    "id": "ending-sentence-355",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 78,
+    "prompt": "Complete the sentence: I didn’t feel anything except that [ … ] to annoy me.",
+    "answer": "he was beginning",
+    "context": "He thought it was more than a man could bear."
+  },
+  {
+    "id": "ending-sentence-356",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: Then I turned away and went [ … ] under the skylight.",
+    "answer": "and stood",
+    "context": "I didn’t feel anything except that he was beginning to annoy me."
+  },
+  {
+    "id": "ending-sentence-357",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I leaned my [ … ] the wall.",
+    "answer": "shoulder against",
+    "context": "Then I turned away and went and stood under the skylight."
+  },
+  {
+    "id": "ending-sentence-358",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: Without really following what he was saying, I [ … ] asking me questions again.",
+    "answer": "heard him start",
+    "context": "I leaned my shoulder against the wall."
+  },
+  {
+    "id": "ending-sentence-359",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: He was talking in [ … ], urgent voice.",
+    "answer": "an agitated",
+    "context": "Without really following what he was saying, I heard him start asking me questions again."
+  },
+  {
+    "id": "ending-sentence-360",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I could see that he was genuinely [ … ] listened more closely.",
+    "answer": "upset, so I",
+    "context": "He was talking in an agitated, urgent voice."
+  },
+  {
+    "id": "ending-sentence-361",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: He was expressing his certainty that my [ … ] would be granted, but I was carrying the burden of a sin from which I had to free myself.",
+    "answer": "appeal",
+    "context": "I could see that he was genuinely upset, so I listened more closely."
+  },
+  {
+    "id": "ending-sentence-362",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: According to him, human justice was [ … ] justice was everything.",
+    "answer": "nothing and divine",
+    "context": "He was expressing his certainty that my appeal would be granted, but I was carrying the burden of a sin from which I had to free myself."
+  },
+  {
+    "id": "ending-sentence-363",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I pointed out that it was [ … ] had condemned me.",
+    "answer": "the former that",
+    "context": "According to him, human justice was nothing and divine justice was everything."
+  },
+  {
+    "id": "ending-sentence-364",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: His response was that it hadn’t washed [ … ] for all that.",
+    "answer": "away my sin",
+    "context": "I pointed out that it was the former that had condemned me."
+  },
+  {
+    "id": "ending-sentence-365",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I told him I didn’t [ … ] a sin was.",
+    "answer": "know what",
+    "context": "His response was that it hadn’t washed away my sin for all that."
+  },
+  {
+    "id": "ending-sentence-366",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: All they had told me [ … ] I was guilty.",
+    "answer": "was that",
+    "context": "I told him I didn’t know what a sin was."
+  },
+  {
+    "id": "ending-sentence-367",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I was guilty, I was paying for it, [ … ] could be asked of me.",
+    "answer": "and nothing more",
+    "context": "All they had told me was that I was guilty."
+  },
+  {
+    "id": "ending-sentence-368",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: At that point he stood up again, and the thought occurred to me that in such [ … ] to move around he didn’t have many options.",
+    "answer": "a narrow cell, if he wanted",
+    "context": "I was guilty, I was paying for it, and nothing more could be asked of me."
+  },
+  {
+    "id": "ending-sentence-369",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: He could either sit [ … ] stand up.",
+    "answer": "down or",
+    "context": "At that point he stood up again, and the thought occurred to me that in such a narrow cell, if he wanted to move around he didn’t have many options."
+  },
+  {
+    "id": "ending-sentence-370",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I was staring [ … ] ground.",
+    "answer": "at the",
+    "context": "He could either sit down or stand up."
+  },
+  {
+    "id": "ending-sentence-371",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: He took a step toward me and stopped, [ … ] didn’t dare come any closer.",
+    "answer": "as if he",
+    "context": "I was staring at the ground."
+  },
+  {
+    "id": "ending-sentence-372",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: He looked at the sky through the [ … ].",
+    "answer": "bars",
+    "context": "He took a step toward me and stopped, as if he didn’t dare come any closer."
+  },
+  {
+    "id": "ending-sentence-373",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: “You’re wrong, my [ … ] said.",
+    "answer": "son,” he",
+    "context": "He looked at the sky through the bars."
+  },
+  {
+    "id": "ending-sentence-374",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: “More could be [ … ] you.",
+    "answer": "asked of",
+    "context": "“You’re wrong, my son,” he said."
+  },
+  {
+    "id": "ending-sentence-375",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: And it [ … ] be asked.”",
+    "answer": "may",
+    "context": "“More could be asked of you."
+  },
+  {
+    "id": "ending-sentence-376",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "“And what’s that?”",
+    "context": "And it may be asked.”"
+  },
+  {
+    "id": "ending-sentence-377",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: “You could be [ … ] see.”",
+    "answer": "asked to",
+    "context": "“And what’s that?”"
+  },
+  {
+    "id": "ending-sentence-378",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "“See what?’",
+    "context": "“You could be asked to see.”"
+  },
+  {
+    "id": "ending-sentence-379",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: The priest gazed around my cell and answered in [ … ] very weary to me.",
+    "answer": "a voice that sounded",
+    "context": "“See what?’"
+  },
+  {
+    "id": "ending-sentence-380",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: “Every stone here sweats [ … ], I know that.",
+    "answer": "with suffering",
+    "context": "The priest gazed around my cell and answered in a voice that sounded very weary to me."
+  },
+  {
+    "id": "ending-sentence-381",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I have never looked at them [ … ] feeling of anguish.",
+    "answer": "without a",
+    "context": "“Every stone here sweats with suffering, I know that."
+  },
+  {
+    "id": "ending-sentence-382",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: But deep in my heart I know that the most wretched among [ … ] divine face emerge from their darkness.",
+    "answer": "you have seen a",
+    "context": "I have never looked at them without a feeling of anguish."
+  },
+  {
+    "id": "ending-sentence-383",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: That is the face [ … ] asked to see.”",
+    "answer": "you are",
+    "context": "But deep in my heart I know that the most wretched among you have seen a divine face emerge from their darkness."
+  },
+  {
+    "id": "ending-sentence-384",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: This perked me [ … ] little.",
+    "answer": "up a",
+    "context": "That is the face you are asked to see.”"
+  },
+  {
+    "id": "ending-sentence-385",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I said I had been looking at [ … ] these walls for months.",
+    "answer": "the stones in",
+    "context": "This perked me up a little."
+  },
+  {
+    "id": "ending-sentence-386",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: There wasn’t anything or anyone in [ … ] I knew better.",
+    "answer": "the world",
+    "context": "I said I had been looking at the stones in these walls for months."
+  },
+  {
+    "id": "ending-sentence-387",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: Maybe at [ … ] time, way back, I had searched for a face in them.",
+    "answer": "one",
+    "context": "There wasn’t anything or anyone in the world I knew better."
+  },
+  {
+    "id": "ending-sentence-388",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: But the face I was looking for was as bright as the sun and the flame of desire— and it belonged to [ … ].",
+    "answer": "Marie",
+    "context": "Maybe at one time, way back, I had searched for a face in them."
+  },
+  {
+    "id": "ending-sentence-389",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I had searched [ … ] in vain.",
+    "answer": "for it",
+    "context": "But the face I was looking for was as bright as the sun and the flame of desire— and it belonged to Marie."
+  },
+  {
+    "id": "ending-sentence-390",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: Now it [ … ] all over.",
+    "answer": "was",
+    "context": "I had searched for it in vain."
+  },
+  {
+    "id": "ending-sentence-391",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: And in any case, I’d never seen [ … ] any sweating stones.",
+    "answer": "anything emerge from",
+    "context": "Now it was all over."
+  },
+  {
+    "id": "ending-sentence-392",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: The [ … ] looked at me with a kind of sadness.",
+    "answer": "chaplain",
+    "context": "And in any case, I’d never seen anything emerge from any sweating stones."
+  },
+  {
+    "id": "ending-sentence-393",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: I now had my back flat against the [ … ] was streaming over my forehead.",
+    "answer": "wall, and light",
+    "context": "The chaplain looked at me with a kind of sadness."
+  },
+  {
+    "id": "ending-sentence-394",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: He muttered a few words I didn’t catch [ … ] if he could embrace me.",
+    "answer": "and abruptly asked",
+    "context": "I now had my back flat against the wall, and light was streaming over my forehead."
+  },
+  {
+    "id": "ending-sentence-395",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "“No,” I said.",
+    "context": "He muttered a few words I didn’t catch and abruptly asked if he could embrace me."
+  },
+  {
+    "id": "ending-sentence-396",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: He turned and walked over to the wall [ … ] his hand over it.",
+    "answer": "and slowly ran",
+    "context": "“No,” I said."
+  },
+  {
+    "id": "ending-sentence-397",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: “Do you really love this earth [ … ] as all that?”",
+    "answer": "as much",
+    "context": "He turned and walked over to the wall and slowly ran his hand over it."
+  },
+  {
+    "id": "ending-sentence-398",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "he murmured.",
+    "context": "“Do you really love this earth as much as all that?”"
+  },
+  {
+    "id": "ending-sentence-399",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 79,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "I didn’t answer.",
+    "context": "he murmured."
+  },
+  {
+    "id": "ending-sentence-400",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: He stood there with his back to [ … ] a long time.",
+    "answer": "me for quite",
+    "context": "I didn’t answer."
+  },
+  {
+    "id": "ending-sentence-401",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: His presence was [ … ] oppressive.",
+    "answer": "grating and",
+    "context": "He stood there with his back to me for quite a long time."
+  },
+  {
+    "id": "ending-sentence-402",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I was just about to tell him to go, to leave me alone, when all of [ … ] burst out, “No, I refuse to believe you!",
+    "answer": "a sudden, turning toward me, he",
+    "context": "His presence was grating and oppressive."
+  },
+  {
+    "id": "ending-sentence-403",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I know that at [ … ] time or another you’ve wished for another life.”",
+    "answer": "one",
+    "context": "I was just about to tell him to go, to leave me alone, when all of a sudden, turning toward me, he burst out, “No, I refuse to believe you!"
+  },
+  {
+    "id": "ending-sentence-404",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I said of course I had, but it didn’t mean any more than wishing to be rich, [ … ], or to have a more nicely shaped mouth.",
+    "answer": "to be able to swim faster",
+    "context": "I know that at one time or another you’ve wished for another life.”"
+  },
+  {
+    "id": "ending-sentence-405",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: It was [ … ] the same.",
+    "answer": "all",
+    "context": "I said of course I had, but it didn’t mean any more than wishing to be rich, to be able to swim faster, or to have a more nicely shaped mouth."
+  },
+  {
+    "id": "ending-sentence-406",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: But he stopped me and wanted to [ … ] pictured this other life.",
+    "answer": "know how I",
+    "context": "It was all the same."
+  },
+  {
+    "id": "ending-sentence-407",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: Then I shouted at him, “[ … ] where I could remember this life!”",
+    "answer": "One",
+    "context": "But he stopped me and wanted to know how I pictured this other life."
+  },
+  {
+    "id": "ending-sentence-408",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: and that’s when I [ … ] I’d had enough.",
+    "answer": "told him",
+    "context": "Then I shouted at him, “One where I could remember this life!”"
+  },
+  {
+    "id": "ending-sentence-409",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: He wanted to talk to me about [ … ] again, but I went up to him and made one last attempt to explain to him that I had only a little time left and I didn’t want to waste it on God.",
+    "answer": "God",
+    "context": "and that’s when I told him I’d had enough."
+  },
+  {
+    "id": "ending-sentence-410",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: He tried to change the subject by asking me why I was calling him “monsieur” and not “[ … ].”",
+    "answer": "father",
+    "context": "He wanted to talk to me about God again, but I went up to him and made one last attempt to explain to him that I had only a little time left and I didn’t want to waste it on God."
+  },
+  {
+    "id": "ending-sentence-411",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: That got me mad, and I told him he wasn’t my [ … ]; he wasn’t even on my side.",
+    "answer": "father",
+    "context": "He tried to change the subject by asking me why I was calling him “monsieur” and not “father.”"
+  },
+  {
+    "id": "ending-sentence-412",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: “Yes, my son,” he said, putting his hand [ … ], “I am on your side.",
+    "answer": "on my shoulder",
+    "context": "That got me mad, and I told him he wasn’t my father; he wasn’t even on my side."
+  },
+  {
+    "id": "ending-sentence-413",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: But you have no way of knowing [ … ] heart is blind.",
+    "answer": "it, because your",
+    "context": "“Yes, my son,” he said, putting his hand on my shoulder, “I am on your side."
+  },
+  {
+    "id": "ending-sentence-414",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I shall [ … ] for you.”",
+    "answer": "pray",
+    "context": "But you have no way of knowing it, because your heart is blind."
+  },
+  {
+    "id": "ending-sentence-415",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: Then, I don’t know why, [ … ] inside me snapped.",
+    "answer": "but something",
+    "context": "I shall pray for you.”"
+  },
+  {
+    "id": "ending-sentence-416",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I started yelling at the top of my lungs, and I insulted [ … ] to waste his prayers on me.",
+    "answer": "him and told him not",
+    "context": "Then, I don’t know why, but something inside me snapped."
+  },
+  {
+    "id": "ending-sentence-417",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I grabbed him by the [ … ] of his cassock.",
+    "answer": "collar",
+    "context": "I started yelling at the top of my lungs, and I insulted him and told him not to waste his prayers on me."
+  },
+  {
+    "id": "ending-sentence-418",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I was pouring out on him everything that was in [ … ] anger and cries of joy.",
+    "answer": "my heart, cries of",
+    "context": "I grabbed him by the collar of his cassock."
+  },
+  {
+    "id": "ending-sentence-419",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: He seemed so certain [ … ], didn’t he?",
+    "answer": "about everything",
+    "context": "I was pouring out on him everything that was in my heart, cries of anger and cries of joy."
+  },
+  {
+    "id": "ending-sentence-420",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: And yet none of his certainties was worth [ … ] hair of a woman’s head.",
+    "answer": "one",
+    "context": "He seemed so certain about everything, didn’t he?"
+  },
+  {
+    "id": "ending-sentence-421",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: He wasn’t even sure he was alive, because [ … ] like a dead man.",
+    "answer": "he was living",
+    "context": "And yet none of his certainties was worth one hair of a woman’s head."
+  },
+  {
+    "id": "ending-sentence-422",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: Whereas it looked as if I was the [ … ] who’d come up emptyhanded.",
+    "answer": "one",
+    "context": "He wasn’t even sure he was alive, because he was living like a dead man."
+  },
+  {
+    "id": "ending-sentence-423",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: But I was sure about me, about everything, surer than he could ever be, sure [ … ] the death I had waiting for me.",
+    "answer": "of my life and sure of",
+    "context": "Whereas it looked as if I was the one who’d come up emptyhanded."
+  },
+  {
+    "id": "ending-sentence-424",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: Yes, that was [ … ] had.",
+    "answer": "all I",
+    "context": "But I was sure about me, about everything, surer than he could ever be, sure of my life and sure of the death I had waiting for me."
+  },
+  {
+    "id": "ending-sentence-425",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: But at least I had as much of a [ … ] it had on me.",
+    "answer": "hold on it as",
+    "context": "Yes, that was all I had."
+  },
+  {
+    "id": "ending-sentence-426",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I had been right, I was [ … ] was always right.",
+    "answer": "still right, I",
+    "context": "But at least I had as much of a hold on it as it had on me."
+  },
+  {
+    "id": "ending-sentence-427",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I had lived my life [ … ] way and I could just as well have lived it another.",
+    "answer": "one",
+    "context": "I had been right, I was still right, I was always right."
+  },
+  {
+    "id": "ending-sentence-428",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I had done this [ … ] hadn’t done that.",
+    "answer": "and I",
+    "context": "I had lived my life one way and I could just as well have lived it another."
+  },
+  {
+    "id": "ending-sentence-429",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: I hadn’t done this thing [ … ] had done another.",
+    "answer": "but I",
+    "context": "I had done this and I hadn’t done that."
+  },
+  {
+    "id": "ending-sentence-430",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "And so?",
+    "context": "I hadn’t done this thing but I had done another."
+  },
+  {
+    "id": "ending-sentence-431",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: It was as if I had waited all this time for this moment [ … ] of this dawn to be vindicated.",
+    "answer": "and for the first light",
+    "context": "And so?"
+  },
+  {
+    "id": "ending-sentence-432",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: Nothing, nothing mattered, [ … ] knew why.",
+    "answer": "and I",
+    "context": "It was as if I had waited all this time for this moment and for the first light of this dawn to be vindicated."
+  },
+  {
+    "id": "ending-sentence-433",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "So did he.",
+    "context": "Nothing, nothing mattered, and I knew why."
+  },
+  {
+    "id": "ending-sentence-434",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 80,
+    "prompt": "Complete the sentence: Throughout the whole absurd life I’d lived, a dark wind had been rising toward me from somewhere deep in my future, across years that were still to come, and [ … ] me at the time, in years no more real than the ones I was living.",
+    "answer": "as it passed, this wind leveled whatever was offered to",
+    "context": "So did he."
+  },
+  {
+    "id": "ending-sentence-435",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: What did other people’s deaths or a [ … ]’s love matter to me; what did his God or the lives people choose or the fate they think they elect matter to me when we’re all elected by the same fate, me and billions of privileged people like him who also called themselves my brothers?",
+    "answer": "mother",
+    "context": "Throughout the whole absurd life I’d lived, a dark wind had been rising toward me from somewhere deep in my future, across years that were still to come, and as it passed, this wind leveled whatever was offered to me at the time, in years no more real than the ones I was living."
+  },
+  {
+    "id": "ending-sentence-436",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Couldn’t he see, [ … ] see that?",
+    "answer": "couldn’t he",
+    "context": "What did other people’s deaths or a mother’s love matter to me; what did his God or the lives people choose or the fate they think they elect matter to me when we’re all elected by the same fate, me and billions of privileged people like him who also called themselves my brothers?"
+  },
+  {
+    "id": "ending-sentence-437",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: [ … ]",
+    "answer": "Everybody was privileged.",
+    "context": "Couldn’t he see, couldn’t he see that?"
+  },
+  {
+    "id": "ending-sentence-438",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: There were [ … ] privileged people.",
+    "answer": "only",
+    "context": "Everybody was privileged."
+  },
+  {
+    "id": "ending-sentence-439",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: The others would all be condemned [ … ] day.",
+    "answer": "one",
+    "context": "There were only privileged people."
+  },
+  {
+    "id": "ending-sentence-440",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: And he would [ … ], too.",
+    "answer": "be condemned",
+    "context": "The others would all be condemned one day."
+  },
+  {
+    "id": "ending-sentence-441",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: What would it matter if he were accused of murder and then executed because he didn’t cry at his [ … ]’s funeral?",
+    "answer": "mother",
+    "context": "And he would be condemned, too."
+  },
+  {
+    "id": "ending-sentence-442",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Salamano’s dog was worth just as much as his [ … ].",
+    "answer": "wife",
+    "context": "What would it matter if he were accused of murder and then executed because he didn’t cry at his mother’s funeral?"
+  },
+  {
+    "id": "ending-sentence-443",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: The little robot woman was just as guilty as the Parisian woman Masson [ … ], or as Marie, who had wanted me to marry her.",
+    "answer": "married",
+    "context": "Salamano’s dog was worth just as much as his wife."
+  },
+  {
+    "id": "ending-sentence-444",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: What did it matter that Raymond was as much my friend as [ … ], who was worth a lot more than him?",
+    "answer": "Céleste",
+    "context": "The little robot woman was just as guilty as the Parisian woman Masson married, or as Marie, who had wanted me to marry her."
+  },
+  {
+    "id": "ending-sentence-445",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: What did it matter that [ … ] now offered her lips to a new Meursault?",
+    "answer": "Marie",
+    "context": "What did it matter that Raymond was as much my friend as Céleste, who was worth a lot more than him?"
+  },
+  {
+    "id": "ending-sentence-446",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Couldn’t he, couldn’t this condemned man see … And that from somewhere deep [ … ] shouting had me gasping for air.",
+    "answer": "in my future … All the",
+    "context": "What did it matter that Marie now offered her lips to a new Meursault?"
+  },
+  {
+    "id": "ending-sentence-447",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: But they were already tearing the [ … ] from my grip and the guards were threatening me.",
+    "answer": "chaplain",
+    "context": "Couldn’t he, couldn’t this condemned man see … And that from somewhere deep in my future … All the shouting had me gasping for air."
+  },
+  {
+    "id": "ending-sentence-448",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: He calmed them, though, and looked at [ … ] moment without saying anything.",
+    "answer": "me for a",
+    "context": "But they were already tearing the chaplain from my grip and the guards were threatening me."
+  },
+  {
+    "id": "ending-sentence-449",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: His [ … ] were full of tears.",
+    "answer": "eyes",
+    "context": "He calmed them, though, and looked at me for a moment without saying anything."
+  },
+  {
+    "id": "ending-sentence-450",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Then he [ … ] and disappeared.",
+    "answer": "turned",
+    "context": "His eyes were full of tears."
+  },
+  {
+    "id": "ending-sentence-451",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: With him gone, I was [ … ] calm down again.",
+    "answer": "able to",
+    "context": "Then he turned and disappeared."
+  },
+  {
+    "id": "ending-sentence-452",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: I was exhausted and [ … ] on my bunk.",
+    "answer": "threw myself",
+    "context": "With him gone, I was able to calm down again."
+  },
+  {
+    "id": "ending-sentence-453",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: I must have fallen asleep, because I woke up with the [ … ] in my face.",
+    "answer": "stars",
+    "context": "I was exhausted and threw myself on my bunk."
+  },
+  {
+    "id": "ending-sentence-454",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Sounds of the [ … ] drifting in.",
+    "answer": "countryside were",
+    "context": "I must have fallen asleep, because I woke up with the stars in my face."
+  },
+  {
+    "id": "ending-sentence-455",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Smells of night, earth, and salt [ … ] cooling my temples.",
+    "answer": "air were",
+    "context": "Sounds of the countryside were drifting in."
+  },
+  {
+    "id": "ending-sentence-456",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: The wondrous peace of that sleeping summer [ … ] like a tide.",
+    "answer": "flowed through me",
+    "context": "Smells of night, earth, and salt air were cooling my temples."
+  },
+  {
+    "id": "ending-sentence-457",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Then, in the dark hour before dawn, [ … ] blasted.",
+    "answer": "sirens",
+    "context": "The wondrous peace of that sleeping summer flowed through me like a tide."
+  },
+  {
+    "id": "ending-sentence-458",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: They were announcing departures for a world that [ … ] meant nothing to me.",
+    "answer": "now and forever",
+    "context": "Then, in the dark hour before dawn, sirens blasted."
+  },
+  {
+    "id": "ending-sentence-459",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: For the first time in a long time I thought about [ … ].",
+    "answer": "Maman",
+    "context": "They were announcing departures for a world that now and forever meant nothing to me."
+  },
+  {
+    "id": "ending-sentence-460",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: I felt as if I understood why at the end of her life [ … ],” why she had played at beginning again.",
+    "answer": "she had taken a “fiance",
+    "context": "For the first time in a long time I thought about Maman."
+  },
+  {
+    "id": "ending-sentence-461",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Even there, in that home where lives were fading [ … ] kind of wistful respite.",
+    "answer": "out, evening was a",
+    "context": "I felt as if I understood why at the end of her life she had taken a “fiance,” why she had played at beginning again."
+  },
+  {
+    "id": "ending-sentence-462",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: So close to death, [ … ] must have felt free then and ready to live it all again.",
+    "answer": "Maman",
+    "context": "Even there, in that home where lives were fading out, evening was a kind of wistful respite."
+  },
+  {
+    "id": "ending-sentence-463",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Nobody, nobody had the [ … ] cry over her.",
+    "answer": "right to",
+    "context": "So close to death, Maman must have felt free then and ready to live it all again."
+  },
+  {
+    "id": "ending-sentence-464",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: And I felt ready to [ … ] all again too.",
+    "answer": "live it",
+    "context": "Nobody, nobody had the right to cry over her."
+  },
+  {
+    "id": "ending-sentence-465",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: As if that blind rage had washed me clean, rid me of hope; for the first time, in that night alive with signs and [ … ], I opened myself to the gentle indifference of the world.",
+    "answer": "stars",
+    "context": "And I felt ready to live it all again too."
+  },
+  {
+    "id": "ending-sentence-466",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: Finding it so much like myself—so like a brother, really—I felt [ … ] and that I was happy again.",
+    "answer": "that I had been happy",
+    "context": "As if that blind rage had washed me clean, rid me of hope; for the first time, in that night alive with signs and stars, I opened myself to the gentle indifference of the world."
+  },
+  {
+    "id": "ending-sentence-467",
+    "kind": "Sentence recall",
+    "chapter": 5,
+    "page": 81,
+    "prompt": "Complete the sentence: For everything to be consummated, for me to feel less alone, I had only to wish that there be a [ … ] my execution and that they greet me with cries of hate.",
+    "answer": "large crowd of spectators the day of",
+    "context": "Finding it so much like myself—so like a brother, really—I felt that I had been happy and that I was happy again."
+  }
+]

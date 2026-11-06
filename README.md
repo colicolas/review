@@ -63,3 +63,11 @@ Route: `/subjects/computer-science/2026-11-05-coding-standards/`.
 Based on the four-page 2026 course PDF in `public/jess-coding-standards-2026.pdf`. The bank in `src/data/jess-questions.json` has 150 problems: 50 recall, 40 diagnoses, 30 rewrites, 20 exception checks, and 10 interactive five-error sections. Sessions shuffle without repeats, filter by standard and question type, and save missed problem IDs locally. Five-error line selections are checked automatically; written explanations and rewrites use self-assessment against a key, not a Jess interpreter.
 
 Run `node scripts/check-coding-bank.mjs` on Node 22+ to validate bank integrity, five-line grading edge cases, and nonrepeating shuffled decks. Snippets explicitly assume omitted file headers, documentation, and bounding blank lines unless the prompt tests them.
+
+## English reading quiz · November 6
+
+Route: `/subjects/english/2026-11-06-the-stranger-ending/`.
+
+Pages 98–end continues the previous reading with Part Two, chapters 4–5 (digital PDF pages 67–82). Includes a ten-step plot progression, a speaker/reference guide, 199 authored detail/speaker/sequence questions, and 467 sentence-recall cards. The original November 4 quiz and its saved missed questions remain intact. The ending quiz uses its own `stranger-ending-quiz-missed` browser-storage key, with chapter filters for chapters 4 and 5.
+
+The authored bank is `src/data/stranger-ending-details.json`. Run `node scripts/build-stranger-recall.mjs /absolute/path/to/pdfkit-extraction.txt --ending` to rebuild only the ending sentence cards. The book’s download-information footer is excluded. Run `node scripts/check-reading-banks.mjs` to validate both banks and render-check the two review variants and chapter filters.
